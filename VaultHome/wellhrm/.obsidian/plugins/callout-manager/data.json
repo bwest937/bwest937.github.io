@@ -1,0 +1,52 @@
+{
+  "callouts": {
+    "custom": [
+      "restorative",
+      "weapon",
+      "monsterbits",
+      "monsterbit",
+      "condition",
+      "tablex",
+      "food"
+    ],
+    "settings": {
+      "monsterbit": [
+        {
+          "changes": {
+            "icon": "lucide-bone",
+            "color": "12, 172, 169"
+          }
+        }
+      ],
+      "condition": [
+        {
+          "changes": {
+            "icon": "lucide-asterisk",
+            "color": "136, 208, 88"
+          }
+        }
+      ],
+      "tablex": [
+        {
+          "changes": {
+            "icon": "lucide-table",
+            "color": "82, 139, 212"
+          }
+        }
+      ],
+      "food": [
+        {
+          "changes": {
+            "icon": "lucide-fork-knife-crossed",
+            "color": "253, 83, 89"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": false
+  }
+}

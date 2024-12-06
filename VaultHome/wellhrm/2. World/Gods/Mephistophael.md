@@ -1,0 +1,2 @@
+
+An undead, angel-demon said to collect the souls of the recently deceased, who in their lives committed the worst crimes imaginable. Mephistophael butchers, tortures and ensures that all possible horrors are inflicted upon those it collects as punishment for the things they did in life.

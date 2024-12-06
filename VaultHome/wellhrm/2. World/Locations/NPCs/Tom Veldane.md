@@ -1,0 +1,1 @@
+Tom Vedane and his wife [[Felona Veldane]] run a neatly kept cosmetics and jewelry shop. They are relative newcomers to Wellhrm, having lived here only half a dozen years, and they still feel lonely and friendless. Will disclose rumours to anyone who bothers to chat. Sometimes eat together at the Inn.

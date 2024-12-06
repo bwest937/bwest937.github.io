@@ -1,0 +1,19 @@
+{
+  "readableLineLength": false,
+  "livePreview": false,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Z_Attach",
+  "showInlineTitle": true,
+  "propertiesInDocument": "hidden",
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
