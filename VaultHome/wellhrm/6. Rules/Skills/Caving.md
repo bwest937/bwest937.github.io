@@ -17,10 +17,12 @@ Characters are assumed to be moving at half exploration speed (120 ft/turn) when
 Choose a pace, and up your modifiers. If you are at 6 or more, you automatically succeed. Otherwise, roll 1d6 + DEX and compare to the table below.
 
 #### Chance of Success
+
 | Pace  | Crawl  | Squeeze |
 | ----- | ------ | ------- |
 | Creep | 7-in-6 | 4-in-6  |
 | Half  | 5-in-6 | 3-in-6  |
+
 #### ADD 1-IN-6 IF:
 
 - You have a rope-line or handholds through the passage.

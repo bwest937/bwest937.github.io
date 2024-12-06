@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. World/Locations/Encounters/Dule Tree.md",
+                "file": "6. Rules/Skills/Caving.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dule Tree"
+              "title": "Caving"
             }
           }
         ]
@@ -181,15 +181,22 @@
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": true,
       "templates:Insert template": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false
     }
   },
   "active": "56fb81b65023d976",
   "lastOpenFiles": [
+    "6. Rules/Death.md",
+    "6. Rules/Magical Items.md",
+    "6. Rules/Monster CL XP Save.pdf",
+    "Welcome.md",
+    "Meta Notes.md",
+    "cs.md",
+    "2. World/Locations/Encounters/Dule Tree.md",
     "1. DM Screen/1. DM Screen.md",
     "2. World/Locations/Encounters/Untitled.md",
     "2. World/Locations/Encounters/Bog  Mummy.md",
@@ -210,16 +217,9 @@
     "6.  Rules/Skills/Open Doors.md",
     "1. DM Screen/Move.md",
     "1. DM Screen/Hex Points.md",
-    "1. DM Screen/Combat Steps.md",
-    "4. Bestiary/Bandito, Netter.md",
-    "4. Bestiary/Bandito, Human.md",
-    "2. World/Locations/Encounters/His Bebarbeled Majesty.md",
     "6. Rules/Skills",
-    "6.  Rules/Feats of Exploration.md",
-    "2. World/Locations/Wellhrm/Mill and Bakery.md",
     "Z_Attach/DragonTick.png",
     "Z_Attach/Pasted image 20241024174338.png",
-    "6. Rules/Monster CL XP Save.pdf",
     "4. Bestiary/Untitled",
     "Z_Attach/LHNGoblin1.png",
     "Z_Attach/LHNGoblin2.png",
