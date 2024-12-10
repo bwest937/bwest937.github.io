@@ -17,7 +17,9 @@ Bits:
 
 ___
 
-## Stats
+## `=this.file.name`
+
+### Stats
 
 |                  |                         |
 | ---------------- | ----------------------- |
@@ -32,7 +34,7 @@ ___
 | Bits             | `=this.bits`            | 
 
 
-## Description
+### Description
 
 ### Abilities
 **Blood Drain:** On bite, save versus breath, failure means the Dragon Tick begins to burrow into the body, dealing 1d4 automatic damage each round as it drains the victim’s blood. A successful strength check stops this process by violently ripping the Dragon Tick away

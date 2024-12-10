@@ -33,4 +33,4 @@ Your success and failure counts are reset to zero when you regain any hit points
 
 **Damage at 0 or negative HP:** If you take any damage while you have 0 hit points, you immediately suffer a death saving throw failure, as well as the damage.
  
-**Stabilizing a Creature:**  A stable creature is no longer Dying, but it does remain unconscious. If it takes any damage, the creature stops being stable, and must start making death saving throws again. A party member can try to help stabilize a still-dying ally once out of combat, this grants advantage on any remaining death saves.
+**Stabilizing a Creature:**  A stable creature is no longer Dying, but it does remain unconscious. If it takes any damage, the creature stops being stable, and must start making death saving throws again. A party member can stabilize a still-dying ally once out of combat.

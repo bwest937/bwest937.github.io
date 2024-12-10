@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67e7711e60d3cffd",
+        "id": "f52b173fbdd0c015",
         "type": "tabs",
         "children": [
           {
-            "id": "56fb81b65023d976",
+            "id": "b88943786bbace5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Rules/Skills/Caving.md",
+                "file": "1. DM Screen/Hex Points.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Caving"
+              "title": "Hex Points"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 294.5024719238281
   },
   "right": {
     "id": "b1f2dd8e83744340",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.  Rules/Skills/Caving.md",
+                "file": "4. Bestiary/Beetle, Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Caving"
+              "title": "Backlinks for Beetle, Fire"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.  Rules/Feats of Exploration.md",
+                "file": "4. Bestiary/Beetle, Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Feats of Exploration"
+              "title": "Outgoing links from Beetle, Fire"
             }
           },
           {
@@ -163,18 +163,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Bestiary/Bits/Dragon Tick.md"
+                "file": "4. Bestiary/Beetle, Fire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dragon Tick"
+              "title": "Outline of Beetle, Fire"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,38 +189,44 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "56fb81b65023d976",
+  "active": "b88943786bbace5a",
   "lastOpenFiles": [
-    "6. Rules/Death.md",
+    "7. Sessions/March 1.md",
     "6. Rules/Magical Items.md",
-    "6. Rules/Monster CL XP Save.pdf",
+    "1. DM Screen/Hex Points.md",
+    "6. Rules/Wilderness/Griffon.md",
+    "6. Rules/Wilderness/Weather.md",
+    "6. Rules/Wilderness/Daily Procedure.md",
+    "Z_Attach/wellhrm_player_v1.png",
+    "Z_Attach/S&W Ranger.png",
+    "Z_Attach/Pasted image 20241207184237.png",
+    "Z_Attach/Pasted image 20241207184201.png",
+    "Z_Attach/Pasted image 20241024174338.png",
     "Welcome.md",
     "Meta Notes.md",
-    "cs.md",
-    "2. World/Locations/Encounters/Dule Tree.md",
-    "1. DM Screen/1. DM Screen.md",
-    "2. World/Locations/Encounters/Untitled.md",
-    "2. World/Locations/Encounters/Bog  Mummy.md",
-    "6. Rules/Skills/Caving.md",
-    "6. Rules/Skills/Climbing.md",
-    "6. Rules/Skills/Normie Skills.md",
-    "6. Rules/Skills/Tracking.md",
-    "6. Rules/Classes/Classes.md",
-    "6. Rules/6. Rules.md",
-    "4. Bestiary/4. Bestiary.md",
-    "6. Rules/Classes/Hunter.md",
-    "5. Items/5. Items.md",
-    "6. Rules/Skills/Skills.md",
-    "6. Rules/Conditions/Falling.md",
-    "6. Rules/Conditions/Stuck.md",
-    "6. Rules/Conditions/Resistance, Fire.md",
-    "6. Rules/Conditions/Mummy Rot.md",
-    "6.  Rules/Skills/Open Doors.md",
+    "2. World/Locations/Wellhrm/Mill and Bakery.md",
     "1. DM Screen/Move.md",
-    "1. DM Screen/Hex Points.md",
+    "1. DM Screen/Economy.md",
+    "1. DM Screen/Combat Steps.md",
+    "2. World/Locations/Wellhrm/Apothecary.md",
+    "1. DM Screen/1. DM Screen.md",
+    "2. World/Locations/Encounters/Blister Pack.md",
+    "4. Bestiary/Troglodyte.md",
+    "4. Bestiary/Mummy.md",
+    "4. Bestiary/Marsh Troll.md",
+    "4. Bestiary/Manikin.md",
+    "4. Bestiary/Lesser Havenland Night Goblin.md",
+    "4. Bestiary/Dragon Tick.md",
+    "2. World/Locations/Encounters/His Bebarbeled Majesty.md",
+    "2. World/Locations/Encounters/Goblin Spear.md",
+    "2. World/Locations/Player Map.md",
+    "2. World/Locations/Gloomberry Inch.md",
+    "2. World/Locations/Campsite.md",
+    "7. Sessions",
+    "Z_Attach/econonmy_make_this_text.png",
+    "6. Rules/Monster CL XP Save.pdf",
     "6. Rules/Skills",
     "Z_Attach/DragonTick.png",
-    "Z_Attach/Pasted image 20241024174338.png",
     "4. Bestiary/Untitled",
     "Z_Attach/LHNGoblin1.png",
     "Z_Attach/LHNGoblin2.png",
@@ -227,15 +234,9 @@
     "2. World/Locations/NPCs",
     "6. Rules/Wilderness",
     "Z_Attach/Beautiful-Bridge-in-Forest-with-River-Graphics-56707713-1-580x387-2975124510.jpg",
-    "Z_Attach/Cindersham_image.png",
-    "Z_Attach/Corpse Vine.png",
-    "Z_Attach/wellhrm_player_v1.png",
-    "Z_Attach/S&W Ranger.png",
     "4. Bestiary/Bits",
     "2. World/Locations/Dungeons",
     "2. World/Locations/Wellhrm/Untitled",
-    "Untitled",
-    "Z_Attach/Marsh Troll.png",
     "Untitled.canvas"
   ]
 }

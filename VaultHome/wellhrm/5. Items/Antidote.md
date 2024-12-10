@@ -1,5 +1,5 @@
 ---
-slots: 1/4
+slots: 1/3
 ---
 
 > [!restorative] `=this.file.name`

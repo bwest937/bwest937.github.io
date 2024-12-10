@@ -1,9 +1,9 @@
 ---
-slots: 1/10
+slots: 1/4
 ---
 
 > [!food] `=this.file.name`
-> A custom blend of cooking herbs. One serving is enough for one meal for up to 8 people.
+> A custom blend of cooking herbs. One bundle is enough for one meal.
 > 
 > **Slots:** `=this.slots`
 

@@ -45,9 +45,6 @@ For Wellhrm, I like one of these luring as in the picture, but with more lurking
 This monster teaches about breath weapons! Cone size, let's say 2ft -> 20 ft at widest.
 
 
-
-
-
 ### Social
 Alignment: `=this.alignment`
 Number Encountered: 
