@@ -1,0 +1,2 @@
+> [!skill] Find or remove treasure traps
+>  This skill is for disabling or removing small mechanical traps such as poisoned needles. Some item traps are detected automatically, but removing them always requires a roll.
