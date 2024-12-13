@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Screen/Hex Points.md",
+                "file": "2. World/Locations/Dungeons/Mill Basement.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hex Points"
+              "title": "Mill Basement"
             }
           }
         ]
@@ -191,9 +191,15 @@
   },
   "active": "b88943786bbace5a",
   "lastOpenFiles": [
+    "Z_Attach/Marsh Troll.png",
+    "2. World/Locations/Dungeons/Mill Basement.md",
+    "2. World/Locations/Dungeons/Temple.md",
+    "4. Bestiary/Marsh Troll.md",
+    "1. DM Screen/1. DM Screen.md",
+    "2. World/Locations/Player Map.md",
+    "1. DM Screen/Hex Points.md",
     "7. Sessions/March 1.md",
     "6. Rules/Magical Items.md",
-    "1. DM Screen/Hex Points.md",
     "6. Rules/Wilderness/Griffon.md",
     "6. Rules/Wilderness/Weather.md",
     "6. Rules/Wilderness/Daily Procedure.md",
@@ -209,19 +215,13 @@
     "1. DM Screen/Economy.md",
     "1. DM Screen/Combat Steps.md",
     "2. World/Locations/Wellhrm/Apothecary.md",
-    "1. DM Screen/1. DM Screen.md",
     "2. World/Locations/Encounters/Blister Pack.md",
     "4. Bestiary/Troglodyte.md",
     "4. Bestiary/Mummy.md",
-    "4. Bestiary/Marsh Troll.md",
     "4. Bestiary/Manikin.md",
     "4. Bestiary/Lesser Havenland Night Goblin.md",
     "4. Bestiary/Dragon Tick.md",
     "2. World/Locations/Encounters/His Bebarbeled Majesty.md",
-    "2. World/Locations/Encounters/Goblin Spear.md",
-    "2. World/Locations/Player Map.md",
-    "2. World/Locations/Gloomberry Inch.md",
-    "2. World/Locations/Campsite.md",
     "7. Sessions",
     "Z_Attach/econonmy_make_this_text.png",
     "6. Rules/Monster CL XP Save.pdf",
@@ -233,7 +233,6 @@
     "swords_and_wizardry_ref - shortcut.lnk.lnk",
     "2. World/Locations/NPCs",
     "6. Rules/Wilderness",
-    "Z_Attach/Beautiful-Bridge-in-Forest-with-River-Graphics-56707713-1-580x387-2975124510.jpg",
     "4. Bestiary/Bits",
     "2. World/Locations/Dungeons",
     "2. World/Locations/Wellhrm/Untitled",
