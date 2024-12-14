@@ -1,3 +1,7 @@
+#### embed
+https://publish.obsidian.md/slrvb-docs/ITS+Theme/Embed+Adjustments
+
+https://www.adventurelookup.com/adventures
 
 https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide
 

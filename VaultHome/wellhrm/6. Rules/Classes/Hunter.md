@@ -27,8 +27,10 @@ Hunters have a +1 bonus on all saving throws except against those against magic 
 
 ### Skills
 
-- **High Ground:** Hunters roll with advantage on Climbing checks.
-- **Tracking:** Hunters are able to track down creatures in the wild, in cities, and even through underground passages.
+**Good Climber:** Hunters roll with advantage on Climbing checks. Seek the high ground!
+
+### Hunter Class Skills
+![[Tracking|clean]]
 
 
 
@@ -37,7 +39,7 @@ Hunters have a +1 bonus on all saving throws except against those against magic 
 
 | Level |  XP   | HD  | Saving Throw | BAB | Special                                           |
 |:-----:|:-----:|:---:|:------------:|:---:|:------------------------------------------------- |
-|   1   |   0   | 1d8 |      15      |  0  | Damage Bonus, Lucky Miss, High Ground, Tracking   | 
+|   1   |   0   | 1d8 |      15      |  0  | Damage Bonus, Lucky Miss, Good Climber, Tracking  | 
 |   2   | 2,100 | 2d8 |      14      |  0  | Sidearmed                                         |
 |   3   | 4,200 | 3d8 |      13      |  1  |                                                   |
 |   4   | 8,400 | 4d8 |      12      |  2  | Second Melee (Odd Round) or Second Sidearm Attack |

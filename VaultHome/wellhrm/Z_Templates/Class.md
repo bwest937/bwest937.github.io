@@ -36,7 +36,7 @@ Hunters have a +1 bonus on all saving throws except against those against magic 
 ## `=this.classname` Level Progression
 
 
-| Level | XP | HD | Saving Throw | BAB | Special |
+| **Level** | **XP** | **HD** | **Saving Throw** | **BAB** | **Special** |
 |:-:|:----------:|:---:|:--:|:-:|:----------------------------------------------------------------|
 | 1 | 0          | 1d8 | 15 | 0 | Damage Bonus, Lucky Miss, High Ground, Pathfinder, Tracking     |
 | 2 | 2,100      | 2d8 | 14 | 0 | Sidearmed                                                       |

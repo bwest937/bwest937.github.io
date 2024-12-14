@@ -1,11 +1,22 @@
-## CAVING
+---
+die: 1d6
+ability: DEX (save)
+base: depends on pace and passage size
+advantage:
+---
 
-“**To cave” means the action of traversing narrow, enclosed spaces.** To cave means to get down on all fours and cram yourself through very tight passageways. It is messy, risky, and claustrophobic. All caving implies only one character at a time can traverse the passage.
+### `=this.file.name`
 
-### Pace
+> [!skill] `=this.file.name`
+> #normal_skill 
+>`=this.die`, base chance depends on pace and passage size
+
+“***To cave*” means the action of traversing narrow, enclosed spaces.** To cave means to get down on all fours and cram yourself through very tight passageways. It is messy, risky, and claustrophobic. All caving implies only one character at a time can traverse the passage.
+
+#### Pace
 Characters are assumed to be moving at half exploration speed (120 ft/turn) when caving. You can choose to creep instead at 60ft better odds.
 
-### Passage Size
+#### Passage Size
 
 **Grave:** A passage about 5 ft wide at its narrowest. No caving roll is required, but only one character can traverse at a time. 
 
@@ -13,10 +24,10 @@ Characters are assumed to be moving at half exploration speed (120 ft/turn) when
 
 **Squeeze:** A passage about 1–2 feet wide at its narrowest. You must lie on your belly (or back) and slither forward like a snake. You’ll feel every inch of the tunnel, mostly through your shoulders and thighs.
 
-### Caving Roll
+#### Caving Roll
 Choose a pace, and up your modifiers. If you are at 6 or more, you automatically succeed. Otherwise, roll 1d6 + DEX and compare to the table below.
 
-#### Chance of Success
+##### Chance of Success
 
 | Pace  | Crawl  | Squeeze |
 | ----- | ------ | ------- |

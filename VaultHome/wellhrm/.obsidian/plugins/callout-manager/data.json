@@ -6,8 +6,9 @@
       "monsterbits",
       "monsterbit",
       "condition",
-      "tablex",
-      "food"
+      "food",
+      "skill",
+      "potion"
     ],
     "settings": {
       "monsterbit": [
@@ -26,19 +27,19 @@
           }
         }
       ],
-      "tablex": [
-        {
-          "changes": {
-            "icon": "lucide-table",
-            "color": "82, 139, 212"
-          }
-        }
-      ],
       "food": [
         {
           "changes": {
             "icon": "lucide-fork-knife-crossed",
             "color": "253, 83, 89"
+          }
+        }
+      ],
+      "skill": [
+        {
+          "changes": {
+            "icon": "lucide-zap",
+            "color": "25, 215, 183"
           }
         }
       ]

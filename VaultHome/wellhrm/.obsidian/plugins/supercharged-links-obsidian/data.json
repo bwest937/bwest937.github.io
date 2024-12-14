@@ -33,6 +33,30 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "5. Items/Consumables/Potions/",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "8793-01ba",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "5. Items/Consumables/Food",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "eea8-ab74",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

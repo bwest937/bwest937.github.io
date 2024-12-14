@@ -6,7 +6,7 @@ advantage: ["[[Thiefers]]"]
 tags: "#class_skill"
 ---
 
-> [!skill]  Find or Remove Treasure Traps
+> [!skill] `=this.file.name`
 >  
 >**Roll:** `=this.die`
 >**Base chance:** `=this.base`

@@ -37,7 +37,7 @@ ___
 ### Description
 Dark creepers are humanoids that stand just under 4 feet tall, always swathed in heavy, dark cloaks and wrappings. Their flesh is pale and moist, and their eyes are milky white. Dark creepers exude a foul stench of sweat and spoiled food, owing primarily to the fact that they never take off their clothing—instead piling on new layers when the outermost one grows too ragged. Dark creepers lurk in the black places deep below the surface of the world, venturing forth at night or into neighboring societies when the urge to steal and cause mayhem grows too great to resist. Endless layers of filthy, moldering black cloth shroud these small creatures, leading some to believe that the creature inside is smaller still. Usually encountered in groups, dark creepers **flee from bright light**, but are quite brave in the darkness.
 
- Dark creepers use daggers in combat, coating them with the poison called *black smear*. 
+ Dark creepers use daggers in combat, coating them with the poison called *black smear*. Once they hit, the poison is consumed.
  
  Dark creepers (and dark stalkers) are able to employ magic to create a very deep darkness, much more potent than ordinary darkness/ light spells.  
  

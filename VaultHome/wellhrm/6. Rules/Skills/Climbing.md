@@ -1,9 +1,17 @@
-## Climbing
+---
+die: 1d6
+ability: STR (save)
+base: depends on pace and angle
+advantage: ["[[Thiefers]], [[Hunter]]"]
+---
+
+> [!skill] `=this.file.name`
+> #normal_skill 
+>`=this.die`, base chance depends on pace and passage size
 
 **Anytime you need to travel up or down at an angle sharper than you can walk, it’s climbing.** You climb to hike mountain paths, to scale fortress walls, to shimmy up cavern ceilings, and to hang off the undersides of great beasts. It’s dangerous, like all good things.
 
- 
-### Pace
+ ### Pace
 Climbing allows for three paces: normal, half, creep. Slower has better odds of success.
 
 ### Angles of Ascent

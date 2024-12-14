@@ -1,10 +1,12 @@
-## Wandering Monsters
+## Wandering Monsters  1/6 Every Turn
 
-| **1d3** | **Result**                         |
-| ------- | ---------------------------------- |
-| 1       | 2d10 giant rats (maybe 2 pods?)    |
-| 2       | 2d6 Tunnel prawn                   |
-| 3       | 3 [[Dark Creeper]] (only once, remember they have lv 4 thief skills) | 
+| **1d3** | **Result**                                                           |
+| ------- | -------------------------------------------------------------------- |
+| 1       | 1d6-1 pods of 1d10 [[Rat, Giant]]                                       | 
+| 2       | 2d6 [[Tunnel prawn]]                                                 |
+| 3       | 3 [[Dark Creeper]] (only once, remember they have lv 4 thief skills) |
+
+There are 50 rats total, keep track. If more than half show up at any time, that's the nest! Nest has 169gp and
 
 ## Dungeon Key
 
