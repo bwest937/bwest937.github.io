@@ -816,13 +816,13 @@ ___
 
 - **Spell Level:** Magic-User, 2nd Level
 
-- **Range:** 60 ft x [MD]
+- **Range:** 20 ft x [MD]
 
 - **Duration:**  2 hours
 
 ___
 
-The caster can detect the thoughts of other beings at a distance of 60 feet/[MD]. To pick up thoughts, the caster must focus their concentration in one direction for one turn. If multiple creatures are within range in the direction being focused on, the caster perceives an incomprehensible mix of all their thoughts. If the caster focuses for an additional turn, they can filter out and understand a single creature’s thoughts. The caster can magically understand thoughts in languages they do not speak. The spell cannot penetrate more than two feet of stone, and is blocked by even a thin sheet of lead.
+The caster can detect the thoughts of other beings at a distance of 20 feet/[MD]. To pick up thoughts, the caster must focus their concentration in one direction for one turn. If multiple creatures are within range in the direction being focused on, the caster perceives an incomprehensible mix of all their thoughts. If the caster focuses for an additional turn, they can filter out and understand a single creature’s thoughts. The caster can magically understand thoughts in languages they do not speak. The spell cannot penetrate more than two feet of stone, and is blocked by even a thin sheet of lead.
 
   
   
