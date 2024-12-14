@@ -26,12 +26,12 @@ Roll 1d4 on the following table to see what kind of rolls are affected.
 
   
 
-| <span class="TableBold">1d4</span> | <span class="TableBold">Affected Rolls</span>  |
-|:----------------------------------:|:---------------------------------------------- |
-|                 1                  | To hit                                         |
-|                 2                  | Damage                                         |
-|                 3                  | Save                                           |
-|                 4                  | Defensive spell duration/offensive spell range |
+| <span class="TableBold">1d4</span> | <span class="TableBold">Affected Rolls</span> |
+|:----------------------------------:|:--------------------------------------------- |
+|                 1                  | To hit                                        |
+|                 2                  | Damage                                        |
+|                 3                  | Save                                          |
+|                 4                  | [MD] pips                                     | 
 
 Roll 1d6 on the following table to determine the modifier to the affected rolls.
 

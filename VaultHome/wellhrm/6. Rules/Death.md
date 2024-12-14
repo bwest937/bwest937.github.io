@@ -19,18 +19,19 @@ A cleric with a maximum of 12 hit points currently has 6 HP. If she takes 18 dam
 
 ### Dying
 
-If damage reduces you to 0 hit points and fails to kill you, you fall unconscious and are Dying. Dying creatures cannot act, and if in combat or a dangerous situation, begin making Death Saving Throws instead.
+If damage reduces you to 0 hit points and fails to kill you, you fall unconscious and are Dying. Dying creatures cannot act, and if in combat or a dangerous situation, begin making death saving throws instead. Death saves continue until you are dead, alive, or stabilized.
 
-### Death Saving Throws
+#### Death Saving Throws
 
-When Dying, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life.
+Roll a d20 and add (or subtract) your CON bonus. If the total is 10 or higher, you cling to life, for now.  On your second failure, you **die**.
 
-Roll a d20 and add (or subtract) your CON bonus. If the roll is 10 or higher, you succeed. Otherwise, you fail. On your third success, you become **stable** (see below). On your third failure, you **die**.
-  
-Your success and failure counts are reset to zero when you regain any hit points or become stable. The best way to save a creature with 0 hit points is to heal it. Any healing will automatically stabilize a dying creature and bring them up to 0 HP. If the amount of HP healed was enough to bring them above 0, they are able to act.
+**Rolling 1 or 20:** When you make a death saving throw and roll a 1, you **die**. If you roll a 20, you regain 1 hit point.
 
-**Rolling 1 or 20:** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you regain 1 hit point.
+#### Healing
+The best way to save a creature with 0 hit points is to heal it. Any magical healing will automatically stabilize a dying creature and bring them up to 0 HP. If the amount of HP healed was enough to bring them above 0, they are able to act.
 
-**Damage at 0 or negative HP:** If you take any damage while you have 0 hit points, you immediately suffer a death saving throw failure, as well as the damage.
- 
-**Stabilizing a Creature:**  A stable creature is no longer Dying, but it does remain unconscious. If it takes any damage, the creature stops being stable, and must start making death saving throws again. A party member can stabilize a still-dying ally once out of combat.
+#### Stabilizing
+Once out of combat, the party can take a turn to stabilize a dying ally. The ally remains at 0HP and unconscious.
+
+### System Shock
+Any PC who drops to 0HP and survives will be able to finish the adventuring day on adrenaline and willpower, but is going to really feel it the next day: 
