@@ -46,27 +46,8 @@ Abigail "Abby" Harris, aka Full Size, is capable and inspires loyalty in her moo
 
   
 
-## Hideout
-
-  
-
-### Natural Cave System
-
-A series of caves near the riverbank, with multiple entrances hidden by foliage.
-
-- not revealed on search. must track or search hex across the bank, where you can see a hint of cave
-
-- handdraw a small cave map, maybe have a hot gloomium area
-
-  
-
-### Horses stabled at abandoned barn/farmhouse
-
-- revealed on hex search
-
-    - emphasize how run down, collapsed roof
-
-    - if inspected closely, notice evidence of fresh horse
+## Camping
+rotate between A2 and A4. maybe C4 sometimes, or split sometimes?
 
   
 ## Members

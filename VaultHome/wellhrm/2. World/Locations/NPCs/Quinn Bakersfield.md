@@ -21,8 +21,3 @@ renown: ["Brought back [[Gloomberries]]"]
 - Once good relations are established, can ID magic items for 250gp. Takes 1d3 days. For higher level or weirder stuff, pick a % success rate and be upfront, might do partial success ("its +2 and not cursed, has some elemental affect")
 
 **Stat Block**: Is probably a level 2-3 MU.
-
-```dataview
-LIST this
-WHERE file.name = this.file.name
-```

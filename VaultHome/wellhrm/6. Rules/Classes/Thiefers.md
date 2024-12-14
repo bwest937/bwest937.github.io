@@ -1,7 +1,7 @@
 
  >[!info] `=this.file.name`  (image)
 **Prime Abilities:** Dexterity
-**Hit Dice:** 1d3
+**Hit Dice:** 1d4
 **Armour:** Leather armor; no shield
 **Weapons:**  Any, but magical weapons are limited to daggers and swords
 **Ancestries:** Human, Dwarf, Elf, Halfling 
