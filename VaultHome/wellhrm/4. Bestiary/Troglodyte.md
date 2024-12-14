@@ -14,8 +14,8 @@ CL: 3
 XP: 60
 Bits: "hypothetical skins are worth.. 2d6 ea. the gloomtouched ones are magical, provide surprise"
 ---
-![[Pasted image 20241207184237.png]]
-![[Pasted image 20241207184201.png]]
+![[Trog_Claw.png]]
+![[Trog_Shield.png]]
 ___
 
 ## `=this.file.name`

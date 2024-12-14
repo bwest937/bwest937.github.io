@@ -3,7 +3,8 @@ slots: 1
 ---
 
 > [!weapon] `=this.file.name`
-> +1 short sword
+> 
+> #unique +1 short sword
 > 
 > This sword is the result of a free-range organic head-to-tail process, surviving the digestive tract of a large Green Dragon.
 > 
