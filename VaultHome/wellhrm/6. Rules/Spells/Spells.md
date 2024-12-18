@@ -5,11 +5,11 @@
 
 ##### Cantrips (0 MD)
 
-- Magic Dart
+- [[Magic Dart]]
 
 ##### 1st Level
 
-- Charm Person
+- [[Charm Person]]
 - Darkness
 - Detect Magic
 - Hold Door
@@ -156,17 +156,6 @@
 
   
 
-#### Magic Dart [Cantrip]
-
-___
-
-- **Spell Level:** Magic-User, Cantrip
-- **Range:** 60 ft
-- **Duration:** Immediate
-___
-
-A magical dart flies where the caster directs, with a range of 60 feet. It hits automatically... 90% of the time. Roll a d10, anything other than a 1 hits and does 1d3 damage.
-
   
 
 
@@ -199,25 +188,7 @@ Communicate with a known, specific ally (one way only) while concentration is ma
 
   
 
-#### Charm Person
 
-___
-
-- **Spell Level:** Magic-User, 1st Level
-
-- **Range:** 120 feet
-
-- **Duration:**  Until dispelled or dismissed
-
-- **Save:**  Per [MD]
-
-___
-
-This spell affects living bipeds of human size or smaller, such as
-
-goblins or dryads. The target must pass a save per [MD] to avoid being charmed. If the spell succeeds the
-
-unfortunate creature falls under the caster’s influence.
 
   
   

@@ -12,19 +12,13 @@ Arcane and natural casters that spend at least a turn in a "gloomium hot" area (
 - **Duration:** The [GD] lasts for 1d6 x level turns. Unused [GD] dissipate harmlessly.
 - **Mishap Risk:** If you use a [GD] and roll 1 or 2, you must make a roll on the Mishap table.
 
-  
-
 ### Combat
 
 Combat in or near a hot area affects all sides equally, barring specific immunities or magical effects. Somewhere between once a combat and once a combat round to determine the precise effects.
 
 Roll 1d4 on the following table to see what kind of rolls are affected.
 
-  
-
-<div class='descriptiveBlack'>Table G1: Gloomium Affected Roll</div>
-
-  
+  <div class='descriptiveBlack'>Table G1: Gloomium Affected Roll</div>
 
 | <span class="TableBold">1d4</span> | <span class="TableBold">Affected Rolls</span> |
 |:----------------------------------:|:--------------------------------------------- |
