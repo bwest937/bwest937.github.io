@@ -1,7 +1,7 @@
 {
   "cssTheme": "Everforest Enchanted",
   "theme": "obsidian",
-  "baseFontSize": 19,
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "accentColor": "#3bc43d",
   "enabledCssSnippets": [

@@ -2,23 +2,19 @@
 might rotate to other campsites, city of barakus has the greentree bandit info and helps
 
 ## dragon cave
-barakus area Q goes right in there i think
+barakus area Q goes right in there i think!
 ## Sometime
 - [ ] Fancy arrows fom d12 9 is a good vendor or thing a hunter can do
+- [ ] hunters surprised only on a 1 outside?
 
-## monster notes from creatre compendium
-
-hunters surprised only on a 1 outside?
+## possible monsters, consult for reloads too
 
 outside
-- emerald stinkbugs might be ok outside
-- Dobarchú, lesser (Water Hound) (by river)
 - skunkbear (just one somewhere)
 - snatching serpent
 
 dungeon
   - maybe make the knight guy a kam warrior (4hd splits into 2hd, splits in 1hd)
-
 
 manor
   - bad guy might have a kraben raven as familiar
@@ -27,7 +23,6 @@ manor
 
 troglydyte den and/or mining dungeon
   - molecricket, giant
-
 
 swamp
   - tangleworms, maybe during ratdog fight

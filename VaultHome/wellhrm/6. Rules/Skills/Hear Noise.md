@@ -1,6 +1,7 @@
 ---
 die: 1d6
 ability: WIS
+advantage: [[[Thiefers]]]
 base: 1/6
 ---
 

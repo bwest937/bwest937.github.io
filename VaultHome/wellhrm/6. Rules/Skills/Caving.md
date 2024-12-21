@@ -29,16 +29,16 @@ Choose a pace, and up your modifiers. If you are at 6 or more, you automatically
 
 ##### Chance of Success
 
-| Pace  | Crawl  | Squeeze |
-| ----- | ------ | ------- |
-| Creep | 7-in-6 | 4-in-6  |
-| Half  | 5-in-6 | 3-in-6  |
+| **Pace**   | **Crawl** | **Squeeze** |
+| ---------- | --------- | ----------- |
+| Creep 60ft | 7-in-6    | 4-in-6      |
+| Half 120ft | 5-in-6    | 3-in-6      |
 
 #### ADD 1-IN-6 IF:
 
 - You have a rope-line or handholds through the passage.
 - You are being actively helped by someone else. This can stack if multiple people help you.
-- You are small.
+- You are small ([[Ancestry#Dwarves|Dwarves]], [[Ancestry#Elves|Elves]])
 
 #### SUBTRACT 1-IN-6 IF:
 

@@ -30,15 +30,15 @@ Assuming the requirements are met and the meal isn't poisonous, the meal heals H
 
 ##### Table C2: Example Cooking Modifiers
 
-| Resource              | Mod |
+| **Resource**          | **Mod** |
 | --------------------- | ------- |
-| Spices                | +1      |
+| Spices                | +1      | 
 | Mess Kit              | +1      |
 | Additional Ingredient | +1      |
 
 **Encounters:**
 
-Encounter rolls will usually still occur when cooking, but the party can often take measures to reduce (or increase) them. Handling an encounter won't automatically prevent getting the benefit of cooking.
+Encounter rolls may still occur when cooking, but the party can often take measures to reduce (or increase) them. Handling an encounter won't automatically prevent getting the benefit of cooking.
 
 **Eating People:**
 

@@ -1,6 +1,6 @@
 
 ___
-#### Bless #cantrip
+#### Bless
 
 - **Spell Level:** Cleric #cantrip 
 - **Range:**  Ally not in combat

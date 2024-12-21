@@ -1,6 +1,6 @@
 
 ___
-#### Magic Dart #cantrip
+#### Magic Dart 
 
 - **Spell Level:** Magic-User #cantrip 
 - **Range:**  60ft

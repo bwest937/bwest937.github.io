@@ -1,13 +1,8 @@
-#### Martial Classes
+
 
 ```dataview
-LIST
-FROM "6. Rules/Classes" and #martial  
+TABLE WITHOUT ID file.link as Class, string(file.tags) as Tags
+FROM "6. Rules/Classes"
+WHERE !contains(file.name, this.file.name)
 ```
 
-#### Caster Classes
-
-```dataview
-LIST
-FROM "6. Rules/Classes" and #caster  
-```

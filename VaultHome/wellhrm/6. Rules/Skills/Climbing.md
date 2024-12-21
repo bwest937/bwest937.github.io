@@ -11,8 +11,8 @@ advantage: ["[[Thiefers]], [[Hunter]]"]
 
 **Anytime you need to travel up or down at an angle sharper than you can walk, it’s climbing.** You climb to hike mountain paths, to scale fortress walls, to shimmy up cavern ceilings, and to hang off the undersides of great beasts. It’s dangerous, like all good things.
 
- ### Pace
-Climbing allows for three paces: normal, half, creep. Slower has better odds of success.
+### Pace
+Climbing allows for three paces: normal (240 ft), half (120 ft), creep (60ft). Slower has better odds of success.
 
 ### Angles of Ascent
 
@@ -28,11 +28,11 @@ Climbing allows for three paces: normal, half, creep. Slower has better odds of 
 Choose a pace, and up your modifiers. If you are at 6 or more, you automatically succeed. Otherwise, roll 1d6 + STR and compare to the table below.
 
 #### Chance of Success
-| **Pace** | **Slope** | **Wall** | **Overhang** | **Ceiling** | 
-| -------- | --------- | -------- | ------------ | ---------- |
-| Creep    | 7-in-6    | 4-in-6   | 3-in-6       | 1-in-6     |
-| Half     | 6-in-6    | 3-in-6   | 2-in-6       | 0-in-6     |
-| Full     | 5-in-6    | 2-in-6   | 0-in-6       | -2-in-6    |
+| **Pace**       | **Slope** | **Wall** | **Overhang** | **Ceiling** |
+| -------------- | --------- | -------- | :------------: | ----------- |
+| Creep - 60ft   | 7-in-6    | 4-in-6   | 3-in-6       | 1-in-6      |
+| Crawl - 120ft  | 6-in-6    | 3-in-6   | 2-in-6       | 0-in-6      |
+| Normal - 240ft | 5-in-6    | 2-in-6   | 0-in-6       | -2-in-6     |
 
 
 #### ADD 1-IN-6 IF:

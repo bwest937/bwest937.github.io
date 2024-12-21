@@ -2,7 +2,7 @@
 die: 1d6
 ability: WIS
 base: 2/6
-advantage: [Dwarves, Elves]
+advantage: [[[Ancestry#Dwarves|Dwarves]], [[Ancestry#Elves|Elves]]]
 tags: "#normal_skill"
 ---
 
