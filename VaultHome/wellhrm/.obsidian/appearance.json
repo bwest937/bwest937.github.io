@@ -1,11 +1,16 @@
 {
   "cssTheme": "Everforest Enchanted",
   "theme": "obsidian",
+<<<<<<< Updated upstream
   "baseFontSize": 18,
+=======
+  "baseFontSize": 15,
+>>>>>>> Stashed changes
   "baseFontSizeAction": true,
   "accentColor": "#3bc43d",
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "S - Embed Adjustments"
+    "S - Embed Adjustments",
+    "tableStyles"
   ]
 }

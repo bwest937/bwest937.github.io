@@ -2,7 +2,7 @@
 
 | **1d3** | **Result**                                                           |
 | ------- |:-------------------------------------------------------------------- |
-| 1       | 3d6 [[Rat, Giant]]                                                   | 
+| 1       | 2d6 [[Rat, Giant]]                                                   | 
 | 2       | 2d6 [[Tunnel prawn]]                                                 |
 | 3       | 3 [[Dark Creeper]] (only once, remember they have lv 4 thief skills) |
 
