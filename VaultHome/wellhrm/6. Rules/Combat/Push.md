@@ -1,0 +1,1 @@
+ With a successful attack, you can exchange your damage roll to make your opponent save or get pushed 5 feet backwards (or diagonally backwards). You can follow into her former space if you like. Combatants with shields get advantage on the save.

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"387d9b764850217a","type":"text","text":"","x":-580,"y":-440,"width":250,"height":60},
+		{"id":"ffd566c57264534e","type":"text","text":"#### Surprise\n\nResolve Charges\nRoll Initiatives\nStationary Missiles\nWinning Side\nLosing Side\nStationary Missiles 2\nHeld Initiative\n(Morale)","x":-1480,"y":-1400,"width":220,"height":360},
+		{"id":"34cabe83e31353f6","type":"text","text":"#### Declare \n[[Spell]] / [[Charge]] / [[Set Defense]]","x":-1045,"y":-1280,"width":340,"height":120},
+		{"id":"48f985f4dca13dbc","type":"text","text":"#### Resolve Charges\n","x":-1000,"y":-1070,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"dfad94aec74b198b","fromNode":"ffd566c57264534e","fromSide":"right","toNode":"34cabe83e31353f6","toSide":"left"},
+		{"id":"27b84d648f7e11e3","fromNode":"34cabe83e31353f6","fromSide":"bottom","toNode":"48f985f4dca13dbc","toSide":"top"}
+	]
+}

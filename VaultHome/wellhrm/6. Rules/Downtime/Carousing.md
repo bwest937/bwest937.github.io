@@ -11,11 +11,11 @@ If the die roll is higher than the carouser’s level (automatic at level 1), th
 
     Table CA1 Carousing
 
-| **Settlement Size**                     | **GP Spent/XP Gained** | **Mishap Role** | 
+| **Settlement Size**                     | **GP Spent/XP Gained** | **Mishap Role** |
 |:--------------------------------------- |:----------------------:| --------------- |
 | [[Economy#Village (up to 1k)\|Village]] |       1d4 x 100        | 1d6             |
 | [[Economy#Town (1-8k)\|Town]]           |       1d6 x 125        | 1d8             |
-| [[Economy#Town\|Town]]                  |       1d8 x 150        | 1d10            |
+| [[Economy#City (8-12k)\|City]]          |       1d8 x 150        | 1d10            |
 | [[Economy#Big City (12-25k)\|Big City]] |       1d10 x 200       | 1d12            |
 | [[Economy#Lunden (25k+)\|Lunden]]       |       1d12 x 200       | 1d20            |
 

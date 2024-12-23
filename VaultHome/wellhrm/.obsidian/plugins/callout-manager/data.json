@@ -8,7 +8,8 @@
       "condition",
       "food",
       "skill",
-      "potion"
+      "potion",
+      "procedure"
     ],
     "settings": {
       "monsterbit": [
@@ -48,6 +49,14 @@
           "changes": {
             "icon": "lucide-pill",
             "color": "255, 200, 0"
+          }
+        }
+      ],
+      "procedure": [
+        {
+          "changes": {
+            "icon": "lucide-clipboard-list",
+            "color": "83, 139, 202"
           }
         }
       ]

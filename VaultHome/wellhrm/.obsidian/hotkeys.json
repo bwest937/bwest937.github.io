@@ -12,5 +12,13 @@
       "modifiers": [],
       "key": "F5"
     }
+  ],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
   ]
 }

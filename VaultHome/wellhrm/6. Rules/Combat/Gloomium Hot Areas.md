@@ -34,7 +34,7 @@ Roll 1d6 on the following table to determine the modifier to the affected rolls.
 | <span class="TableBold">1d6</span> | <span class="TableBold">Modifier</span> |
 |:----------------------------------:|:---------------------------------------:|
 |                 1                  |                   -1                    |
-|                 2                  |                   -2                    |
+|                 2         ``         |                   -2                    |
 |                 3                  |                  -1d4                   |
 |                 4                  |                   +1                    |
 |                 5                  |                   +2                    |
