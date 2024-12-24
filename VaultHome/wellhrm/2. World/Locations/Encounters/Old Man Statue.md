@@ -16,5 +16,4 @@ This curse will invoke the immediate summoning of 3 3HD [[Thorned Briarling]] wh
 - One emanates weakly from the statue and pool area generally
 - A second more intensive field is located within the pond
 
-**In The Pond:** An investigation of the second aura will reveal an ancient broadsword nestled beside the ribcage of a partially disarticulated skeleton. The sword will in the fullness of time prove itself to a +2 broadsword (if used sufficiently). Should anyone make the mistake of lingering in the pool for more than a few minutes,  a KUROK-SPIRIT comes for them.
-[SW_Fiends_and_Foes_PDF_v2, p.68](<obsidian://open?vault=swords_and_wizardry_ref&file=SW_Fiends_and_Foes_PDF_v2.pdf>)
+**In The Pond:** An investigation of the second aura will reveal an ancient broadsword nestled beside the ribcage of a partially disarticulated skeleton. The sword will in the fullness of time prove itself to a +2 broadsword (if used sufficiently). Should anyone make the mistake of lingering in the pool for more than a few minutes,  a [[Kurok]] comes for them.

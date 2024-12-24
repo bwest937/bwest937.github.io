@@ -37,14 +37,16 @@ ___
 | Tags              | `=string(this.tags)` |
 
 
+![[Skunkbear.png]]
+
 ### Description
  Skunkbears have fur ranging in color from brown to brownish-black, with younger skunkbears being marked by a white stripe down its back, and the stripe tending to run silver in older skunkbears. The eyes of a skunkbear are jet black.
  
- This malodorous cousin to both skunks and bears is found in a range of climates and in a variety of terrains (including lightto-heavy forests, mountainous areas, and tundra regions). While they will often take shelter in their dens and sleep for extended periods during winter months, they are not true hibernators, waking often to hunt and forage.  
+ This malodorous cousin to both skunks and bears is found in a range of climates and in a variety of terrains (including ligh and heavy forests, mountainous areas, and tundra regions). While they will often take shelter in their dens and sleep for extended periods during winter months, they are not true hibernators, waking often to hunt and forage.  
  
 Once per day, a skunkbear is able to use a spray attack, in which a horrific smelling spray is used to disable a victim.
 ### Abilities
-**Hug:** If a skunkbear makes successful “to hit” rolls with both of its claw attacks, then it has succeeded in hugging its victim and automatically does an additional 3d6 damage during the same round. 
+**Hug:** If a skunkbear makes successful “to hit” rolls with both of its claw attacks, then it has succeeded in its victim and automatically does an additional 2d6 damage. It can automatically maintain the hold, crushing the victim and continuing attempts to bite as well. See [[Bear Hug]].
 
 **Spray:** Once a day the Skunkbear can spray instead of its normal attack. On a successful “to hit” roll with this spray attack, the victim must save vs. breath weapon or stand stunned for 2d6 rounds. Furthermore, if the saving throw is failed by 10 or more points, the victim is also knocked unconscious for that duration. Anyone within a 20' range of a sprayed victim must save vs. breath weapon or suffer a -1 to-hit penalty while they are within range and the victim is still soaked with the spray. This overpowering smell will remain with the victim for 4d6 days unless the victim washes thoroughly (at least  times with a very strong lye soap) or is cleaned through magical means (e.g., a purification spell). 
 

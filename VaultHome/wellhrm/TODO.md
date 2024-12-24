@@ -5,14 +5,24 @@ might rotate to other campsites, city of barakus has the greentree bandit info a
 barakus area Q goes right in there i think!
 ## Sometime
 - [ ] Fancy arrows fom d12 9 is a good vendor or thing a hunter can do
+
+## Rules suggestions
+- [ ] on wilderness encounter check with no encounter, provide a clue to hex monster/ecology
 - [ ] hunters surprised only on a 1 outside?
+- [ ] critical hit /miss= -1 AC for target  of hit, -1 to hit for miss (or it gets save?)
+    - [ ] mundane gear needs repaired, what does that look like? 
+    - [ ] how about magical items? 
+        - [ ] no need to track it if it doesnt end up damaged, thats bad design for us
+        - [ ] resist damage num times = item's + bonus  per fight? 
+        - [ ] or im
+        - [ ] regular bsmith can repair, but some % of being broken? or need to find magical armorer... tricky
 
 
 ## monsters to stat
-- skunkbear
+
 - dryadi party
 - krok thing
-- 
+
 ## possible monsters, consult for reloads too
 
 outside

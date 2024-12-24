@@ -9,17 +9,3 @@ Before heading out the party should...
 3. If not home in 8 hours, party is Fatigued (1d2/ 2 hours)
 
 
-## On Hex Change
-
-- Spend points
-- Update time and weather if needed
-- Describe
-	- can see roughly 3 hexes across, but there are often tree and weather in the way
-- Events (including Griffon-check)
-- Exploring
-	- describe anything new, resolve
-	- Encounter check
-	- foraging
-- Encounter check
-- Fishing or anything else they want to do
-- More than an extra hour spent fishing or doing anything else calls for a 1/6 encounter check
