@@ -13,25 +13,25 @@ Lair: 10
 CL: 1
 XP: 7 (5+1/hp)
 Bits:
+cssClass: monsterTable
 ---
 
 ___
 
 ## `=this.file.name`
 
-### Stats
 
-|                  |                         |
-| ---------------- | ----------------------- |
-| HD (HP)          | `=this.HD` (`=this.HP`) |
-| AC               | `=this.AC`              |
-| Attacks          | `=this.attacks`         |
-| Move             | `=this.move`            |
-| Morale           | `=this.morale`          |
-| Save             | `=this.save`            |
-| Special          | `=this.special`         |
-| Number appearing | `=this.encountered`     |
-| Bits             | `=this.bits`            | 
+| `=this.file.name` |                        |
+| ----------------- | ----------------------- |
+| HD (HP)           | `=this.HD` (`=this.HP`) |
+| AC                | `=this.AC`              |
+| Attacks           | `=this.attacks`         |
+| Move              | `=this.move`            |
+| Morale            | `=this.morale`          |
+| Save              | `=this.save`            |
+| Special           | `=this.special`         |
+| Number appearing  | `=this.encountered`     |
+| Bits              | `=this.bits`            |
 
 
 ### Description

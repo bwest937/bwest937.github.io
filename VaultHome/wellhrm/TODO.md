@@ -7,10 +7,15 @@ barakus area Q goes right in there i think!
 - [ ] Fancy arrows fom d12 9 is a good vendor or thing a hunter can do
 - [ ] hunters surprised only on a 1 outside?
 
+
+## monsters to stat
+- skunkbear
+- dryadi party
+- krok thing
+- 
 ## possible monsters, consult for reloads too
 
 outside
-- skunkbear (just one somewhere)
 - snatching serpent
 
 dungeon

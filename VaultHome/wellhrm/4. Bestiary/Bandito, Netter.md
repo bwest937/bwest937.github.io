@@ -11,12 +11,12 @@ Encountered: 1d6+1 or 1d10x30
 Lair: 15
 CL: 1
 XP: 15
+cssClass: monsterTable
 ---
 
 ## Human Netter Bandit 
-___
 
-| Combat  |                 |
+| `=this.file.name`  |                 |
 | ------- | --------------- |
 | HD      | `=this.HD`      |
 | AC      | `=this.AC`      |

@@ -2,10 +2,10 @@
 
 /* --------------------------------------------   */
 /* Custom fonts. Comment or change as required    */
-/*Futura Condensed Bold*/
+/* Futura LT Bold*/
 @font-face {
     font-family: Futura;
-    src: url("https://db.onlinewebfonts.com/t/d632db3304a2ab2099e1967e15c0b7dd.ttf") format('truetype');
+    src: url("https://db.onlinewebfonts.com/t/70700c84f783f6dcb8459abcfb6d9d02.ttf") format('truetype');
 }
 
 @font-face {
@@ -90,6 +90,8 @@ table {
 
 th {
 	font-family: Futura !important;
+    background-color: var(--background-secondary) !important;
+    color: var(--header-green) !important;
 }
 
 
@@ -102,6 +104,12 @@ body pre, code {
     font-family:Futura !important;
     border-style:none;
     box-shadow:0 0 0 var(--background-primary)
+}
+
+
+.monsterTable tbody td:first-child {
+    font-weight: 700;
+    color: var(--h6-color) !important;
 }
 
 

@@ -1,6 +1,5 @@
 ---
 HD:
-HP:
 AC: 
 Attacks: 
 Save: 
@@ -12,26 +11,29 @@ Encountered:
 Lair: 
 CL: 
 XP:
+Size:
 Bits:
+Tags:
+cssClass: monsterTable
 ---
 
-___
 
 ## `=this.file.name`
 
-### Stats
 
-|                  |                         |
-| ---------------- | ----------------------- |
-| HD (HP)          | `=this.HD` (`=this.HP`) |
-| AC               | `=this.AC`              |
-| Attacks          | `=this.attacks`         |
-| Move             | `=this.move`            |
-| Morale           | `=this.morale`          |
-| Save             | `=this.save`            |
-| Special          | `=this.special`         |
-| Number appearing | `=this.encountered`     |
-| Bits             | `=this.bits`            | 
+| Monster Stats    |                      |
+| ---------------- | -------------------- |
+| HD               | `=this.HD`           |
+| AC               | `=this.AC`           |
+| Attacks          | `=this.attacks`      |
+| Move             | `=this.move`         |
+| Morale           | `=this.morale`       |
+| Save             | `=this.save`         |
+| Size             | `=this.size`         |
+| Special          | `=this.special`      |
+| Number appearing | `=this.encountered`  |
+| Bits             | `=this.bits`         |
+| Tags             | `=string(this.tags)` |
 
 
 ### Description
@@ -43,13 +45,13 @@ ___
 
 
 ### Social
-Alignment: `=this.alignment`
-Number Encountered:  `=this.encountered`
-% in Lair: `=this.lair`%
+**Alignment:** `=this.alignment`
+**Number Encountered:**  `=this.encountered`
+**% in Lair:** `=this.lair`%
 
 ### CL
-CL: `=this.cl`
-XP: `=this.xp`
+**CL:** `=this.cl`
+**XP:** `=this.xp`
 
 #### Source
 
