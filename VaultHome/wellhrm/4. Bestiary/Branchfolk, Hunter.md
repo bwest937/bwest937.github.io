@@ -1,22 +1,24 @@
 ---
-HD:
-AC: 
-Attacks: 
-Save: 
-Move:
-Morale: 
+HD: 2
+AC: 12
+Attacks: As Weapon (Shortbow and Dagger)
+Save: 14
+Move: 12
+Morale: 8
 Special: 
-Alignment: 
-Encountered: 
+Alignment: Law
+Encountered: 1, 2, or Party (1d6)
 Lair: 
-CL: 
-XP:
-Size:
-Bits:
-Tags:
-cssClass: monsterTable
+CL: 3
+XP: 60
+Size: M
+Bits: 
+tags: 
+cssclasses:
+  - monsterTable
 ---
 
+![[branchfolk_dryadi.png]]
 
 ## `=this.file.name`
 
@@ -37,17 +39,15 @@ cssClass: monsterTable
 
 
 ### Description
+Cautious and deadly, they avoid combat with more dangerous foes, seeking prey and game they can easily run down. When cornered or pursued, they will fight back with a ferocious tenacity.
 
 ### Abilities
-**Blood Drain:** On bite, save versus breath, failure means the Dragon Tick begins to burrow into the body, dealing 1d4 automatic damage each round as it drains the victim’s blood. A successful strength check stops this process by violently ripping the Dragon Tick away
-
-**Adamantine Teeth:** Non-magical armor provides no protection from the Dragon Tick’s bite attack
-
+**Natural Camouflage:** They look like trees! In the appropriate environment, they can hide akin to [[Hide in Shadows]]. 5, maybe even 6/6.
 
 ### Social
 **Alignment:** `=this.alignment`
 **Number Encountered:**  `=this.encountered`
-**% in Lair:** `=default(this.lair, "NA")`%
+**% in Lair:** `=this.lair`%
 
 ### CL
 **CL:** `=this.cl`
@@ -55,9 +55,7 @@ cssClass: monsterTable
 
 #### Source
 
-Into The Weird And Wild
-[Link Text](obsidian://open?vault=swords_and_wizardry_ref&file=dirname%2F) p162
-
+[into_the_weird_and_wild_digital_6-22, p.62](<obsidian://open?vault=swords_and_wizardry_ref&file=into_the_weird_and_wild_digital_6-22.pdf>)
 
 
 

@@ -1,10 +1,17 @@
+---
+ancestries:
+ - "[[Humans]]"
+ - "[[Dwarves]]"
+ - "[[Elves]]"
+ - "[[Halflings]]"
+---
 
  >[!info] Hunter ![[S&W Ranger.png]] 
 **Prime Abilities:** Dexterity
 **Hit Dice:** 1d8
 **Armour:** Any except plate
 **Weapons:** Any
-**Ancestries:** Human, Dwarf, Elf, Halfling 
+**Ancestries:** `=this.ancestries`
 **Tags:** #martial
 
 

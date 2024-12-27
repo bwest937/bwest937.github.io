@@ -1,5 +1,8 @@
 ---
 classname: Hunter
+ancestries:
+ - "[[Humans]]"
+ - "[[Halflings]]"
 ---
 
  >[!info] `=this.classname`  ![[Highland Shaman.png]]
@@ -7,7 +10,7 @@ classname: Hunter
 **Hit Dice:** 1d6
 **Armour:**  Leather armor, wooden shield
 **Weapons:** Clubs, staves, and spears. For ranged, bows, slings and crossbows.
-**Ancestries:** Human, Halfling 
+**Ancestries:** `=this.ancestries`
 **Tags:** #caster 
 
 

@@ -1,5 +1,6 @@
 ---
 renown: ["Brought back [[Gloomberries]]"]
+tags:
 ---
 
 ## `=this.file.name`

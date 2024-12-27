@@ -1,5 +1,8 @@
 ---
 classname: "Magic User"
+ancestries:
+ - "[[Humans]]"
+ - "[[Elves]]"
 ---
 
  >[!info] `=this.classname`  (image)
@@ -7,7 +10,7 @@ classname: "Magic User"
 **Hit Dice:** 1d4
 **Armour:** None
 **Weapons:** Dagger, staff, crossbow
-**Ancestries:** Human, Elves
+**Ancestries:** `=this.ancestries`
 **Tags:** #caster
 
  

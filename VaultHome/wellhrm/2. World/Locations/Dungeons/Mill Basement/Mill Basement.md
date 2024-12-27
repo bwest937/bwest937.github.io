@@ -71,12 +71,11 @@ HP 6 ☐☐☐☐☐ ☐☐☐
 
 **5. OCTAGONAL ROOM:**
 
-The oddly shaped room has doors in the west and south walls. The floors are littered with the dung and detritus of various creatures passing through this room, as well as what may have been some furniture although it's difficult to tell.
+The oddly shaped room has doors in the west and south walls. The floors are littered with splintered wood and pottery, the remains of furniture. If they investigate, they might put together at least some of this was a scroll rack, perhaps undermined by vermin.  
 
 *This is where the creepers will begin digging if they are left alone for too long?*
 
-If the party spends two turns searching, they find a **clerical scroll of Light** (one use) inside the remains of a some kind of shattered pottery.
-
+If the party spends two turns searching, inside  the remains of a some kind of shattered pottery they find a portion of a once- larger scroll still intact. It has **clerical scroll of Light** (one use). 
 ##### Exits
 - both doors are easy to open
 
@@ -89,7 +88,7 @@ The room is laid out like a bunk room of sorts, with beds stacked floor to celli
 
 
 ##### Exits
-- north door is **stuck**
+- north door is open
 - south door is unlocked and easy to open from inside the room, but is a **secret one-way door**
 
 **Catacombs #3:**
@@ -103,7 +102,7 @@ The walls of this room are lined with small alcoves, 20 in total. Each alcove is
 
 ##### Exits
 - to the west it is open to the passage, no door
-- to the north, the faint outline of the secrety door may be detected (elves and dwarves get passive chance?). it cannot be opened from this side.
+- to the north, the faint outline of the secret door may be detected (elves and dwarves get passive chance?). it cannot be opened from this side.
 - to the south the passage is open, no door. the **arch** here says "Journey"
 
 ##### Alcove Treasure Table

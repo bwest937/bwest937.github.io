@@ -1,5 +1,8 @@
 ---
 classname: Cleric
+ancestries: 
+ - "[[Humans]]"
+ - "[[Dwarves]]"
 ---
 
  >[!info] `=this.classname`  (image)
@@ -8,7 +11,7 @@ classname: Cleric
 **Armour:** Any
 **Weapons:** Blunt weapons only. No missile weapons other than oil/flasks.
 **Alignment**: Lawful
-**Ancestries:** Human, Dwarf
+**Ancestries:** `=this.ancestries`
 **Tags:** #caster
 
   

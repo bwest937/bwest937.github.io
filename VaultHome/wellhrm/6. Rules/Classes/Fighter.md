@@ -1,5 +1,10 @@
 ---
 classname: Fighter
+ancestries:
+ - "[[Humans]]"
+ - "[[Dwarves]]"
+ - "[[Elves]]"
+ - "[[Halflings]]"
 ---
 
  >[!info] `=this.classname`  (image)
@@ -7,7 +12,7 @@ classname: Fighter
 **Hit Dice:** 1d8
 **Armour:** Any
 **Weapons:** Any
-**Ancestries:** Human, Dwarf, Elf, Halfling 
+**Ancestries:** `=this.ancestries`
 **Hit Dice:** 1d8
 **Tags:** #martial
 

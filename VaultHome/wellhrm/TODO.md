@@ -1,8 +1,16 @@
+## Items thoughts
+
+- Some sages keep a **Two-Tailed Coin** in their money boxes. Their killers are ill-fated, for those who carry the coin, easily overlooked in a purse, see beautiful lights and light-tempered beauties in the depths of every body of water. They must save or be tempted down into the warm embrace of the depths, getting +1 for each reason they provide for why they must pass by. They can never repeat reasons, even on later saves.
+
 ## [[Banditos]]
 might rotate to other campsites, city of barakus has the greentree bandit info and helps
 
+## maps etc
+- update region map (gemstone mountains? branchfolk?, other settlements?)
+
 ## dragon cave
 barakus area Q goes right in there i think!
+
 ## Sometime
 - [ ] Fancy arrows fom d12 9 is a good vendor or thing a hunter can do
 
@@ -20,8 +28,6 @@ barakus area Q goes right in there i think!
 
 ## monsters to stat
 
-- dryadi party
-- krok thing
 
 ## possible monsters, consult for reloads too
 
