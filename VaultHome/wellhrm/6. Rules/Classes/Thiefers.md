@@ -50,7 +50,7 @@ Thieves gain *expertise points* to improve their chance of success with their cl
 ![[Move Silently|clean]]
 ![[Pick Locks|clean]]
 ![[Pick Pockets|clean]]
-![[Read Languages|clean]]
+![[6. Rules/Skills/Read Languages|clean]]
 
 
 ## `=this.file.name` Level Progression

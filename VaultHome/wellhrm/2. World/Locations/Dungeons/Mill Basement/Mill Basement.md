@@ -35,9 +35,22 @@ This hallway has no sconces/torch holders other than those described in 3 by the
 
 The secret door opens to a brightly lit room that was turned into a makeshift shrine. The cold stone walls are decorated with chalk symbols and a makeshift altar made from a large wooden crate covered in a moldering white cloth holds a simple golden chalice. On the far side of the room, there is a figure mostly obscured by the altar.
 
-The room was blessed as a sanctuary by a long-dead adventuring Cleric. The Cleric's body is behind the crate in a kneeling position, facing the altar, still clutching her holy symbol. She is nothing more than barely held together skin and bones. Her gear is long gone, except for her holy symbol (a silver starburst worth 20 gp) and the tattered remains of her robes.
+The room was blessed as a sanctuary by a long-dead adventuring Cleric. The Cleric's body is behind the crate in a kneeling position, facing the altar, still clutching her holy symbol. 
 
-The room itself will detect as magical and is under the effect of a permanent **protection from evil** spell (as a 6th level caster). The golden chalice (worth 100 gp) radiates a soft golden light that fills the room. If holy water is poured into it and then consumed, it will provide the imbiber with a **cure light wounds** spell; this effect works at most twice a day. The chalice will not function outside of the room.
+Clerics will recognize the symbol as a very old form of their own, this appears to be the final resting place of a cleric of Gael.
+
+She is nothing more than barely held together skin and bones. Her gear is long gone, except for her holy symbol and the tattered remains of her robes.
+
+The room itself will detect as magical and is under the effect of a permanent **protection from evil** spell (as a 6th level caster) and a permanent **light** spell.
+
+- The golden chalice is a minor relic that allows a cleric to make holy water 1/day (takes 1 level spell cast). Worth 100gp if sold for gold.
+- The holy symbol is a minor relic that allowed a cleric to re-roll any ones made during a Turning attempt. Worth 20gp if sold for silver.
+
+> [!hint]
+> Explain [[Philanthropy]] here
+> If they can get the remains back to [[Father William]], worth 500 xp. Another 300xp if the relics are also donated.
+
+
 
 **3. THE PITS:**
 

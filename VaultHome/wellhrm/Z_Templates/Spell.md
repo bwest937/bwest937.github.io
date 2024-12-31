@@ -1,11 +1,20 @@
+---
 
+spell_level: 1
+tags:
+ - "#mu_basic" 
+---
+
+#### `=this.file.name`
 ___
-#### Bless #cantrip
+**Class:** 
+**Spell Level:** `=this.spell_level`  
+**Range:**  Ally not in combat
+**Duration:**  1 hr
+**Tags:** `=this.tags`
 
-- **Spell Level:** Cleric #cantrip 
-- **Range:**  Ally not in combat
-- **Duration:**  1 hr
-
-This spell can be cast once per day. It grants +1 to attack rolls (and improves morale by 1, if the recipient is not a player character) for an hour. The recipient cannot already be in combat when the spell is cast.
+Spell description...
 ___
 
+Related: [[7. Spells/Magic User Spells/Light|Light]]
+Other Versions:

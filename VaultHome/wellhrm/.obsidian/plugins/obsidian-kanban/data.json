@@ -1,3 +1,18 @@
 {
-  "lane-width": 300
+  "lane-width": 300,
+  "metadata-keys": [],
+  "move-tags": true,
+  "tag-colors": [
+    {
+      "tagKey": "#mu_basic",
+      "color": "",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ],
+  "hide-card-count": false
 }

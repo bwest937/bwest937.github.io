@@ -34,4 +34,5 @@ The best way to save a creature with 0 hit points is to heal it. Any magical hea
 Once out of combat, the party can take a turn to stabilize a dying ally. The ally remains at 0HP and unconscious.
 
 ### System Shock
-Any PC who drops to 0HP and survives will be able to finish the adventuring day on adrenaline and willpower, but is going to really feel it the next day: 
+Any PC who drops to 0HP and survives will be able to finish the adventuring day on adrenaline and willpower, but is going to really feel it the next day. They will be out of action for 1d4 - CON mod days. Additional healing spells pumped into the PC my reduce this time, but the minimum is one day.
+

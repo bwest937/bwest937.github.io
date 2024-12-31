@@ -10,10 +10,19 @@
 - Severe demeanor, but willing to help the party with healing magic (for an appropriate donation). Just as importantly, he is content to look the other way wrt arcane magic usage.
 - Ambitious in his career, if not national-level politics. He wants a content well-cared for congregation. Anything that puts the church on the map in a good way is interesting to him.
 
-**Background**: This section is narrative in nature. You can let it breathe a bit more than the other sections if you’d like, but a little will still go a long way. I tend to think of this in terms of _essential context_ and _interesting anecdotes_. Is it something that will directly influence the decisions they make? Is it information that the PCs are likely to discover about them? Is it an interesting story that the NPC might tell about themselves or (better yet) use as context for explaining something? Great. If it’s just a short story about some random person’s life that you’re writing for an audience of one, refocus your attention on prepping material that’s relevant to the players.
+**Background**:  ?
 
 **Key Info**:
-- knows lv 3 Cleric spells: 50/100/150gp
-- his magic is slower and more ritual in nature, can't get a lvl 3 spell more than once a week (he reserves some magical energy for congregation.)
+Father William knows some healing spells. His magic is slower and more ritual in nature, plus he reserves some magical energy for congregation. Net result is he can only cast one of (Cure Disease, Remove Curse, Cure Blindness) once a week.
+
+| Spell          | Cost  |  Time  |
+| -------------- | ----- |:------:|
+| CLW            | 50gp  | 1/day  |
+| Cure Disease   | 150gp | 1/week |
+| Remove Curse   | 150gp | 1/week |
+| Cure Blindness | 150gp | 1/week |
+
+Sells Holy Water for 25gp/each (max once a week due to it being a slow process). This improves if the chalice is donated.
+
 
 **Stat Block**: If you need stats for the NPC, put ’em at the bottom of the briefing sheet in whatever format makes sense for the system you’re running.

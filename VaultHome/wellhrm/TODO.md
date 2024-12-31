@@ -1,4 +1,9 @@
-## Items thoughts
+## Temple
+glue crypts of kardak to the iron god for level 2, or a sublevel, or something
+Wormkin can be the crimson ghoul 
+
+
+## Items 
 
 - Some sages keep a **Two-Tailed Coin** in their money boxes. Their killers are ill-fated, for those who carry the coin, easily overlooked in a purse, see beautiful lights and light-tempered beauties in the depths of every body of water. They must save or be tempted down into the warm embrace of the depths, getting +1 for each reason they provide for why they must pass by. They can never repeat reasons, even on later saves.
 
@@ -22,7 +27,6 @@ barakus area Q goes right in there i think!
     - [ ] how about magical items? 
         - [ ] no need to track it if it doesnt end up damaged, thats bad design for us
         - [ ] resist damage num times = item's + bonus  per fight? 
-        - [ ] or im
         - [ ] regular bsmith can repair, but some % of being broken? or need to find magical armorer... tricky
 
 
@@ -45,11 +49,16 @@ manor
 troglydyte den and/or mining dungeon
   - molecricket, giant
 
-swamp
-  - tangleworms, maybe during ratdog fight
 
 ratdog disease might be this:
 The rotting disease does not allow the victim to heal naturally unless cured (by the spell cure disease) and does an additional 1 hp of damage per hour after contracting the (necrotizing) disease until the victim is dead.
 
 -dule tree
 ghostcap bloom (from bfrpg field guide 2)
+
+## Dismemberment/Permanent Injury
+GoldenRod Guide has tables as good as any, but flesh this out and talk over with group before instituting.
+
+## Class advancement past 4
+GoldenRod Guide has some great fighter options. thinking at level 6 they get weapon specialization or a style. could be at level 4 instead of full 2nd attack too. obviously not all styles make sense.
+

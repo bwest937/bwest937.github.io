@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "a469f89175f735a3",
+      "type": "text",
+      "text": "## 8",
+      "styleAttributes": {},
+      "x": -360,
+      "y": -280,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "813c4f08a0e91a9b",
+      "type": "text",
+      "text": "## 7",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -280,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "c7a0dd5b7448358f",
+      "type": "text",
+      "text": "## 6",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -280,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "075e79cab17fda4d",
+      "type": "text",
+      "text": "## 4",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -220,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "e19355eca7f30148",
+      "type": "text",
+      "text": "## 0",
+      "styleAttributes": {},
+      "x": -360,
+      "y": -220,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "dc8af33639900f83",
+      "type": "text",
+      "text": "## 5",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -220,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "fb5a5b040d089ee4",
+      "type": "text",
+      "text": "## 3",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -160,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "526bf4be8fb42086",
+      "type": "text",
+      "text": "## 1",
+      "styleAttributes": {},
+      "x": -360,
+      "y": -160,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "3c29b296438b83bd",
+      "type": "text",
+      "text": "## 2",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -160,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "427b5f3716d81f4f",
+      "type": "text",
+      "text": "Roll D10 to determine what direction the thing went\n9 = roll again",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -535,
+      "y": -80,
+      "width": 410,
+      "height": 60,
+      "color": "5"
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

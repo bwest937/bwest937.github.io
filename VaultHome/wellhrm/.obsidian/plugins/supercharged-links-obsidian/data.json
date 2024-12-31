@@ -57,6 +57,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "6. Rules/Magic/MD",
+      "matchCaseSensitive": true,
+      "match": "startswith",
+      "uid": "08ed-7d3d",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }
