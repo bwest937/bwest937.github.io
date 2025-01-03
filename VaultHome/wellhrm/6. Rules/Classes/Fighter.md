@@ -1,11 +1,14 @@
 ---
 classname: Fighter
 ancestries:
- - "[[Humans]]"
- - "[[Dwarves]]"
- - "[[Elves]]"
- - "[[Halflings]]"
+  - "[[Humans]]"
+  - "[[Dwarves]]"
+  - "[[Elves]]"
+  - "[[Halflings]]"
+dg-publish: "true"
 ---
+
+## `=this.file.name`
 
  >[!info] `=this.classname`  (image)
 **Prime Abilities:** Strength

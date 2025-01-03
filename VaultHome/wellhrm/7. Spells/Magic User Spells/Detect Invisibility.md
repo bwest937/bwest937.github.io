@@ -2,10 +2,11 @@
 spell_level: 2
 tags:
   - "#mu_basic"
+dg-publish: "true"
 ---
 
 #### `=this.file.name`
-___
+
 **Class:** [[Magic User]]
 **Spell Level:** `=this.spell_level`  
 **Range:**  10 ft/caster level
@@ -13,8 +14,9 @@ ___
 **Tags:** `=this.tags`
 
 The caster can perceive invisible objects and creatures
-___
 
-Related: [[Invisibility]]
-Other Versions:
+
+*Related:* [[Invisibility]]
+*Other Versions:*
+___
 

@@ -6,7 +6,7 @@ tags:
 ---
 
 #### `=this.file.name`
-___
+
 **Class:** 
 **Spell Level:** `=this.spell_level`  
 **Range:**  Ally not in combat
@@ -14,7 +14,7 @@ ___
 **Tags:** `=this.tags`
 
 Spell description...
-___
 
-Related: [[7. Spells/Magic User Spells/Light|Light]]
-Other Versions:
+*Related:* [[7. Spells/Magic User Spells/Light|Light]]
+*Other Versions:*
+___

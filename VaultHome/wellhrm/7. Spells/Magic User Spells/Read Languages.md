@@ -1,10 +1,11 @@
 ---
 spell_level: 1
 tags:
- - "#mu_basic" 
+  - "#mu_basic"
+dg-publish: "true"
 ---
 #### `=this.file.name`
-___
+
 **Class:** [[Magic User]]
 **Spell Level:** `=this.spell_level`
 **Range:**  Normal reading distance
@@ -12,7 +13,8 @@ ___
 **Tags:** `=this.tags`
 
 This spell allows the caster to decipher directions, instructions, and formulae in languages unknown to the caster. This can be particularly useful for treasure maps, but it does not solve any codes.
+
+*Related:*
+*Other Versions:*
 ___
-Related:
-Other Versions:
 

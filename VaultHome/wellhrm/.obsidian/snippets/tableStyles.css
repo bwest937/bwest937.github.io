@@ -95,7 +95,7 @@ th {
 }
 
 
-body pre, code {
+/*body pre, body code {
     color: var(--header-blue) !important;
     margin: 0;
     padding: 0.25em !important;
@@ -104,7 +104,7 @@ body pre, code {
     font-family:Futura !important;
     border-style:none;
     box-shadow:0 0 0 var(--background-primary)
-}
+}*/
 
 
 .monsterTable tbody td:first-child {

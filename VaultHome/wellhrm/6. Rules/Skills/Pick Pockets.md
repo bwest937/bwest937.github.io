@@ -6,6 +6,7 @@ advantage:
   - "[[Thiefers]]"
 tags:
   - "#class_skill"
+dg-publish: "true"
 ---
 
 > [!skill] `=this.file.name`

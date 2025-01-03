@@ -2,10 +2,11 @@
 spell_level: 2
 tags:
   - "#mu_basic"
+dg-publish: "true"
 ---
 
 #### `=this.file.name`
-___
+
 **Class:** [[Magic User]]
 **Spell Level:** `=this.spell_level`  
 **Range:**  Ally not in combat
@@ -13,10 +14,11 @@ ___
 **Tags:** `=this.tags`
 
 This spell unlocks and unbars all doors, gates, and portals within its range, including those held or locked by normal magic.
-___
 
-Related: [[Hold Door]]
-Other Versions:
+
+*Related:* [[Hold Door]]
+*Other Versions:*
+___
 
 
 

@@ -1,11 +1,12 @@
 ---
 spell_level: 1
 tags:
- - "#mu_basic"
+  - "#mu_basic"
+dg-publish: "true"
 ---
 
 #### Darkness
-___
+
 **Class:** [[Magic User]]
 **Spell Level:** `=this.spell_level`
 **Range:** 60 ft
@@ -20,8 +21,8 @@ This spell has three common usages:
 
 3. **Cancelling darkness:** Darkness may cancel a [[7. Spells/Magic User Spells/Light|Light]]  spell of equal [[MD]] , or reduce the effect of a [[7. Spells/Magic User Spells/Light|Light]]  spell cast with more [[MD]].
 
-___
+*Related:* [[7. Spells/Magic User Spells/Light|Light]]
+*Other Versions:*
 
-Related: [[7. Spells/Magic User Spells/Light|Light]]
-Other Versions:
+___
 

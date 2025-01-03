@@ -2,8 +2,10 @@
 die: 1d6
 ability: NA
 base: 1/6
-advantage: ["[[Thiefers]]"]
+advantage:
+  - "[[Thiefers]]"
 tags: "#class_skill"
+dg-publish: "true"
 ---
 
 > [!skill]  Find or Remove Treasure Traps

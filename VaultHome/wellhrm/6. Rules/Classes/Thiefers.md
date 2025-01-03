@@ -1,10 +1,13 @@
 ---
 ancestries:
- - "[[Humans]]"
- - "[[Dwarves]]"
- - "[[Elves]]"
- - "[[Halflings]]"
+  - "[[Humans]]"
+  - "[[Dwarves]]"
+  - "[[Elves]]"
+  - "[[Halflings]]"
+dg-publish: "true"
 ---
+
+## `=this.file.name`
 
  >[!info] `=this.file.name`  (image)
 **Prime Abilities:** Dexterity

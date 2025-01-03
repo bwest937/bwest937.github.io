@@ -1,9 +1,12 @@
 ---
 classname: Cleric
-ancestries: 
- - "[[Humans]]"
- - "[[Dwarves]]"
+ancestries:
+  - "[[Humans]]"
+  - "[[Dwarves]]"
+dg-publish: "true"
 ---
+
+## `=this.file.name`
 
  >[!info] `=this.classname`  (image)
 **Prime Abilities:** Wisdom

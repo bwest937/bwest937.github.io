@@ -2,9 +2,7 @@
 
 Characters with high Charisma get a bonus on reaction and morale rolls and can hire more specialists.
 
-
-    Table A3: Charisma
-
+#### Table A3 Charisma
 | **CHA Score** | **Hire Morale** | **Max Specialists** |
 |:-----------------:|:---------------:|:-------------------:|
 |         3         |        1        |         -4          |

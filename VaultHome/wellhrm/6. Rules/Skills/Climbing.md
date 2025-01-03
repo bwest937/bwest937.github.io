@@ -2,7 +2,9 @@
 die: 1d6
 ability: STR (save)
 base: depends on pace and angle
-advantage: ["[[Thiefers]], [[Hunter]]"]
+advantage:
+  - "[[Thiefers]], [[Hunter]]"
+dg-publish: "true"
 ---
 
 > [!skill] `=this.file.name`
@@ -28,11 +30,11 @@ Climbing allows for three paces: normal (240 ft), half (120 ft), creep (60ft). S
 Choose a pace, and up your modifiers. If you are at 6 or more, you automatically succeed. Otherwise, roll 1d6 + STR and compare to the table below.
 
 #### Chance of Success
-| **Pace**       | **Slope** | **Wall** | **Overhang** | **Ceiling** |
-| -------------- | --------- | -------- | :------------: | ----------- |
-| Creep - 60ft   | 7-in-6    | 4-in-6   | 3-in-6       | 1-in-6      |
-| Crawl - 120ft  | 6-in-6    | 3-in-6   | 2-in-6       | 0-in-6      |
-| Normal - 240ft | 5-in-6    | 2-in-6   | 0-in-6       | -2-in-6     |
+| Pace           | Slope  | Wall   | Overhang | Ceiling | 
+| -------------- | ------ | ------ |:--------:| ------- |
+| Creep - 60ft   | 7-in-6 | 4-in-6 |  3-in-6  | 1-in-6  |
+| Crawl - 120ft  | 6-in-6 | 3-in-6 |  2-in-6  | 0-in-6  |
+| Normal - 240ft | 5-in-6 | 2-in-6 |  0-in-6  | -2-in-6 |
 
 
 #### ADD 1-IN-6 IF:

@@ -1,9 +1,12 @@
 ---
-classname: "Magic User"
+classname: Magic User
 ancestries:
- - "[[Humans]]"
- - "[[Elves]]"
+  - "[[Humans]]"
+  - "[[Elves]]"
+dg-publish: "true"
 ---
+
+## `=this.file.name`
 
  >[!info] `=this.classname`  (image)
 **Prime Abilities:** Intelligence
@@ -28,7 +31,7 @@ Magic-Users gain a bonus of +2 on all saving throw rolls against spells, includi
 
 ### Arcane Magic
 
-**Arcane Magic:** Magic-Users carry spellbooks containing the formulae for arcane spells. A first level magic-user selects (2 + INT bonus) number of Level 1 spells and (INT bonus) number Level 2 spell from the basic spell lists for their starting spellbook. They always get [[7. Spells/Magic Dart]].
+**Arcane Magic:** Magic-Users carry spellbooks containing the formulae for arcane spells. A first level magic-user selects (2 + INT bonus) number of Level 1 spells and (INT bonus) number Level 2 spell from the basic spell lists for their starting spellbook. They always get [[Magic Dart]].
 
 #### Scrolls
 Magic-Users are able to use any arcane scroll they can identify, even if the spell is a higher level than they can normally cast.  They can potentially identify any scroll.

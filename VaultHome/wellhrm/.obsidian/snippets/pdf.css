@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Futura;
+    src: url("https://db.onlinewebfonts.com/t/d632db3304a2ab2099e1967e15c0b7dd.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Minion Pro;
+    src: url('https://db.onlinewebfonts.com/t/fe9c236a1c142788cb16ec5238c7833e.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Minion Pro Bold";
+    src: url("https://db.onlinewebfonts.com/t/c3b734d6a7b314da0b59d3ebd239e54f.ttf") format("truetype");
+
+}
+  
+@media print {
+  body {
+    --font-interface-override: "Minion Pro" !important;
+    --font-text-override: "Minion Pro" !important;
+    --font-print-override: "Minion Pro" !important;
+    --font-monospace-override: "Consolas" !important;
+    --font-text-size: 20px !important;
+/*    font-family: "Times New Roman" !important;*/
+  }
+
+  p {
+    page-break-inside: avoid;
+  }
+
+  hr {
+    margin-top: 5 !important;
+  }
+
+
+}

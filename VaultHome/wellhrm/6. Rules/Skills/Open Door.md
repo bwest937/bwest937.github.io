@@ -2,7 +2,9 @@
 die: 1d6
 ability: STR
 base: 1/6
-advantage: [[[Fighter]]]
+advantage:
+  - - - Fighter
+dg-publish: "true"
 ---
 
 ### Open Door

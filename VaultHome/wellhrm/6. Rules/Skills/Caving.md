@@ -2,7 +2,8 @@
 die: 1d6
 ability: DEX (save)
 base: depends on pace and passage size
-advantage:
+advantage: 
+dg-publish: "true"
 ---
 
 ### `=this.file.name`
@@ -29,10 +30,10 @@ Choose a pace, and up your modifiers. If you are at 6 or more, you automatically
 
 ##### Chance of Success
 
-| **Pace**   | **Crawl** | **Squeeze** |
-| ---------- | --------- | ----------- |
-| Creep 60ft | 7-in-6    | 4-in-6      |
-| Half 120ft | 5-in-6    | 3-in-6      |
+| Pace       | Crawl  | Squeeze | 
+| ---------- | ------ | ------- |
+| Creep 60ft | 7-in-6 | 4-in-6  |
+| Half 120ft | 5-in-6 | 3-in-6  |
 
 #### ADD 1-IN-6 IF:
 

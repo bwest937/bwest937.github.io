@@ -1,11 +1,12 @@
 ---
 spell_level: 1
 tags:
- - "#mu_basic" 
+  - "#mu_basic"
+dg-publish: "true"
 ---
 
 #### `=this.file.name`
-___
+
 **Class:** [[Magic User]]
 **Spell Level:**  `=this.spell_level`
 **Range:**  Self
@@ -13,9 +14,10 @@ ___
 **Tags:** `=this.tags`
 
 The caster conjures up an invisible shield that interposes itself in front of attacks. The shield improves the caster’s armor class to 17 against missile attacks and to 15 against other (melee) attacks. If the caster’s armor class is already better than the spell would grant, the spell has no effect.
+
+*Related:*
+*Other Versions:*
 ___
-Related:
-Other Versions:
 
 
 

@@ -1,18 +1,19 @@
 ---
 spell_level: 1
 tags:
- - "#mu_basic"
+  - "#mu_basic"
+dg-publish: "true"
 ---
 
 #### `=this.file.name`
-___
+
 **Class:** [[Magic User]]
 **Spell Level:** `=this.spell_level` 
 **Range:** 240ft
 **Duration:**  1 hr
 **Tags:** `=this.tags`
 
-This spell puts creatures around a targeted point into an enchanted slumber (no saving throw permitted). Causes creatures (except undead) to fall into a magical slumber. It affects creatures based on their hit dice.
+This spell puts creatures around a targeted point into an enchanted slumber (no saving throw permitted). Causes creatures (except undead) to fall into a magical slumber. It affects creatures based on their hit dice, weakest creatures first.
 
 | HD of Victim     | Number Affected   |
 | ---------------- | ----------------- |
@@ -23,9 +24,10 @@ This spell puts creatures around a targeted point into an enchanted slumber (no 
 
 
 A sleeping creature requires a full round to waken and must be shaken or slapped to bring it to consciousness; mere noise, however loud, will not disturb the enchanted slumber of a sleep spell’s victim.
+
+*Related:*
+*Other Versions:*
 ___
-Related:
-Other Versions:
 
   
 

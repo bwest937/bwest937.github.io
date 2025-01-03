@@ -2,8 +2,7 @@
 
 High Intelligence is especially important for Magic Users and provides a better chance to learn new spells, to know a language, and to recall facts about the world and its inhabitants.
 
-    Table A2: Intelligence
-
+#### Table A2
 | **Score** | **Read Magic/Learn New Spell/Know Language** | 
 |:---------:|:----------------------------------------:|
 |    3-7    |                   30%                    |

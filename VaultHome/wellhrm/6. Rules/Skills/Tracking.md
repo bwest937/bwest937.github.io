@@ -6,6 +6,7 @@ advantage:
   - "[[Hunter]]"
 tags:
   - "#class_skill"
+dg-publish: "true"
 ---
 
 

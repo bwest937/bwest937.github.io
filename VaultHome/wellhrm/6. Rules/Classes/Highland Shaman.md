@@ -1,9 +1,12 @@
 ---
 classname: Hunter
 ancestries:
- - "[[Humans]]"
- - "[[Halflings]]"
+  - "[[Humans]]"
+  - "[[Halflings]]"
+dg-publish: "true"
 ---
+
+## `=this.file.name`
 
  >[!info] `=this.classname`  ![[Highland Shaman.png]]
 **Prime Abilities:** Charisma
