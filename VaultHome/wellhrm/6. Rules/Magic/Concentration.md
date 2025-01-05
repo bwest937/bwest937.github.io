@@ -4,6 +4,7 @@ ability: INT
 base: save
 tags:
   - "#normal_skill"
+dg-publish: "true"
 ---
 
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Death and Dying
 
   
@@ -12,9 +15,8 @@ When you drop to 0 hit points, you either die outright or fall unconscious, as e
 Massive damage can kill you instantly. When damage reduces you to 0 hit points and there is damage remaining, you take negative HP. If your negative HP is ever equal to your maximum HP, you are **no more**.
 
 
-#### Example: One Dead Cleric
-
-A cleric with a maximum of 12 hit points currently has 6 HP. If she takes 18 damage from an attack, she is reduced to 0 hit points, with 12 damage remaining. Because the remaining damage equals her hit point maximum, the cleric dies.
+> [!example] 
+> A [[Cleric]] with a maximum of 12 hit points currently has 6 HP. If she takes 18 damage from an attack, she is reduced to 0 hit points, with 12 damage remaining. Because the remaining damage equals her hit point maximum, she dies immediately.
 
 
 ### Dying

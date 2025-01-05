@@ -14,5 +14,5 @@ dg-publish: "true"
 The caster can perceive, in places, people, or things, the presence of a magical spell or enchantment. For example, magical items may be discovered in this fashion, as can the presence of a charm secretly laid upon a person.
 
 *Related:*
-*Other Versions:*
+*Other Versions:* [[7. Spells/Shaman Spells/Detect Magic|Detect Magic (Shaman)]] [[7. Spells/Cleric Spells/Detect Evil|Detect Evil (Cleric)]]
 ___

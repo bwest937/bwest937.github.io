@@ -1,0 +1,105 @@
+@font-face {
+    font-family: Futura;
+    src: url("https://db.onlinewebfonts.com/t/d632db3304a2ab2099e1967e15c0b7dd.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: Minion Pro;
+    src: url('https://db.onlinewebfonts.com/t/fe9c236a1c142788cb16ec5238c7833e.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Minion Pro Bold";
+    src: url("https://db.onlinewebfonts.com/t/c3b734d6a7b314da0b59d3ebd239e54f.ttf") format("truetype");
+
+}
+
+@font-face {
+    font-family: Council;
+    src: url('https://db.onlinewebfonts.com/t/7bb6bf59a33b5be38c685d9c895cb4f0.ttf') format('truetype');
+}
+
+@media print {
+    .markdown-preview-view {
+        column-count: 2;
+        column-gap: 2em;
+        --h1-color: black;
+        --h2-color: black;
+        --h3-color: black;
+        --h4-color: black;
+        --h5-color: black;
+        --h6-color: black;
+        /* --tag-color: black;
+        --tag-background: transparent; */
+    }
+
+    .pdf-col * {
+        column-span: all !important; /* Ensure embeds span the full width of their container */
+    }
+
+    .block-language-dataviewjs {
+        column-count: 2;
+        column-gap: 2em;
+    }
+
+    table-view-table {
+        column-count: 1;
+    }
+
+
+    .internal-embed .markdown-embed-title {
+        display: none;
+    }
+
+   /* Ensure h1s span all columns */
+    h1 {
+        column-span: all; /* Makes h1 elements span across all columns */
+        margin-top: 1em; /* Adds spacing above the h1 */
+        margin-bottom: 1em; /* Adds spacing below the h1 */
+        text-align: center !important; /* Optional: Centers the heading */
+        font-size: 80pt !important;
+        font-family: Council !important;
+        color: #231f20;
+        font-weight: normal;
+        letter-spacing: 0.025em !important;
+        margin-top: -18px;
+        text-shadow: 3px 3px 2px #fff, -3px 3px 2px #fff, 3px -3px 2px #fff, -3px -3px 2px #fff, 0px -3px 2px #fff, -3px 0px 2px #fff, 3px 0px 2px #fff, 0px 3px 2px #fff;
+        padding-bottom: 10px
+    }
+
+
+    h2 {
+        /* font-size: 42pt !important; */
+        font-family: Council !important;
+        color: #231f20 !important;;
+        font-weight: normal !important;;
+        letter-spacing: 0.025em !important;
+        line-height: 0.9 !important;
+    }
+
+    h4, h3 {
+        font-family: Futura !important;
+        font-weight: normal !important;
+        color: #231f20 !important;;
+        /* margin-top: 10px;
+        margin-bottom: 10px; */
+    }
+
+
+    h5 {
+        font-family: Minion Pro !important;
+        color: #231f20;
+        font-size: 12pt;
+        line-height: 1.3em;
+        font-weight: normal;
+        border-bottom: 1pt solid #000
+    }
+
+    strong, em {
+        color: #231f20 !important;
+    }
+
+    span {
+        page-break-inside: avoid;
+    }
+}

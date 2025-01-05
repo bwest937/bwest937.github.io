@@ -65,16 +65,16 @@ When a Lawful Cleric attempts a turning, the player should roll 2d10 and consult
 - If the table indicates **"D"**, 2d6 of the undead creatures are automatically destroyed and crumble to dust.
 
 
-| **Challenge Level** | **Example** | **Cleric  1** | **Cleric 2** | **Cleric 3** | **Cleric 4** |
-| ------------------- | ----------- | ------------- | ------------ | ------------ | ------------ |
-| 1                   | Skeleton    | 10            | 7            | 4            | T            |
-| 2                   | Zombie      | 13            | 10           | 7            | 4            |
-| 3                   | Ghoul       | 16            | 13           | 10           | 7            |
-| 4                   | Shadow      | 19            | 16           | 13           | 10           |
-| 5                   |             | 20            | 19           | 16           | 13           |
-| 6                   | Wight       | --            | 20           | 19           | 16           |
-| 7                   | Mummy       | --            | --           | 20           | 19           |
-| 8                   | Wraith      | --            | --           | --           | 20           |
+| Challenge Level | Example  | Cleric  1 | Cleric 2 | Cleric 3 | Cleric 4 | 
+| --------------- | -------- | --------- | -------- | -------- | -------- |
+| 1               | Skeleton | 10        | 7        | 4        | T        |
+| 2               | Zombie   | 13        | 10       | 7        | 4        |
+| 3               | Ghoul    | 16        | 13       | 10       | 7        |
+| 4               | Shadow   | 19        | 16       | 13       | 10       |
+| 5               |          | 20        | 19       | 16       | 13       |
+| 6               | Wight    | --        | 20       | 19       | 16       |
+| 7               | Mummy    | --        | --       | 20       | 19       |
+| 8               | Wraith   | --        | --       | --       | 20       |
 
 ## Cleric Level Progression
 
@@ -86,3 +86,21 @@ When a Lawful Cleric attempts a turning, the player should roll 2d10 and consult
 |   3   | 3,200 | 3d6 |      13      |  1  |      1      |                           |
 |   4   | 6,400 | 4d6 |      12      |  1  |      2      |                           |
 
+## Cleric Basic Spell List
+
+### Cantrips
+- [[Bless]]
+
+### Level 1
+```dataview
+LIST
+FROM "7. Spells/Cleric Spells"
+WHERE contains(file.tags, "#cleric_basic") AND file.frontmatter.spell_level = 1
+```
+
+### Level 2
+```dataview
+LIST
+FROM "7. Spells/Cleric Spells"
+WHERE contains(file.tags, "#cleric_basic") AND file.frontmatter.spell_level = 2
+```

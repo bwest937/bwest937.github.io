@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 ### Humans
 Humans are the default ancestry, and thus they receive no specific bonuses or penalties as do the other ancestries. Humans have the most class options of any ancestry.
 

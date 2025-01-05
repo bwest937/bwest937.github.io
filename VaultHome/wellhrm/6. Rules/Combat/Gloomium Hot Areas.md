@@ -7,7 +7,7 @@ Exposure to unusually strong amounts of gloomium may have unpredictable effecs.
 
 Arcane and natural casters that spend at least a turn in a "gloomium hot" area (as designated by the DM) will  gain a [GD] (gloomium die).
 
-[GD] act as [MD], with two limitations:
+[GD] act as [[MD]], with two limitations:
 
 - **Duration:** The [GD] lasts for 1d6 x level turns. Unused [GD] dissipate harmlessly.
 - **Mishap Risk:** If you use a [GD] and roll 1 or 2, you must make a roll on the Mishap table.
@@ -18,23 +18,23 @@ Combat in or near a hot area affects all sides equally, barring specific immunit
 
 Roll 1d4 on the following table to see what kind of rolls are affected.
 
-  <div class='descriptiveBlack'>Table G1: Gloomium Affected Roll</div>
+##### Table G1: Gloomium Affected Roll
 
 | <span class="TableBold">1d4</span> | <span class="TableBold">Affected Rolls</span> |
 |:----------------------------------:|:--------------------------------------------- |
 |                 1                  | To hit                                        |
-|                 2                  | Damage                                        |
+|                 2                  | Damage                                        | 
 |                 3                  | Save                                          |
-|                 4                  | [MD] pips                                     | 
-
+|                 4                  | [[MD]] pips                                   |
+    
 Roll 1d6 on the following table to determine the modifier to the affected rolls.
 
-<div class='descriptiveBlack'>Table G2: Gloomium Modifiers</div>
+##### Table G2: Gloomium Modifiers
 
 | <span class="TableBold">1d6</span> | <span class="TableBold">Modifier</span> |
 |:----------------------------------:|:---------------------------------------:|
 |                 1                  |                   -1                    |
-|                 2         ``         |                   -2                    |
+|                 2                  |                   -2                    |
 |                 3                  |                  -1d4                   |
 |                 4                  |                   +1                    |
 |                 5                  |                   +2                    |

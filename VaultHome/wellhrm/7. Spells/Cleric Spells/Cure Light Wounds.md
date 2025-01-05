@@ -1,7 +1,5 @@
 ---
 spell_level: 1
-tags:
-  - "#cleric_basic"
 dg-publish: "true"
 ---
 
@@ -11,7 +9,7 @@ dg-publish: "true"
 **Spell Level:** `=this.spell_level`  
 **Range:**  Touch
 **Duration:**  Immediate
-**Tags:** `=this.tags`
+**Tags:** #cleric_basic #reversible 
 
 Cures [[MD Sum]]+1 hit points of damage.
 

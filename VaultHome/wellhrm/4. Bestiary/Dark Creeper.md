@@ -68,9 +68,7 @@ XP: `=this.xp`
 
 #### Source
 
-Into The Weird And Wild
-[Link Text](obsidian://open?vault=swords_and_wizardry_ref&file=dirname%2F) p162
-
+Fiends and Foes
 
 
 

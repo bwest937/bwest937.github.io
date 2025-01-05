@@ -5,7 +5,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Z_Attach",
   "showInlineTitle": true,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
@@ -14,7 +14,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "2",
-    "downscalePercent": 100
+    "downscalePercent": 67
   },
   "newLinkFormat": "shortest",
   "showIndentGuide": false,

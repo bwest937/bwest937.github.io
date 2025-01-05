@@ -3,7 +3,7 @@
   "accentColor": "#5cf58a",
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "S - Embed Adjustments",
-    "tableStyles"
+    "tableStyles",
+    "2col"
   ]
 }

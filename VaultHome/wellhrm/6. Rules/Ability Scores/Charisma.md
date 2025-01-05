@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 ### Charisma
 
 Characters with high Charisma get a bonus on reaction and morale rolls and can hire more specialists.

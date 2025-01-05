@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 
 When the party of adventurers gets into a fight, the order of events is as follows
@@ -12,7 +15,7 @@ The DM determines if a surprise roll is required, and if so, both sides roll to 
 Certain actions must be declared before Initiative is rolled (the DM makes a similar determination for the opponents): [[Charge]], [[Set Defense]], and [[Casting A Spell]]
 	
 ## 3 Resolve Charges
-Any [[Charge|Charges]] are resolved simultaneously. If charging foes meet, their relative speed will determine where they clash. 
+Any [[Charge|Charges]] are resolved simultaneously. If charging foes meet, their relative speed will determine where they clash and weapon length will determine who strikes first.
 
 ## 4 Roll Initiative
 

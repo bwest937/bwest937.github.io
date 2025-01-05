@@ -6,13 +6,13 @@ Attacks: Bite (1d8) + poison
 Save: 16
 Move: 10
 Morale: 10
-Special: Lethal #poison
+Special: Lethal
 Alignment: Neutral
 Encountered: 1d4
 Lair: 0
 CL: 3
 XP: 60
-Bits:
+Bits: Heads, apparently
 ---
 
 ___

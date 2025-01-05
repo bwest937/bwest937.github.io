@@ -1,8 +1,6 @@
 ---
 
 spell_level: 1
-tags:
- - "#mu_basic" 
 ---
 
 #### `=this.file.name`
@@ -11,7 +9,7 @@ tags:
 **Spell Level:** `=this.spell_level`  
 **Range:**  Ally not in combat
 **Duration:**  1 hr
-**Tags:** `=this.tags`
+**Tags:** 
 
 Spell description...
 

@@ -13,24 +13,40 @@
     src: url("https://db.onlinewebfonts.com/t/c3b734d6a7b314da0b59d3ebd239e54f.ttf") format("truetype");
 
 }
-  
+
 @media print {
-  body {
+    body {
     --font-interface-override: "Minion Pro" !important;
     --font-text-override: "Minion Pro" !important;
     --font-print-override: "Minion Pro" !important;
     --font-monospace-override: "Consolas" !important;
     --font-text-size: 20px !important;
-/*    font-family: "Times New Roman" !important;*/
-  }
+    /*    font-family: "Times New Roman" !important;*/
+    }
 
-  p {
+    p {
     page-break-inside: avoid;
-  }
+    }
 
-  hr {
+    hr {
     margin-top: 5 !important;
-  }
+    }
 
+    .markdown-preview-view {
+        column-count: 2;
+        column-gap: 2em;
+    }
+
+    .internal-embed {
+        column-span: all; /* Ensure embeds span the full width of their container */
+        border: none;
+        box-shadow: none;
+        margin: 1em 0;
+        padding: 0;
+    }
+
+    .internal-embed .markdown-embed-title {
+        display: none;
+    }
 
 }

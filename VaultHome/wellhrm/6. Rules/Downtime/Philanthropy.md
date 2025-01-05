@@ -2,17 +2,15 @@ Once per session while in a civilized settlement, a PC may choose to donate to p
 
   
 
-    Table P1: Philanthropy
+##### Table P1: Philanthropy
 
-  
-
-| **Settlement Size**                     | **Minimum GP Donated** | 
-|:--------------------------------------- |:----------------------:|
-| [[Economy#Village (up to 1k)\|Village]] |          300           |
-| [[Economy#Town (1-8k)\|Town]]           |          600           |
-| [[Economy#City (8-12k)\|City]]          |          1000          |
-| [[Economy#Big City (12-25k)\|Big City]] |          1500          |
-| [[Economy#Lunden (25k+)\|Lunden]]       |          2000          |
+| Settlement Size                         | Minimum GP Donated | 
+|:--------------------------------------- |:------------------:|
+| [[Economy#Village (up to 1k)\|Village]] |        300         |
+| [[Economy#Town (1-8k)\|Town]]           |        600         |
+| [[Economy#City (8-12k)\|City]]          |        1000        |
+| [[Economy#Big City (12-25k)\|Big City]] |        1500        |
+| [[Economy#Lunden (25k+)\|Lunden]]       |        2000        |
 
 
 

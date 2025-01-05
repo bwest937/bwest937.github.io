@@ -14,9 +14,9 @@
   "prevConfig": {
     "pageSize": "A4",
     "marginType": "2",
-    "showTitle": true,
+    "showTitle": false,
     "open": true,
-    "scale": 50,
+    "scale": 67,
     "landscape": false,
     "marginTop": "10",
     "marginBottom": "10",
@@ -24,6 +24,6 @@
     "marginRight": "10",
     "displayHeader": false,
     "displayFooter": false,
-    "cssSnippet": "/Users/P2187783/bwest937.github.io/VaultHome/wellhrm/.obsidian/snippets/pdf.css"
+    "cssSnippet": "0"
   }
 }

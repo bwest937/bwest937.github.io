@@ -9,7 +9,7 @@ If the amount of gold spent is more than the PC has on hand, they owe the money 
 
 If the die roll is higher than the carouser’s level (automatic at level 1), they still gain the listed XP, but must roll on the Carousing Mishaps table.
 
-    Table CA1 Carousing
+##### Table CA1 Carousing
 
 | **Settlement Size**                     | **GP Spent/XP Gained** | **Mishap Role** |
 |:--------------------------------------- |:----------------------:| --------------- |
@@ -21,7 +21,7 @@ If the die roll is higher than the carouser’s level (automatic at level 1), th
 
 
 
-    Table CA2 Carousing Mishaps
+##### Table CA2 Carousing Mishaps
     
 | **Roll** | **Result**                                                                                                                                                                                         |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

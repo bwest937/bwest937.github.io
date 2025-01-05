@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Cooking
 
   Cooking is a crucial skill for any adventuring party. Unlike rations, cooking with fresh and unique ingredients provides healing. Dungeon food is cooked using ingredients primarily scavenged from deep caves, lost ruins, or deadly temples; the exception to this being the spices that some gourmands bring with them into dungeons.
@@ -8,8 +11,8 @@
 - The party can heal from cooking once per day
 - The dish must feed everyone, at least one portion per party member.
 - The preparation of at least one named ingredient must be described by the players.
-- It takes roughly an hour (6 turns) to prep, cook, and eat a hearty meal.
-- There must be fire available, unless the dish doesn't require it.
+- It takes roughly at least an hour (6 turns) to prep, cook, and eat a hearty meal.
+- There must be fire and a pot or similar available, unless the dish doesn't require it.
 
 
 ### Procedure
@@ -30,11 +33,11 @@ Assuming the requirements are met and the meal isn't poisonous, the meal heals H
 
 ##### Table C2: Example Cooking Modifiers
 
-| **Resource**          | **Mod** |
-| --------------------- | ------- |
-| Spices                | +1      | 
-| Mess Kit              | +1      |
-| Additional Ingredient | +1      |
+| Resource              | Mod | 
+| --------------------- | --- |
+| Spices                | +1  |
+| Mess Kit              | +1  |
+| Additional Ingredient | +1  |
 
 **Encounters:**
 
@@ -44,8 +47,10 @@ Encounter rolls may still occur when cooking, but the party can often take measu
 
 Some PCs will be bothered more than others by the notion of eating their own or similarly-intelligent species.
 
-Few things are less Lawful than eating people, so Clerics and Witchfinders will incur 2 slots of Burden. Other Lawful PCs will get 1 slot of Burden, while neutral and chaotic characters are blissfully unburdened. Regardless of Burden, eating people is how you get ghouls.
+Few things are less Lawful than eating people, so Clerics will incur 2 slots of Burden. Other Lawful PCs will get 1 slot of Burden, while neutral and chaotic characters are blissfully unburdened. Regardless of Burden, eating people is how you get ghouls.
+
+Relieving Burden will require some time in church or the equivalent. Multiple level may require completing a task or quest in the name of the character's deity/faith.
 
 **Toxic And Magical Food:**
 
-It might happen that either part or all of a creature is harmful to eat. Magical creatures may have a chance of both beneficial and negative consequences. Prior knowledge, magic (e.g. Detect Poison) and Lore checks can all be used to prevent ingesting dangerous food.
+It might happen that either part or all of a creature is harmful to eat. Magical creatures may have a chance of both beneficial and negative consequences. Prior knowledge, magic (e.g. Detect Poison, [[7. Spells/Cleric Spells/Purify Food and Drink|Purify Food and Drink]]) and using your head can all be used to prevent ingesting dangerous food.

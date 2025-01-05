@@ -27,7 +27,7 @@ Hunters reduced chance of hitting an ally in combat and their special sidearm sh
  
 
 - **Damage Bonus:** Hunters gain a bonus to all damage rolls based on their Strength. They additionally gain +1 to all damage rolls when wielding a bow.
-- **Lucky Miss:** Hunters are much less likely to hit their allies when firing into melee. Miss Attacks against allies are rolled with disadvantage.
+- **Lucky Miss:** Hunters are much less likely to hit their allies when [[Ranged Attacks#Ranged Attacks Into Melee|firing into melee]] or through [[Ranged Attacks#Ranged Attacks Through Multiple Ranks of Allies|multiple ranks of allies]]. Any miss attacks against allies are rolled with disadvantage.
 - **Sidearmed:** At Level 2, Hunters craft a custom hand crossbow. This sidearm uses light bolts, has a range of 30ft, and suffers no penalty for shooting at melee range. Once per encounter, the Hunter can fire the sidearm in addition to the rest of their turn. Alternatively, they can fire the sidearm on the enemies turn as if a trigger was declared, even if the Hunter's side lost initiative.
 - **Multiple Attacks:** At level 4, Hunters gain their choice of an extra melee attack on every odd round, or a second use of their hand crossbow per encounter (one use per round max).
 

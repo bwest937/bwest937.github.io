@@ -5,4 +5,8 @@ dg-publish: true
 
 # Handbooking Yall
 
-![[Classes|clean]]
+
+
+[[Ability Scores]]
+[[Classes]]
+[[Skills]]

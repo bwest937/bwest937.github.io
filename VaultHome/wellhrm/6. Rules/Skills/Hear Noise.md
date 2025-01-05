@@ -2,7 +2,7 @@
 die: 1d6
 ability: STR
 advantage:
-  - Thiefers
+  - "[[Thiefers]]"
 base: 1/6
 tags:
   - "#normal_skill"

@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 ### Intelligence
 
 High Intelligence is especially important for Magic Users and provides a better chance to learn new spells, to know a language, and to recall facts about the world and its inhabitants.
