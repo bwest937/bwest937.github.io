@@ -1,5 +1,5 @@
 ---
-slots: 1/3
+slots: 1/2
 ---
 
 > [!weapon] `=this.file.name`

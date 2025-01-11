@@ -3,6 +3,7 @@ spell_level: 3
 tags:
   - "#cleric_basic"
 dg-publish: "true"
+spell_class: "[[Cleric]]"
 ---
 
 #### `=this.file.name`

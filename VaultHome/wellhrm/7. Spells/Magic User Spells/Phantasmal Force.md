@@ -1,5 +1,6 @@
 ---
 spell_level: 2
+spell_class: "[[Magic User]]"
 ---
 
 #### `=this.file.name`

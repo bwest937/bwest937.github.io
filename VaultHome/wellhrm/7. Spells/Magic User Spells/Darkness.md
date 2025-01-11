@@ -1,8 +1,7 @@
 ---
 spell_level: 1
-tags:
-  - "#mu_basic"
 dg-publish: "true"
+spell_class: "[[Magic User]]"
 ---
 
 #### Darkness
@@ -11,7 +10,7 @@ dg-publish: "true"
 **Spell Level:** `=this.spell_level`
 **Range:** 60 ft
 **Duration:** 1 hour + 1 turn/level
-**Tags:** `=this.tags`
+**Tags:** #mu_basic #light_spell
 
 This spell has three common usages:
 
@@ -21,8 +20,18 @@ This spell has three common usages:
 
 3. **Cancelling darkness:** Darkness may cancel a [[7. Spells/Magic User Spells/Light|Light]]  spell of equal [[MD]] , or reduce the effect of a [[7. Spells/Magic User Spells/Light|Light]]  spell cast with more [[MD]].
 
-*Related:* [[7. Spells/Magic User Spells/Light|Light]]
-*Other Versions:*
+*Related:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM #light_spell
+WHERE !contains(file.name, this.file.name)
+```
 
+*Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___
 

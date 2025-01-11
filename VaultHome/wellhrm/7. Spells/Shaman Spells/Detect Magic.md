@@ -1,6 +1,7 @@
 ---
 spell_level: 1
 dg-publish: "true"
+spell_class: "[[Highland Shaman]]"
 ---
 
 #### `=this.file.name`
@@ -14,5 +15,11 @@ dg-publish: "true"
 The caster can perceive, in places, people, or things, the presence of a magical spell or enchantment. For example, magical items may be discovered in this fashion, as can the presence of a charm secretly laid upon a person.
 
 *Related:* 
-*Other Versions:* [[7. Spells/Magic User Spells/Detect Magic|Detect Magic (MU)]] [[7. Spells/Cleric Spells/Detect Magic|Detect Magic (Cleric)]]
+*Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name
+WHERE !contains(file.name, this.file.name)
+```
 ___

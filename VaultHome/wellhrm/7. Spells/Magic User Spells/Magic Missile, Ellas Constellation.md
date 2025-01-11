@@ -3,6 +3,7 @@ spell_level: 1
 tags:
   - "#mu_basic"
 dg-publish: "true"
+spell_class: "[[Magic User]]"
 ---
 
 #### Ella's Constellation (Magic Missile Variant)

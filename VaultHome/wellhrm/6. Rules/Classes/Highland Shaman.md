@@ -4,6 +4,7 @@ ancestries:
   - "[[Humans]]"
   - "[[Halflings]]"
 dg-publish: "true"
+cssclasses: wideTable
 ---
 
 ## `=this.file.name`
@@ -46,10 +47,36 @@ Highland Shaman can use scrolls of Nature spells and instantly recognize any scr
   
 ## Highland Shaman Level Progression
 
-| Level | XP | HD | Saving Throw | BAB | Spell Level | Special |
-|:-:|:------:|:---:|:--:|:-:|:-:|:-------------------------------:|
-| 1 | 0      | 1d6 | 15 | 0 | 1 | Nature Magic, Immunity to Fear  |
-| 2 | 2,500  | 2d6 | 14 | 0 | 2 |                                 |
-| 3 | 5,000  | 3d6 | 13 | 0 | 2 | Inspire Fight                   |
-| 4 | 10,000 | 4d6 | 12 | 1 | 3 |                                 |
+| Level |   XP   | HD  | Saving Throw | BAB | Spell Level |            Special             |
+|:-----:|:------:|:---:|:------------:|:---:|:-----------:|:------------------------------:|
+|   1   |   0    | 1d6 |      15      |  0  |      1      | Nature Magic, Immunity to Fear |
+|   2   | 2,500  | 2d6 |      14      |  0  |      2      |                                |
+|   3   | 5,000  | 3d6 |      13      |  0  |      2      |         Inspire Fight          |
+|   4   | 10,000 | 4d6 |      12      |  1  |      3      |                                |
 
+# Highland Shaman Basic Spell List
+
+### Cantrips
+- [[Speak From Beyond]]
+
+### Level 1
+```dataview
+LIST
+FROM #shaman_basic  
+WHERE file.frontmatter.spell_level = 1
+```
+
+### Level 2
+```dataview
+LIST
+FROM #shaman_basic
+WHERE file.frontmatter.spell_level = 2
+```
+
+### Level 3
+
+```dataview
+LIST
+FROM #shaman_basic
+WHERE file.frontmatter.spell_level = 3
+```

@@ -1,6 +1,7 @@
 ---
 spell_level: 0
 dg-publish: "true"
+spell_class: "[[Highland Shaman]]"
 ---
 
 #### `=this.file.name`

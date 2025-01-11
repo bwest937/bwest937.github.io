@@ -1,6 +1,7 @@
 ---
 spell_level: 1
 dg-publish: "true"
+spell_class: "[[Cleric]]"
 ---
 
 #### `=this.file.name`
@@ -14,6 +15,6 @@ dg-publish: "true"
 Cures [[MD Sum]]+1 hit points of damage.
 
 *Related:* 
-*Other Versions:*
+*Other Versions:* [[7. Spells/Shaman Spells/Cure Light Wounds|Cure Light Wounds]]
 ___
 

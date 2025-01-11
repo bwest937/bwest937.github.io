@@ -4,6 +4,8 @@ ancestries:
   - "[[Humans]]"
   - "[[Elves]]"
 dg-publish: "true"
+cssclasses:
+  - wideTable
 ---
 
 ## `=this.file.name`
@@ -49,14 +51,14 @@ Magic-Users are able to use any arcane scroll they can identify, even if the spe
 ## Magic-User Level Progression
 
 
-| Level | XP | HD | Saving Throw | BAB | Spell Level | Special  |
-|:---------:|:------:|:------:|:----------------:|:-------:|:---------------:|:------------:|
-|     1     |   0    |  1d4   |        15        |    0    |        1        | Arcane Magic |
-|     2     | 2,500  |  2d4   |        14        |    0    |        1        |              |
-|     3     | 5,000  |  3d4   |        13        |    0    |        2        |              |
-|     4     | 10,000 |  4d4   |        12        |    1    |        2        |              |
+| Level |   XP   | HD  | Saving Throw | BAB | Spell Level |   Special    | 
+|:-----:|:------:|:---:|:------------:|:---:|:-----------:|:------------:|
+|   1   |   0    | 1d4 |      15      |  0  |      1      | Arcane Magic |
+|   2   | 2,500  | 2d4 |      14      |  0  |      1      |              |
+|   3   | 5,000  | 3d4 |      13      |  0  |      2      |              |
+|   4   | 10,000 | 4d4 |      12      |  1  |      2      |              |
 
-## Magic-User Basic Spell List
+# Magic-User Basic Spell List
 
 ### Cantrips
 - [[7. Spells/Magic User Spells/Magic Dart|Magic Dart]]
@@ -64,14 +66,21 @@ Magic-Users are able to use any arcane scroll they can identify, even if the spe
 ### Level 1
 ```dataview
 LIST
-FROM "7. Spells/Magic User Spells"
-WHERE contains(file.tags, "#mu_basic") AND file.frontmatter.spell_level = 1
+FROM #mu_basic 
+WHERE file.frontmatter.spell_level = 1
 ```
 
 ### Level 2
 ```dataview
 LIST
-FROM "7. Spells/Magic User Spells"
-WHERE contains(file.tags, "#mu_basic") AND file.frontmatter.spell_level = 2
+FROM #mu_basic 
+WHERE file.frontmatter.spell_level = 2
 ```
 
+### Level 3
+
+```dataview
+LIST
+FROM #mu_basic 
+WHERE file.frontmatter.spell_level = 3
+```

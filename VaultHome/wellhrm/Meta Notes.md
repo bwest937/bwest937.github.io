@@ -8,14 +8,19 @@ https://forum.obsidian.md/t/listing-all-files-within-a-directory-that-the-curren
 #### embed
 https://publish.obsidian.md/slrvb-docs/ITS+Theme/Embed+Adjustments
 
+#### dataview
+https://blacksmithgu.github.io/obsidian-dataview/resources/faq/
 
 #### css 
+https://help.obsidian.md/Extending+Obsidian/CSS+snippets
 https://github.com/Dmytro-Shulha/obsidian-css-snippets/blob/master/Snippets/Embeds.md
 
 #### muti column
 https://github.com/ckRobinson/multi-column-markdown/blob/master/documentation/FullExamples.md
 
 #### digital garden branch
+https://dg-docs.ole.dev/
+
 this clone fixes the embed dataview thing. to install on pc, i think it was these steps but maybe only mess from laptop from now, due to npm install and githib token
 
 - clone it 

@@ -8,7 +8,7 @@ dg-publish: true
 |:------------------- |:--------------------- |:--------------------------------------------- |:--- | ------:|:-----:|
 | Axe, Hand           | 1d6                   | Melee, Missile (20ft)                         | 1   |   4 gp |  1/2  |
 | Axe, Battle         | 1d8                   | Melee                                         |     |  10 gp |   1   |
-| Dagger              | 1d4                   | Melee, Missile (20ft)                         | 1   |   2 gp |  1/3  |
+| Dagger              | 1d4                   | Melee, Missile (20ft)                         | 1   |   2 gp |  1/2  |
 | Shortsword          | 1d6                   | Melee                                         |     |   6 gp |   1   |
 | Longsword           | 1d8                   | Melee                                         |     |  15 gp |   1   |
 | Bastard Sword       | 1d8/1d8+1             | Melee, Versatile                              |     |  30 gp |   1   |

@@ -2,7 +2,7 @@
 | Item                   | Cost        | Stock | Slots                           | Forage Ingredient | Forage Quantity/Unit | Buy               |
 | ---------------------- | ----------- | ----- | ------------------------------- | ----------------- | -------------------- | ----------------- |
 | [[Antidote]]           | 80gp/dose   | 1d4-2 | `=[[Antidote]].slots`           | Star Ivy          | 2 slots = dose       | 10gp/slot         |
-| [[Cooking Herbs]]      | 5gp/bundle  | 1d20  | `=[[Cooking Herbs]].slots`      | Yes, the herbs    | 1 slot               | No (easy to find) |
+| [[Cooking Herbs, Fresh]]      | 5gp/bundle  | 1d20  | `=[[Cooking Herbs]].slots`      | Yes, the herbs    | 1 slot               | No (easy to find) |
 | [[Eyedrops]]           | 30gp        | 1d4-2     | `=[[Eyedrops]].slots`           | no, sekrit        | n/a                  | n/a               |
 | [[Moon Mint Tincture]] | 50gp        | 1d4-2     | `=[[Moon Mint Tincture]].slots` | Moon Mint         | 1 slots = dose       | 25gp/slot         |
 | [[Wolfsbane]]          | 100gp       | 1d4-3 | `=[[Wolfsbane]].slots`          | [[Wolfsbane]]     | 1 slot = the thing   | Yes, 80gp         |

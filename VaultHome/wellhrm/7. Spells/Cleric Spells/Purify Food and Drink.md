@@ -1,6 +1,7 @@
 ---
 spell_level: 1
 dg-publish: "true"
+spell_class: "[[Cleric]]"
 ---
 
 #### `=this.file.name`

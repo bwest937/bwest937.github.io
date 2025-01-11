@@ -3,6 +3,7 @@ spell_level: 1
 tags:
   - "#mu_basic"
 dg-publish: "true"
+spell_class: "[[Magic User]]"
 ---
 
 #### Hold Door

@@ -1,11 +1,11 @@
 ---
-classname: Fighter
 ancestries:
   - "[[Humans]]"
   - "[[Dwarves]]"
   - "[[Elves]]"
   - "[[Halflings]]"
 dg-publish: "true"
+cssclasses: wideTable
 ---
 
 ## `=this.file.name`
@@ -40,7 +40,7 @@ Fighters have a +1 bonus on all saving throws except against those against magic
 - **Knock Knock:** Fighters roll with advantage on Open Door and any other STR-based checks.
 
 
-## `=this.classname` Level Progression
+## `=this.file.name` Level Progression
 
 
 | Level |  XP   | HD  | Saving Throw | BAB | Special                           | 

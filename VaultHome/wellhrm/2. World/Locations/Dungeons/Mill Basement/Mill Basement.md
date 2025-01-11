@@ -1,5 +1,6 @@
 ## Wandering Monsters  1/6 Every Turn
 
+
 | 1d3 | Result                                                               | 
 | --- |:-------------------------------------------------------------------- |
 | 1   | 2d6 [[Rat, Giant]]                                                   |
@@ -7,6 +8,13 @@
 | 3   | 3 [[Dark Creeper]] (only once, remember they have lv 4 thief skills) |
 
 There are 18 rats total, keep track. If more than half show up at any time, that's the nest! Nest has 169gp and a [[Extra Healing Potion]]
+
+### On No Encounter
+
+Some air maybe, and the sound of skritching, either chitnous or more claws
+
+Air Table
+d% Result d% Result 01-05 slight breeze 70-75 still, cold air 06-10 damp slight breeze 76-85 still, warm air 11-12 gusting breeze 86-87 slight updraft 13-18 cold current of air 88-89 strong updraft 19-20 slight downdraft 90-93 strong wind 21-22 strong downdraft 94-95 strong gusting wind 23-69 still 96-00 strong moaning win
 
 ## Dungeon Key
 
@@ -84,7 +92,7 @@ HP 6 ☐☐☐☐☐ ☐☐☐
 
 **5. OCTAGONAL ROOM:**
 
-The oddly shaped room has doors in the west and south walls. The floors are littered with splintered wood and pottery, the remains of furniture. If they investigate, they might put together at least some of this was a scroll rack, perhaps undermined by vermin.  
+The oddly shaped room has doors in the west and south walls. Although faded beyond recognition, these walls show the first signs of decoration since going through the Holy door. The floors are littered with splintered wood and pottery, the remains of furniture. If they investigate, they might put together at least some of this was a scroll rack, perhaps undermined by vermin.  
 
 *This is where the creepers will begin digging if they are left alone for too long?*
 
@@ -95,7 +103,7 @@ If the party spends two turns searching, inside  the remains of a some kind of s
 
 **6. Priestly Bunk:**
 
-The room is laid out like a bunk room of sorts, with beds stacked floor to celling on the west side. There  is a side table, 2 chairs and a table with a weird old version of chess. The board is in bad shape but the pieces are in remarkably good shape (50gp, 1/3 slot). The east wall is covered with tapestries (rotting, illegible and no value). 
+The room is laid out like a bunk room of sorts, with beds stacked floor to celling on the west side. The beds have been gnawed on but still standing. There  is a side table, 2 chairs and a table with a weird old version of chess. The board is in bad shape but the pieces are in remarkably good shape (50gp, 1/3 slot). The east wall is covered with tapestries (rotting, illegible and no value). 
 
 - Behind the tapestries is a small alcove with a [[Bag of Holding]], holding a [[Water Walk Potion]].
 
@@ -108,7 +116,7 @@ The room is laid out like a bunk room of sorts, with beds stacked floor to celli
 
 ### Make sure your on the right Catacombs
 
-![[Catacombs-of-Rome-Catacombs-of-Priscilla-1-4143835510.jpg]]
+![[less cavey catacombs.png]]`
 The walls of this room are lined with small alcoves, 20 in total. Each alcove is piled high with bones, and with shards and splinters and fragments of bone-as far as you can tell, mostly human. 
 
 - The ceiling is decorated with a deteriorating stucco mural that appears to be of a religious nature. Judging by the CHECK OUT THIS HIGH GYGAXIAN SHIZZ: *steatopygous muliebrity* of the deity depicted, perhaps she is some long-forgotten goddess of fertility and death.
@@ -159,13 +167,15 @@ Upon opening the door, you see 4 creepers sitting around a small fire in a circl
 
 When the party has a chance to look around the room, they see the following:
 
-The room itself features well-crafted busts on pedestals (four against the north wall and four against the south) of old and venerable visages, there are ragged tapestries on each wall, but they are quiet ancient and rotten. There is a door in north wall.
+The room itself features well-crafted busts on pedestals (four against the north wall and four against the south, 8 total) of old and venerable visages, there are ragged tapestries on each wall, but they are quiet ancient and rotten. There is a door in north wall.
 
 The creepers are hiding out after having stolen treasure from the Nilvyr royal workshops. 
 
 - **The Hole:** In the north west corner of the room is a hole. Next to it (south) is some kind of infernal machine (Holler Hammer from Lowlife) and a half-full bag of black powder (east). If the BP is detonated it does 3d6 within 5', 2d6 within 10', 1d6 within 20'. Creepers have a 1/6 chance of being blinded for a round.
 
-are two bags, each tied to a four foot long pole for carrying between two people: one holds 1,000 sp (in one) and 400 cp (in the other). Each has and additional 3d8 cp and 3d6 sp on their person.
+are two bags, each tied to a four foot long pole for carrying between two people: one holds 967 (weird, rectangular) sp (in one) . Each has and additional 3d6 sp on their person.
+
+100 a slot for this money, its worth 10x (so worth gold basically, but heaver than normal)
 
 The busts are plaster with thick layers of paint, which itself is darkened and old. Their value is roughly 15 gold pieces each. 
 
@@ -203,11 +213,14 @@ This hallway is decorated with skulls (nothing to be found) and torch holders, s
 **11. HOBGOBLIN'S FORMER ROOM:**
 
 This 30'x30' room is carved from greenish stone and layered with carpets and tapestries, and all manner of decorated pillows lay strewn about. There are a couple books strewn about.
+
 ![[Oracle Sludge.png]]
 
+allow a lore check
+
 - A *stone* **oracle sludge** is here. Resting on top is a **cursed scroll**. If this scroll is inspected or read, save or be *Turned to Stone*. Needs a 6th level MU to reverse, so that's a whole thing. [[Quinn Bakersfield]] can probably help.
-- Elsewhere in the room is a **pile of clothes**. If searched there is a a [[Medallion of ESP]] in the clothes. It appears the wearer was absorbed by the sludge.
-- The books are cook books, 2 slots worth. If a PC spends a week of downtime with these, they get a permanent +1 die to cooking rolls.
+- Elsewhere in the room is a **pile of clothes**. If searched there is a [[Medallion of ESP]] in the clothes. It appears the wearer was absorbed by the sludge.
+- The books are **cook books, 2 slots worth**. If a PC spends a week of downtime with these, they get a permanent +1 die to cooking rolls.
 
 
 

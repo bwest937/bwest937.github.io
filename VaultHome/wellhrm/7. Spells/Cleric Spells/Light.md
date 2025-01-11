@@ -1,6 +1,7 @@
 ---
 spell_level: 1
 dg-publish: "true"
+spell_class: "[[Cleric]]"
 ---
 
 #### Light
@@ -9,7 +10,7 @@ dg-publish: "true"
 **Spell Level:** `=this.spell_level`
 **Range:** 60 ft
 **Duration:** 1 hour + 1 turn/[caster level]
-**Tags:** #cleric_basic #reversible
+**Tags:** #cleric_basic #reversible #light_spell 
 
 This spell has three common usages:
 
@@ -21,6 +22,17 @@ This spell has three common usages:
 If cast with 2+ [[MD]], the light is as bright as sunlight and has the same effects as sunlight.
 
 
-*Related:* [[Darkness]]
-*Other Versions:* [[7. Spells/Magic User Spells/Light|Light (MU)]]
+*Related:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM #light_spell
+WHERE !contains(file.name, this.file.name)
+```
+
+*Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___

@@ -1,8 +1,7 @@
 ---
 spell_level: 1
-tags:
-  - "#mu_basic"
 dg-publish: "true"
+spell_class: "[[Magic User]]"
 ---
 
 #### Light
@@ -11,7 +10,7 @@ dg-publish: "true"
 **Spell Level:** `=this.spell_level`
 **Range:** 60 ft
 **Duration:** 1 hour + 1 turn/[caster level]
-**Tags:** `=this.tags`
+**Tags:** #mu_basic #light_spell
 
 This spell has three common usages:
 
@@ -23,6 +22,18 @@ This spell has three common usages:
 If cast with 2+ [[MD]], the light is as bright as sunlight and has the same effects as sunlight.
 
 
-*Related:* [[Darkness]]
+*Related:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM #light_spell
+WHERE !contains(file.name, this.file.name)
+```
+
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___
+

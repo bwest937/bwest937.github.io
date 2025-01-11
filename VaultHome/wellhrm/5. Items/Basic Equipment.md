@@ -20,7 +20,8 @@ dg-publish: true
 | Flask, Steel          |                                                   |  2 gp |   1/3   |
 | Case, Scroll/Map      | Protects vs water, some fire                      |  1 gp |   1/3   |
 | Chest, Small          | Holds a slots worth of coins or other small items |  2 gp |    1    |
-| **Cooking**           |                                                   |       |         |
+| **Food/Cooking**      |                                                   |       |         |
+| Rations               | Don't provide healing, do prevent hunger          |  1 gp |   1/7   |
 | Cooking Pot           | Required for most cooking                         |   5 s |    1    |
 | Mess Kit              | +1 to cooking die                                 |  5 gp |    1    |
 | **Light**             |                                                   |       |         |

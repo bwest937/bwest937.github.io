@@ -46,7 +46,7 @@ Dark creepers are humanoids that stand just under 4 feet tall, always swathed in
 ### Abilities
 **Black Smear  Poison:** On dagger hit, save or reduces the victim’s strength by 1d2 points per round for 2d6-1 rounds. If the victim’s strength is reduced to 0, the victim dies. If the victim survives, the points of strength will return in 1d6 hours. The poison on a blade is used up when the weapon hits.
 
-**Special Dark:** (Treat as spell casting, I think). This deeper darkness has a radius of 50ft, and several effects: 
+**Special Dark:** (Treat as 1/day SLA). This deeper darkness has a radius of 1 frisbee, and several effects: 
 1.  all normal light sources in the radius of effect are not only extinguished, but cannot be relit for a period of one hour
 2.  all magical light sources must make a saving throw or be extinguished for a period of one hours
 3.  darkvision will not penetrate the 50ft radius area around the object upon which the deeper darkness has been cast. Magical light sources that are not extinguished by the spell are able to function within the deeper darkness, but convey a range of vision no greater than 30ft.

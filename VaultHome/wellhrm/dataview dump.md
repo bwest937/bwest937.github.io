@@ -21,3 +21,9 @@ for (const page of pages) {
     dv.paragraph("![[" + page.file.path + "]]"); } 
 
 ``` 
+
+
+```dataviewjs
+// see all current page info
+dv.span(dv.current())
+```

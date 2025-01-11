@@ -1,6 +1,7 @@
 ---
 spell_level: 1
 dg-publish: "true"
+spell_class: "[[Cleric]]"
 ---
 
 #### `=this.file.name`
@@ -15,4 +16,10 @@ The caster can perceive, in places, people, or things, the presence of a magical
 
 *Related:* 
 *Other Versions:* [[7. Spells/Magic User Spells/Detect Magic|Detect Magic (MU)]] [[7. Spells/Shaman Spells/Detect Magic|Detect Magic (Shaman)]]
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name
+WHERE !contains(file.name, this.file.name)
+```
 ___

@@ -1,6 +1,7 @@
 ---
 spell_level: 2
 dg-publish: "true"
+spell_class: "[[Magic User]]"
 ---
 
 #### `=this.file.name`

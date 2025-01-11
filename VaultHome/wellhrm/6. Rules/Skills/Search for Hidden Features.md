@@ -3,8 +3,8 @@ die: 1d6
 ability: WIS
 base: 2/6
 advantage:
-  - - - Ancestry#Dwarves|Dwarves
-  - - - Ancestry#Elves|Elves
+  - "[[Dwarves|Dwarves (Stonework)]]"
+  - "[[Elves|Elves (Doors)]]"
 tags: "#normal_skill"
 dg-publish: "true"
 ---
