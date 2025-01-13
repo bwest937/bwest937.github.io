@@ -50,6 +50,9 @@ cssclass: tableClass1, hackClass2, userClass3, etc
 }
 /* --------------------------------------------   */
 
+.flipTable tr td:first-of-type {
+    font-weight: 700;
+}
 
 /* --------------------------------------------   */
 /* Left align mandatory                           */
@@ -84,14 +87,11 @@ Eg. cssclass: purpleRed, wideTable
 table {
     font-family: Minion Pro;
     font-size: 12pt;
+    --p-spacing: .5rem;
 }
 
 
-table {
-	--p-spacing: .5rem;
-}
-
-table strong, em {
+table strong, table em {
     font-family: Futura;
     color: black; 
 }

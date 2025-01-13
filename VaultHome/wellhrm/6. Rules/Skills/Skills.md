@@ -1,3 +1,7 @@
+---
+dg-publish: "true"
+---
+
 ## Skills
 In general, characters can just do anything they reasonably ought to know how to do. Skill checks are only to be used when there are meaningful consequences for failure, time pressure, or both.
 

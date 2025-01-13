@@ -13,6 +13,7 @@ Lair: 5
 CL: 1
 XP: 15
 Bits: Food
+cssClasses: flipTable
 ---
 
 ___
