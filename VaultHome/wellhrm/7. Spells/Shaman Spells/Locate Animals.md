@@ -8,7 +8,7 @@ spell_class: "[[Highland Shaman]]"
 
 **Class:** [[Highland Shaman]]
 **Spell Level:** `=this.spell_level`  
-**Range:**   60 feet + 10 feet per caster level + 10 feet per [[MD]]
+**Range:**   60 feet + 10 feet per caster level + 10 feet per [[Number MD]]
 **Duration:**  1 minute per caster level
 **Tags:** #shaman_basic #locate_spell 
 

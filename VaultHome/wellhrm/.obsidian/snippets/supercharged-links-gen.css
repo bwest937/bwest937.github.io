@@ -135,13 +135,13 @@ div[data-id="eea8-ab74"] div.setting-item-description::after,
 }
 
 div[data-id="08ed-7d3d"] div.setting-item-description,
-[data-link-path^="6. Rules/Magic/MD" ] {
+[data-link-path*="MD" ] {
     color: var(--08ed-7d3d-color) !important;
     font-weight: var(--08ed-7d3d-weight);
 }
 
 .c-08ed-7d3d-use-background div[data-id="08ed-7d3d"] div.setting-item-description,
-.c-08ed-7d3d-use-background .data-link-text[data-link-path^="6. Rules/Magic/MD" ] {
+.c-08ed-7d3d-use-background .data-link-text[data-link-path*="MD" ] {
     background-color: var(--08ed-7d3d-background-color) !important;
     border-radius: 5px;
     padding-left: 2px;
@@ -150,12 +150,12 @@ div[data-id="08ed-7d3d"] div.setting-item-description,
 }
 
 div[data-id="08ed-7d3d"] div.setting-item-description::before,
-.data-link-icon[data-link-path^="6. Rules/Magic/MD" ]::before {
+.data-link-icon[data-link-path*="MD" ]::before {
     content: var(--08ed-7d3d-before);
 }
 
 div[data-id="08ed-7d3d"] div.setting-item-description::after,
-.data-link-icon-after[data-link-path^="6. Rules/Magic/MD" ]::after {
+.data-link-icon-after[data-link-path*="MD" ]::after {
     content: var(--08ed-7d3d-after);
 }
 /* @settings
@@ -400,7 +400,7 @@ settings:
         default: '#ffffff'
     - 
         id: 08ed-7d3d
-        title: path is 6. Rules/Magic/MD
+        title: path is MD
         description: Example note
         type: heading
         collapsed: true

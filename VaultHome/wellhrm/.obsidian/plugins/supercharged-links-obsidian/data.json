@@ -61,9 +61,9 @@
     {
       "type": "path",
       "name": "",
-      "value": "6. Rules/Magic/MD",
+      "value": "MD",
       "matchCaseSensitive": true,
-      "match": "startswith",
+      "match": "contains",
       "uid": "08ed-7d3d",
       "selectText": true,
       "selectAppend": true,

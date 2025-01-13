@@ -6,9 +6,9 @@ spell_class: "[[Highland Shaman]]"
 
 #### `=this.file.name`
 
-**Class:** 
+**Class:** `=this.spell_class`
 **Spell Level:** `=this.spell_level`  
-**Range:** 60 ft + 10 x [[MD]]
+**Range:** 60 + (10 x [[MD]]) ft
 **Duration:** 20 minutes
 **Tags:** #shaman_basic  
 

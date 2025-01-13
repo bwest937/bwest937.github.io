@@ -5,7 +5,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Z_Attach",
   "showInlineTitle": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",

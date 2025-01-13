@@ -1,0 +1,1 @@
+https://osrvault.com/mushroom-generator/

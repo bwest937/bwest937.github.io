@@ -6,7 +6,7 @@ spell_class: "[[Cleric]]"
 
 #### `=this.file.name`
 
-**Class:** 
+**Class:** `=this.spell_class`
 **Spell Level:** `=this.spell_level`  
 **Range:** 60 ft + 10 x [[MD]]
 **Duration:** 20 minutes

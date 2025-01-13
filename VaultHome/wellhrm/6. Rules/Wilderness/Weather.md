@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Weather
 
 Inclement weather may have effects not listed here that follow naturally from the situation, but these are effects you can count on.

@@ -7,7 +7,7 @@ Foes are considered at range if they are outside of 5ft of each other.
 
 ### ROF (Rate Of Fire)
 
-For weapons with a ROF of > 1, the attacker must not take their move action in order to take the extra shot(s). Small amounts of repositioning, such as popping out from cover, are fine. The second and/or third attacks will be resolved at the end of the turn, after everyone else has acted.
+For weapons with a ROF of > 1, the attacker must remain stationary in order to take the extra shot(s). Small amounts of repositioning, such as popping out from cover, are fine. The second and/or third attacks will be resolved during the [[Combat Procedure#Second Missile Volley|Second Missile Volley]].
 
 ### Ranged Attacks Through Multiple Ranks of Allies
 Ranged attacks attempted through more than one rank of allies are usually made at *disadvantage*. If the attack misses, the GM will roll to randomly determine what ally the attack might hit and another attack roll is made vs. the ally.

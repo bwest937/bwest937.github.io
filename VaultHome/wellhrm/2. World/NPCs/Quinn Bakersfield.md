@@ -19,6 +19,6 @@ tags:
 - Running a secret MU school, gets acolytes up to 1-2nd level at most
 - Is also a legit miller
 - Not interested in adventuring himself, but believes strongly in the democratic/leveling power of magic.
-- Once good relations are established, can ID magic items for 250gp. Takes 1d3 days. For higher level or weirder stuff, pick a % success rate and be upfront, might do partial success ("its +2 and not cursed, has some elemental affect")
+- Once good relations are established, can ID magic items for 250 gp. Takes a day. For higher level or weirder stuff, pick a % success rate and be upfront, might do partial success ("its +2 and not cursed, has some elemental affect")
 
 **Stat Block**: Is probably a level 2-3 MU.

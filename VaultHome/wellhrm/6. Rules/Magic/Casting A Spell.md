@@ -4,9 +4,9 @@ dg-publish: "true"
 
 ### Casting A Spell
 
-#### Magic Dice [MD]
+#### Magic Dice
 
-Instead of spell slots, spells of all kinds are cast with Magic Dice [MD]. Casters get one d6 [MD] per level. When casting a spell, roll at least one [MD]. On a roll of 4-6, the [MD] is not expended and can be used again that day. Spells of a higher level don't cost any extra [MD], but they do take longer to cast (*-1 initiative for every spell level past 1*). [MD] replenish when you get a Good Rest.
+Instead of spell slots, spells of all kinds are cast with [[MD]]. Casters get one d6 [[MD]] per level. When casting a spell (excepting a #cantrip, roll at least one [[MD]] . On a roll of 4-6, the [[MD]] is not expended and can be used again that day. Spells of a higher level don't cost any extra [[MD]], but they do take longer to cast (*-1 initiative for every spell level past 1*). [[[MD]] replenish when you get a good night's rest.
 
 #### Additional [MD]
   

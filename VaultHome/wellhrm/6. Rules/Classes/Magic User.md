@@ -33,7 +33,7 @@ Magic-Users gain a bonus of +2 on all saving throw rolls against spells, includi
 
 ### Arcane Magic
 
-**Arcane Magic:** Magic-Users carry spellbooks containing the formulae for arcane spells. A first level magic-user selects (2 + INT bonus) number of Level 1 spells and (INT bonus) number Level 2 spell from the basic spell lists for their starting spellbook. They always get [[Magic Dart]].
+**Arcane Magic:** Magic-Users carry [[spellbooks]] containing the formulae for arcane spells. A first level magic-user selects (2 + INT bonus) number of Level 1 spells and (INT bonus) number Level 2 spell from the basic spell lists for their starting spellbook. They always get [[Magic Dart]].
 
 #### Scrolls
 Magic-Users are able to use any arcane scroll they can identify, even if the spell is a higher level than they can normally cast.  They can potentially identify any scroll.
@@ -41,7 +41,7 @@ Magic-Users are able to use any arcane scroll they can identify, even if the spe
 ![[Read Magic|clean]]
 
 
-**Learning New Spells:** To permanently learn a spell, a Magic-User must record a spell in their spellbook. When a Magic-User increases their Spell Level, any spells already in their spellbook of the new Spell Level become available to them without chance of mishap. New spells may be found in the world in scrolls and spellbooks, learned from other arcane practitioners.
+**Learning New Spells:** To permanently learn a spell, a Magic-User must record a spell in their spellbook. When a Magic-User increases their Spell Level, any spells already in their spellbook of the new Spell Level become available to them without chance of mishap. New spells may be found in the world in scrolls and spellbooks or learned from other arcane practitioners.
 
 ![[Learn Spell From Scroll or Book|clean]]
 

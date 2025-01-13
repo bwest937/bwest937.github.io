@@ -14,7 +14,8 @@ There are 18 rats total, keep track. If more than half show up at any time, that
 Some air maybe, and the sound of skritching, either chitnous or more claws
 
 Air Table
-d% Result d% Result 01-05 slight breeze 70-75 still, cold air 06-10 damp slight breeze 76-85 still, warm air 11-12 gusting breeze 86-87 slight updraft 13-18 cold current of air 88-89 strong updraft 19-20 slight downdraft 90-93 strong wind 21-22 strong downdraft 94-95 strong gusting wind 23-69 still 96-00 strong moaning win
+d% Result 
+d% Result 01-05 slight breeze 70-75 still, cold air 06-10 damp slight breeze 76-85 still, warm air 11-12 gusting breeze 86-87 slight updraft 13-18 cold current of air 88-89 strong updraft 19-20 slight downdraft 90-93 strong wind 21-22 strong downdraft 94-95 strong gusting wind 23-69 still 96-00 strong moaning win
 
 ## Dungeon Key
 

@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 
 > [!condition] `=this.file.name`
 > - STR is halved

@@ -25,8 +25,8 @@ dg-publish: true
 | Crossbow            | Bolt 1d4+1            | Missile (60ft), Reload                        | 1/2 |  30 gp |   1   |
 | Heavy Crossbow      | Heavy Bolt 1d10       | Missile (80ft), Reload                        | 1/3 |  50 gp |   2   |
 | Hand Crossbow       | Light Bolt 1d3        | Missile (20ft)                                | 1   | 150 gp |  1/2  |
-| Sling               | 1d4 bullet, 1d3 stone | Missile (40ft), Blunt                         | 1   |   1 gp |  1/3  |
-| Dart                | 1d3                   | Missile (40ft)                                | 3   |   1 gp |  1/3  |
+| Sling               | 1d4 bullet, 1d3 stone | Missile (40ft), Blunt                         | 1   |   1 gp |  1/2  |
+| Dart                | 1d3                   | Missile (40ft)                                | 3   |   1 gp |  1/6  |
 | **Special Weapons** |                       |                                               |     |        |       |
 | Net                 | None                  | Missile (15ft), Entangle                      | 1   |  20 gp |   1   |
 | Oil Flask, Burning  | 1d6, 1d4              | Missile (30ft), Splash                        | 1   |  20 gp |   1   |

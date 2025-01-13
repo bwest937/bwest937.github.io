@@ -1,3 +1,6 @@
+---
+dg-publish: "true"
+---
 
 > [!condition] `=this.file.name`
 >Getting stuck means you are unable to move forward or backward in the passage: you’re stuck. You can move your arms and legs about, and maybe wiggle a bit, but you can’t walk, crawl, climb, or otherwise move. Trying to swing a sword or cast a spell is difficult, as is reaching any new gear. Trying to do anything contingent on movement, like run or dodge, is impossible.

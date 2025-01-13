@@ -8,7 +8,7 @@ spell_class: "[[Highland Shaman]]"
 
 **Class:** [[Highland Shaman]]
 **Spell Level:** `=this.spell_level`  
-**Range:**  2 square miles per [[MD]]
+**Range:**  2 square miles per [[Number MD]] 
 **Duration:**  Immediate
 **Tags:** #shaman_basic 
 
