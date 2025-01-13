@@ -31,7 +31,7 @@ dg-publish: true
 | Net                 | None                  | Missile (15ft), Entangle                      | 1   |  20 gp |   1   |
 | Oil Flask, Burning  | 1d6, 1d4              | Missile (30ft), Splash                        | 1   |  20 gp |   1   |
 
-### Ammo
+## Ammo
 | Weapons        | Damage | Cost | Slots | 
 |:-------------- |:------ |:----- |:-----:|
 | Arrows x20     | 1d6    | 2 gp  |   1   |
@@ -39,7 +39,7 @@ dg-publish: true
 | Heavy Bolt x10 | 1d10   | 5 gp  |   1   |
 | Light Bolt x20 | 1d3    | 2 gp  |   1   |
 | Bullet x20     | 1d4    | 1 gp  |   1   |
-### Weapon Qualities
+## Weapon Qualities
 
 **Melee:** Close quarters weapon.
 **Missile:** Thrown or fired weapon (greater than 5’ distance). The range is shown in parentheses.

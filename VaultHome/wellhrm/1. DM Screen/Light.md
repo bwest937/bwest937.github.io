@@ -1,4 +1,4 @@
-| **Source**           | **Duration**        | **Reading/Dim** |
+| Source           | Duration        | Reading/Dim |
 | ---------------- | --------------- | ----------- |
 | Candle           | 1 hr            | 5/10        |
 | Caving Candle    | 2 hr            | 15/20       |

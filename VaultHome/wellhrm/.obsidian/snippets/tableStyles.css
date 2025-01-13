@@ -81,19 +81,42 @@ Remember that you can stack hacks!
 Eg. cssclass: purpleRed, wideTable
 
 */
+table {
+    font-family: Minion Pro;
+    font-size: 12pt;
+}
+
 
 table {
 	--p-spacing: .5rem;
 }
 
+table strong, em {
+    font-family: Futura;
+    color: black; 
+}
 
+table tbody tr:nth-child(odd) {
+    background-color: #d9ead3 !important;
+    color: black;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #ffffff !important;
+    color: black;
+}
 
 th {
+    font-family: Futura !important;
+    background-color: black !important;
+    color:white !important;
+}
+
+/*th {
 	font-family: Futura !important;
     background-color: var(--background-secondary) !important;
     color: var(--header-green) !important;
-}
-
+}*/
 
 /*body pre, body code {
     color: var(--header-blue) !important;

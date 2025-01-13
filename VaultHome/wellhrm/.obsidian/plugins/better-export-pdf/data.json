@@ -12,7 +12,7 @@
   "isTimestamp": false,
   "enabledCss": true,
   "prevConfig": {
-    "pageSize": "A4",
+    "pageSize": "Letter",
     "marginType": "2",
     "showTitle": false,
     "open": true,
@@ -24,6 +24,6 @@
     "marginRight": "10",
     "displayHeader": false,
     "displayFooter": false,
-    "cssSnippet": "0"
+    "cssSnippet": "C:\\Users\\judas\\Documents\\bwest937.github.io\\VaultHome\\wellhrm\\.obsidian\\snippets\\pdf.css"
   }
 }
