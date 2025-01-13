@@ -34,4 +34,4 @@ Some *bulky* items, in addition to taking up inventory slots, need to be carried
 If an item has "1 2B" slots, it takes two characters to carry the item and they need 1 slot each. Any bulky items must be dropped in order to run or engage in combat, and any character carrying a bulky item suffers -1 to surprise rolls.
 
 ### Containers
-Adventurers and their companions are assumed to have as many straps and pouches and containers that they need and we mostly don't care exactly where an item is (other than quick-draw slots). We will track any container with a specific quality or benefit, like a scroll case or [[Oilskin Pouch]].
+Adventurers and their companions are assumed to have as many straps and pouches and containers that they need and we mostly don't care exactly where an item is (other than quickdraw slots). We will track any container with a specific quality or benefit, like a scroll case.

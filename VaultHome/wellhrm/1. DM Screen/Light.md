@@ -1,4 +1,5 @@
-| Source           | Duration        | Reading/Dim |
+##### Table L1: Light Sources
+| Light Source           | Duration        | Reading/Dim |
 | ---------------- | --------------- | ----------- |
 | Candle           | 1 hr            | 5/10        |
 | Caving Candle    | 2 hr            | 15/20       |
