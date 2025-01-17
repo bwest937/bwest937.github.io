@@ -2,7 +2,7 @@
 
 
 | 1d3 | Result                                                               | 
-| --- |:-------------------------------------------------------------------- |
+| :---: |:-------------------------------------------------------------------- |
 | 1   | 2d6 [[Rat, Giant]]                                                   |
 | 2   | 2d6 [[Tunnel prawn]]                                                 |
 | 3   | 3 [[Dark Creeper]] (only once, remember they have lv 4 thief skills) |
@@ -133,12 +133,12 @@ The walls of this room are lined with small alcoves, 20 in total. Each alcove is
 | **1d10** | **Result**                                                                                                         |
 | -------- | ------------------------------------------------------------------------------------------------------------------ |
 | 1        | Silver necklace with a malachite pendant worth 40gp                                                                |
-| 2        | Nothing                                                                                                            |
+| 2        | Roll again                                                                                                            |
 | 3        | Tucked into a hollowed-out femur, a [[Scepter of Healing]]                                                         |
-| 4        | Nothing                                                                                                            |
-| 5        | Glued to the inside of a skull, an unpolished garnet worth 60 gp                                                   |
-| 6        | Nothing                                                                                                            |
-| 7        | Trapped copper box (poison needle, save or roll HD for lvl +1 turns) contents: 3x cat's-eye chrysoberyl (100gp ea) | 
+| 4        | Roll again                                                                                                         |
+| 5        | Roll again                                                                                                         |
+| 6        | Roll again                                                                                                         | 
+| 7        | Trapped copper box (poison needle, save or roll HD for lvl +1 turns) contents: 3x cat's-eye chrysoberyl (100gp ea) |
 | 8        | Wrapped around a small ulna, a scroll of Detect Invisibility                                                       |
 | 9        | Copper bracelet (2gp)                                                                                              |
 | 10       | Nothing                                                                                                            |

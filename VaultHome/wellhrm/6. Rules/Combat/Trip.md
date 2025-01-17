@@ -1,3 +1,3 @@
- With a successful attack, you can exchange your damage roll to make your opponent save or trip.
+ With a successful attack, you can exchange your damage roll to make your opponent save or trip and fall [[Prone]]. The details matter here, you probably cant trip a [[Centipede, Giant (Man-Sized)]].
  
- Attacks against tripped enemies are made with advantage, and attacks made by tripped enemies are made with disadvantage. To get up, the enemy must spend half their movement.f
+ 

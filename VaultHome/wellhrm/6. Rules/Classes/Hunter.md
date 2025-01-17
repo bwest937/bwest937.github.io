@@ -1,7 +1,6 @@
 ---
 ancestries:
   - "[[Humans]]"
-  - "[[Dwarves]]"
   - "[[Elves]]"
   - "[[Halflings]]"
 dg-publish: "true"
@@ -41,7 +40,6 @@ Hunters have a +1 bonus on all saving throws except against those against magic 
 
 ### Hunter Class Skills
 ![[Tracking|clean]]
-
 
 
 ## Hunter Level Progression

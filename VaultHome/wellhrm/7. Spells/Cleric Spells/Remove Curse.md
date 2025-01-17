@@ -1,18 +1,18 @@
 ---
-
-spell_level: 1
-spell_class:
+spell_level: 3
+spell_class: [[Cleric]]
+dg-publish: true
 ---
 
 #### `=this.file.name`
 
 **Class:** `=this.spell_class`
 **Spell Level:** `=this.spell_level`  
-**Range:**  Ally not in combat
-**Duration:**  1 hr
-**Tags:** 
+**Range:**  Very close
+**Duration:**  Immediate
+**Tags:** #cleric_basic 
 
-Spell description...
+This spell removes one curse from a person or object. Some curses may be more powerful than this spell can handle.
 
 *Related:* 
 *Other Versions:*

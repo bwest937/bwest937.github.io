@@ -35,7 +35,7 @@
 These are custom "hacks" that can be applied to any
 table (with/without custom table visual css).
 If you're already using other classes in your note,
-remember you can stack these in the cssclass 
+remember you can stack these in the cssclass
 parameter, like:
 
 cssclass: tableClass1, hackClass2, userClass3, etc
@@ -59,7 +59,7 @@ cssclass: tableClass1, hackClass2, userClass3, etc
 /* --------------------------------------------   */
 .leftAlign th,
 .leftAlign td {
-	text-align: left !important;  
+	text-align: left !important;
 }
 /* --------------------------------------------   */
 
@@ -73,7 +73,7 @@ cssclass: tableClass1, hackClass2, userClass3, etc
 	margin: 25px 0;
 }
 /* --------------------------------------------   */
-    
+
 
 
 
@@ -93,7 +93,7 @@ table {
 
 table strong, table em {
     font-family: Futura;
-    color: black; 
+    color: black;
 }
 
 table tbody tr:nth-child(odd) {
@@ -111,6 +111,12 @@ th {
     background-color: black !important;
     color:white !important;
 }
+
+table a:link {
+    color: black !important;
+}
+
+
 
 /*th {
 	font-family: Futura !important;
@@ -134,12 +140,3 @@ th {
     font-weight: 700;
     color: var(--h6-color) !important;
 }
-
-
-
-
-
-
-
-
-

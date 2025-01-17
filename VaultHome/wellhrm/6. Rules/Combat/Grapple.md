@@ -1,2 +1,0 @@
-### Grapple
-Grapple a reasonably sized opponent by making an unarmed attack (no weapon bonus), then forsaking damage. Attacker and defender roll 1d6 per HD, and if the attacker get a higher number the defender is grappled. Melee attacks made against a grappled opponent are made with advantage. Attempts to break free are resolved via the same d6-per-HD method. If hit while grappling, the grappler must make a save or let the creature go. Attempting to break free counts as movement for that round, so on success the grappled creature can attack or move, but not both.

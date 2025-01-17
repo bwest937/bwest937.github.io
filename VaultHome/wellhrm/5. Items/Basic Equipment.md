@@ -16,13 +16,13 @@ dg-publish: true
 | Shovel                |                                                   |  2 gp |    2    |
 | Pick axe              |                                                   |  4 gp |    2    |
 | Pole, 10ft collapsing |                                                   | 40 gp |   1/2   |
-| Ladder, 10ft          | Bulky                                             |  5 gp | 2 **B** |
+| Ladder, 10ft          | Bulky                                             |  5 gp | 1 B |
 | **Containers**        |                                                   |       |         |
 | Flask, Steel          | Can't hold magical potions                        |  2 gp |   1/3   |
 | Case, Scroll/Map      | Holds 3 scrolls.Protects vs water, some fire      |  1 gp |   1/3   |
 | Chest, Small          | Holds a slots worth of coins or other small items |  2 gp |    1    |
 | **Food/Cooking**      |                                                   |       |         |
-| Rations               | Don't provide healing, do prevent hunger          |  1 gp |   1/7   |
+| Rations               | Don't provide healing, do prevent hunger          |  1 gp |   1/6   |
 | Cooking Pot           | Required for most cooking                         |   5 s |    1    |
 | Mess Kit              | +1 to cooking die                                 |  5 gp |    1    |
 | **Light**             |                                                   |       |         |

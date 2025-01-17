@@ -1,4 +1,7 @@
-## Roll Ability Scores
+---
+dg-publish: true
+---
+### 1. Roll Ability Scores
 
 Choose one of the following methods for score generation:
   
@@ -11,65 +14,50 @@ A character rolled in this method will be granted a not-very-old-school 5% XP bo
 Roll 3d6 for each stat and apply the rolls to the stats however you choose. This should make playing a specific class much easier. If none of your abilities have a 16 or higher, replace one of your scores with a 16.
 
   
-  
-
-### Choose an Ancestry
-
-See the *Ancestry* section later in this document.
+### 2. Choose an [[Ancestry]]
 
 
-### Choose a Class
+### 3. Choose a [[Class]]
 
-Classes are detailed in the HI-Classes.pdf. There is probably a custom character sheet for your class on the share drive, but don't feel obligated to use it.
+There is probably a custom character sheet for your class on the share drive, but don't feel obligated to use it.
 
   
-
-\column
-
-  
-
-### Note Ability Modifiers
+### 4. Note Ability Modifiers
 
 You should have enough information to start filling out the character sheet now. Start by marking down your ability modifiers.
 
   
-
-### Note Saving Throw and HP
+### 5. Note Saving Throw and HP
 
 Note your saving throw and any modifiers. Base save comes from your class, but ancestry may add some modifers.
 
   
 
-### Note your Max HP
+### 6. Note your Max HP
 
 Starting HP is a max roll on your HD size, +/- your CON bonus.
 
-  
 
-### Choose Alignment
+
+### 7. Choose Alignment
 
 Choose Lawful, Neutral, or Chaotic and make a note of it. Certain classes may have alignment restrictions.
 
   
+### 8. Buy Equipment
 
-### Buy Equipment
+Use [[Quick Equipment]] or spend 3d6 x10 gp on equipment.
 
-Level 1 characters start with 3d6 x10 gp.
-
-  
-
-### Note Armor Class
+### 9. Note Armor Class
 
 Your unarmored AC is 10. Add the bonus from any armor you purchased, plus your DEX bonus.
 
+
+### 10. Note XP Factor
+
+High score in Wisdom and prime abilities (see [[Ability Scores]]) make you level up quicker, while demihuman ancestries slow your progression. The DM can help with this part.
+
   
-
-### Note XP Factor
-
-High score in Wisdom and prime abilities (see *Ability Scores*) make you level up quicker, while demihuman ancestries slow your progression. The DM can help with this part.
-
-  
-
-### Note Starting and Target XP
+### 11. Note Starting and Target XP
 
 Your starting XP is your Campaign XP (or 0 if you don't have any). Your target for your next level is per your class advancement table, multiplied by your XP factor. Again, the DM can help with this part. Note your target XP for your next level.

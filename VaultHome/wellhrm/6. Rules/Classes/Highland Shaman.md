@@ -13,7 +13,7 @@ cssclasses: wideTable
 **Prime Abilities:** Charisma
 **Hit Dice:** 1d6
 **Armour:**  Leather armor, wooden shield
-**Weapons:** Clubs, staves, and spears. For ranged, bows, slings and crossbows.
+**Weapons:** Clubs, staves, and spears. For ranged, slings and crossbows.
 **Ancestries:** `=this.ancestries`
 **Tags:** #caster 
 
@@ -23,11 +23,10 @@ cssclasses: wideTable
 The face of a Highland Shaman is intricately inscribed in blue woad tattoos and their hair and beards are plaited into long braids. They cover their weapons and shields in fetishes and charms and paint them in patterns of blue and white. Wearing animal skins and carved deer skull helms, they strike a ferocious and animalistic figure on any field of battle.
 
 Whether fighting with their clans or smaller groups, they inspire fervor in their companions. This is often the reason why the clans are victorious in battle.
-   
 
 ### Combat
 
-Highland Shaman can use leather armor and wooden shields. Their weapons all contain some natural elements. They are capable, if not frontline, combatants and wield their Nature-based magic to heal and support their clan and party members.
+Highland Shaman can use leather armor and wooden shields, but need a free hand to cast. Their weapons all contain some natural elements. They aren't great at ranged combat but can handle a crossbow if needed (they've had enough fired at them to understand the principle). They are capable combatants and wield their Nature-based magic to heal and support their clan and party members.
 
 **Immunity to Fear:** Highland Shamans are immune to fear effects.
 **Inspire Fight:** At 3rd Level, Highland Shamans gain an inspiring aura with a radius of 60ft. Members of their clan receive the Shaman’s Charisma bonus on to-hit rolls and saving throws.
@@ -39,7 +38,7 @@ Highland Shaman can use leather armor and wooden shields. Their weapons all cont
 **Using Magic Items:** Shaman can use the same magic items as [[Cleric|Clerics]], but not their scrolls.
 
 #### Nature Scrolls
-Highland Shaman can use scrolls of Nature spells and instantly recognize any scrolls of their current Spell Level. Higher level spells need to be identified by a [[Magic User]] or another [[Highland Shaman]] of sufficient level before they can be learned.
+Highland Shamans can use scrolls of Nature spells and instantly recognize any scrolls of their current Spell Level. Higher level spells need to be identified by a [[Magic User]] or another [[Highland Shaman]] of sufficient level before they can be learned. ^01b3ca
 
 ![[Learn Spell From Scroll or Book|clean]]
 

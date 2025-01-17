@@ -7,13 +7,19 @@ cssclasses:
 
 Fill this out with more options
 
-| 2d6        | OSE                        | Pbta-ish              | 
-| ---------- | -------------------------- | --------------------- |
-| 2 or less  | Attacks                    | Failure               |
-| 3–5        | Hostile, may attack        | Failure               |
-| 6–8        | Uncertain, confused        | Partial Success       |
-| 9–11       | Indifferent, may negotiate | Success               |
-| 12 or more | Eager, friendly            | Success with benefits |
+| 2d6        | SW Monster | Pbta                  |
+| ---------- | ---------- | --------------------- |
+| 2 or less  | Attacks    | Failure               |
+| 3          | Attacks    | Failure               |
+| 4          | Attacks    | Failure               |
+| 5          | Attacks    | Failure               |
+| 6          | Attacks    | Partial Success       |
+| 7          | Wait       | Partial Success       |
+| 8          | Wait       | Partial Success       |
+| 9          | Wait       | Success               |
+| 10         | Positive   | Success               |
+| 11         | Positive   | Success               |
+| 12 or more | Positive   | Success with benefits |
 
 
 

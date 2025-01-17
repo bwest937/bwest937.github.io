@@ -12,14 +12,15 @@ c: 7
 - use chips for height for the wall guys
 - use good minis for the ones on the ground, blue meeple or whatever for the others
 - let them decide placing (2 searching) and who was on guard since you rushed them
-- but the lanterns placement matters! if right in the middle, can pick see both crews coming
+- but the lanterns placement matters! if right in the middle, can see both crews coming
 - no surprise
 
 ## MORALE please remember
 
 ## are the DC's alerted? 
-- hrm, i think only 1/6 chance
+- hrm, i think 2/6 chance
 - consequence... i guess they post a guard and ready themselves for... 2 turns?
+    - and can;t be heard during this time
 - maybe remind them noise begets monsters sometimes
 
 

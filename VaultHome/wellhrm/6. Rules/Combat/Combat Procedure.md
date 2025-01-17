@@ -19,24 +19,29 @@ Any [[Charge|Charges]] are resolved simultaneously. If charging foes meet, their
 
 ## 4 Roll Initiative
 
-Each group rolls a d6 and the group with the highest result goes first. 
+Each group rolls a d6. One roll is made for each group, not for each individual. The side or group with the fewest members gets a +2 to their roll ("Guerilla Bonus").  Ties are resolved simultaneously. #new
 
-**Guerilla bonus**: The side with the fewest members gets a +2 to their roll.
+### Initiative Modifiers
+These are common modifiers, but there are other conditions and effects that might change a group or character's initiative.
 
-One roll is made for each side, not for each individual. Ties are resolved simultaneously. #new It's possible for different groups of monsters or even the PCs to be on a different initiative, in which case we resolve from highest to lowest.
+#### Guerilla Bonus
+The side with the fewest members gets a +2 to their roll.
+
+#### Spell Level
+When casting spells, the caster subtracts -1 from their initiative roll for every spell level past 1.
 
 ## 5 Resolve Combat Actions
 
 ### First Missile Volley
-Resolve any missile fire from stationary shooters from the wining group, and then the rest of the groups in descending order.
+Resolve any missile fire from stationary shooters from the wining group, and then resolve any missiles from the rest of the groups in descending order.
 
 ### Actions
-First, the side that won initiative moves, attacks, resolves spells, uses items, or anything else they can do. These actions can be coordinated amongst the members of the group and be done in any order they wish (except for second or third missile attacks, these are resolved last). Members of the winning side may declare some kind of trigger ("I shoot any Orc that moves where I have a clear shot") but risk losing the action depending on what happens.
+First, the side that won initiative moves, attacks, resolves spells, uses items, or anything else they can do. These actions can be coordinated amongst the members of the group and be done in any order they wish. Members of the winning side may declare some kind of trigger ("I shoot any Orc that moves where I have a clear shot") but risk losing the action depending on what happens.
 
 The rest of the groups then resolve their actions, in descending order.
 
 ### Second Missile Volley
-The side that won initiative resolves any second or third missile attacks from stationary shooters, then side that lost initiative resolves does the same.
+The side that won initiative resolves any second or third missile attacks from stationary shooters, then the rest of the groups does the same in descending order.
 
 ## Morale
 Each monster has a morale rating between 2 and 12, with 2 representing creatures that absolutely don’t fight and 12 representing mindless creatures that always fight to the end.

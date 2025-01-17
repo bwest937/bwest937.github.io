@@ -10,11 +10,11 @@ cssclasses:
 
 ## `=this.file.name`
 
- >[!info] `=this.classname`  (image)
+ >[!info] `=this.classname` ![[SW Cleric.png]]
 **Prime Abilities:** Wisdom
 **Hit Dice:** 1d6
 **Armour:** Any
-**Weapons:** Blunt weapons only. No missile weapons other than oil/flasks.
+**Weapons:** Blunt weapons only. No missile weapons other than slings.
 **Alignment**: Lawful
 **Ancestries:** `=this.ancestries`
 **Tags:** #caster
@@ -48,7 +48,7 @@ Clerics have a +2 bonus on all saving throws against being *paralyzed*  or *pois
 **Using Magic Items:** Clerics can use items that may only be used by divine spell casters (e.g. some magic staves).
 
 #### Divine Scrolls
-Clerics can use scrolls of divine spells, and instantly recognize any scrolls of their current Spell Level. Higher level spells need to be identified by a [[Magic User]] or another [[Cleric]] of sufficient level before they can be learned.
+Clerics can use scrolls of divine spells, and instantly recognize any scrolls of their current Spell Level. Higher level spells need to be identified by a [[Magic User]] or another [[Cleric]] of sufficient level before they can be learned. ^c353f9
 
 ![[Learn Spell From Scroll or Book|clean]]
 

@@ -5,8 +5,7 @@ dg-publish: true
 
 # Handbooking Yall
 
-
-
+[[Character Creation]]
 [[Ability Scores]]
 [[Classes]]
 [[Skills]]
