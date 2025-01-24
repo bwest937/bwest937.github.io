@@ -7,7 +7,7 @@
 | 2   | 2d6 [[Tunnel prawn]]                                                 |
 | 3   | 3 [[Dark Creeper]] (only once, remember they have lv 4 thief skills) |
 
-There are 18 rats total, keep track. If more than half show up at any time, that's the nest! Nest has 169gp and a [[Extra Healing Potion]]
+There are 18 rats total, keep track.
 
 ### On No Encounter
 
@@ -225,11 +225,21 @@ allow a lore check
 
 
 
-**12. ROOM OF GLOWING SKULLS:**
+#### 12. ROOM OF GLOWING SKULLS
 
 As you enter this octagonal room you are struck by an odd sight. Each wall has a small niche in it, and in each of them is a glowing skull. The creepers avoid this room.
 
 The skulls are cemented into the walls. If a player character tries to remove any of the skulls by brute force, there is 90% chance the skull will be destroyed. Tools and or care will reduce the chance. If a [[Thiefers]] attempts it, the usual chance to Pick Locks is applied; failure results in a 50% chance of the skull being destroyed. Each skull generates illumination as if affected by a *light* spell. This effect is permanent and will probably be useful against the creepers.
+
+##### Rats Nest
+In a corner (dark if possible) is a pile of cloth and other detritus, also some shiny! its a nest of [[Rat, Giant]]s.  They probably attack when the party gets within some feet. They could probably burn the whole mess if they think about it (have a few singed rats emerge and fight, as the rats surely have some holes in the wall/underneath the flammable part, but it should make this much easier)
+
+2 groups of 4 (+2 to hit) defend the nest
+- each round, for three rounds, a singleton emerges that attempts to get to the back line(can get past cuz its a cat basically)
+- morale check only when down to 50%
+- Nest has 169gp and a [[Extra Healing Potion]].
+
+##### Exits
 
 
 **13. SARCOPHAGUS ROOM:**

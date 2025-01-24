@@ -13,7 +13,7 @@ Lair: 10
 CL: 1
 XP: 7 (5+1/hp)
 Bits:
-cssClass: monsterTable
+cssClass: flipTable
 ---
 
 ___

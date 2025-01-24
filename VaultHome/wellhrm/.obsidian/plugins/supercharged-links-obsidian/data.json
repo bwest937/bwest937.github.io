@@ -69,6 +69,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "2. World/NPCs/",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "bf01-ea4c",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }
