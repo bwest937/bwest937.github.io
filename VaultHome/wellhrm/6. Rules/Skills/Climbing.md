@@ -9,7 +9,7 @@ dg-publish: "true"
 
 > [!skill] `=this.file.name`
 > #normal_skill 
->`=this.die`, base chance depends on pace and passage size
+>`=this.die`, base chance depends on pace and angle
 
 **Anytime you need to travel up or down at an angle sharper than you can walk, it’s climbing.** You climb to hike mountain paths, to scale fortress walls, to shimmy up cavern ceilings, and to hang off the undersides of great beasts. It’s dangerous, like all good things.
 
@@ -50,8 +50,7 @@ Choose a pace, and up your modifiers. If you are at 6 or more, you automatically
 - You have a pack on your back.
 - You have something in your hand, like a sword or torch. This can stack if both hands are occupied.
 - You are in darkness or otherwise cannot see the whole route.
-- You are very large.
-- The passage is underwater, filled with rubble, or otherwise is impeded.
+- The ascent is wet, icy, smooth, or otherwise difficult to get a grip on.
 
 ### Failure
 If you fail your climbing roll, make a STR Save. If you fail, roll on this table for the consequences:
@@ -60,8 +59,8 @@ If you fail your climbing roll, make a STR Save. If you fail, roll on this table
 | Roll | Consequence                                                                                                     |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
 | 1    | You slip! If on a slope or have rope, slide down 1d6 × 10’. If not, make another STR save or [[Falling\|Fall!]] |
-| 2    | Your gear scrapes against the passage. You lose 1 randomly determined piece of gear.                            |
-| 3    | You make a wrong move somewhere and have to twist around to fix it. Reverse your head-feet-first direction.     |
-| 4    | [[Falling\|Fall!]]                                                                                              | 
+| 2    | A randomly determined piece of gear slips loose.                                                                |
+| 3    | A chunk of material breaks loose: 1d4 others under you suffer 1d4 damage.                                       | 
+| 4    | [[Falling\|Fall!]]                                                                                              |
 
 

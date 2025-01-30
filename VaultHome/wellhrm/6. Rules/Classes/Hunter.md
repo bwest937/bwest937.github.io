@@ -36,7 +36,7 @@ Hunters have a +1 bonus on all saving throws except against those against magic 
 
 ### Skills
 
-**Good Climber:** Hunters roll with advantage on Climbing checks. Seek the high ground!
+**Good Climber:** Hunters roll with advantage on [[Climbing]] checks. Seek the high ground!
 
 ### Hunter Class Skills
 ![[Tracking|clean]]
