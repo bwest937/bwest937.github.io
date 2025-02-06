@@ -18,5 +18,10 @@ The caster detects any evil enchantments, evil auras, and supernaturally evil cr
 
 
 *Related:*
-*Other Versions:* [[7. Spells/Magic User Spells/Detect Evil|Detect Evil (MU)]]
+*Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___

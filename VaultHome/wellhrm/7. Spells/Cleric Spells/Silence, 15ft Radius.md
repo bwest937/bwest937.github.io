@@ -16,6 +16,11 @@ Magical silence falls in an area with a 15-foot radius around the targeted creat
 
 *Related:* 
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___
 
 

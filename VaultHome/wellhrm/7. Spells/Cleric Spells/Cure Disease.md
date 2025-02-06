@@ -10,12 +10,16 @@ dg-publish: "true"
 **Spell Level:** `=this.spell_level`  
 **Range:**  Touch
 **Duration:**  Immediate (permanent)
-**Tags:** #cleric_basic #reversible 
+**Tags:** #cleric_basic #cure_spell #reversible 
 
 Cures the spell’s recipient of any diseases, including magically-inflicted ones. An evil reversal of this spell allows a Chaotically aligned Cleric to cause disease.
 
 *Related:* 
-- [[Cure Blindness]]
+```dataview
+LIST file.frontmatter.spell_class
+FROM #cure_spell
+WHERE !contains(file.name, this.file.name)
+```
   
 *Other Versions:*
 ```dataview

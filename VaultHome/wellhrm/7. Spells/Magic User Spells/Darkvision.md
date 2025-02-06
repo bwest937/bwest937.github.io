@@ -1,6 +1,6 @@
 ---
 spell_level: 3
-spell_class: [[Magic User]]
+spell_class: "[[Magic User]]"
 dg-publish: true
 ---
 

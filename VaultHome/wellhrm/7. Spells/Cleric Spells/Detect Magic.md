@@ -15,11 +15,10 @@ spell_class: "[[Cleric]]"
 The caster can perceive, in places, people, or things, the presence of a magical spell or enchantment. For example, magical items may be discovered in this fashion, as can the presence of a charm secretly laid upon a person.
 
 *Related:* 
-*Other Versions:* [[7. Spells/Magic User Spells/Detect Magic|Detect Magic (MU)]] [[7. Spells/Shaman Spells/Detect Magic|Detect Magic (Shaman)]]
+*Other Versions:*
 ```dataview
 LIST file.frontmatter.spell_class
 FROM "7. Spells"
-WHERE file.name = this.file.name
-WHERE !contains(file.name, this.file.name)
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
 ```
 ___

@@ -16,5 +16,10 @@ This spell can be cast once per day on a number of allies equal to the cleric's 
 
 *Related:* 
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___
 

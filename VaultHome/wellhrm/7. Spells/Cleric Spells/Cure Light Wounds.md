@@ -10,11 +10,21 @@ spell_class: "[[Cleric]]"
 **Spell Level:** `=this.spell_level`  
 **Range:**  Touch
 **Duration:**  Immediate
-**Tags:** #cleric_basic #reversible 
+**Tags:** #cleric_basic #cure_spell #reversible 
 
 Cures [[MD Sum]]+1 hit points of damage.
 
 *Related:* 
-*Other Versions:* [[7. Spells/Shaman Spells/Cure Light Wounds|Cure Light Wounds]]
+```dataview
+LIST file.frontmatter.spell_class
+FROM #cure_spell
+WHERE !contains(file.name, this.file.name)
+```
+*Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___
 

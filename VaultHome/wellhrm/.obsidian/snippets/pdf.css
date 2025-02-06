@@ -106,7 +106,11 @@
         color:white !important;
     }
 
-    span {
+    span, p {
         page-break-inside: avoid;
+    }
+
+    hr {
+        page-break-after: always;
     }
 }

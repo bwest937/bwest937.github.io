@@ -16,4 +16,9 @@ Enough food and water for up to a dozen people is made pure, removing spoilage a
 
 *Related:* 
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___

@@ -16,6 +16,11 @@ You indicate an undead or demonic creature you can see to be the target of your 
 
 *Related:* 
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___
 
 

@@ -20,6 +20,7 @@ LIST file.frontmatter.spell_class
 FROM #locate_spell
 WHERE !contains(file.name, this.file.name)
 ```
+
 *Other Versions:*
 ___
 

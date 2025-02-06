@@ -16,4 +16,9 @@ To cast this spell, the cleric throws a melee weapon they can wield into the air
 
 *Related:*
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___

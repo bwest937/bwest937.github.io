@@ -16,5 +16,10 @@ The caster targets 1d4 living bipeds of human size or smaller, such as goblins o
 
 *Related:* 
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___
 

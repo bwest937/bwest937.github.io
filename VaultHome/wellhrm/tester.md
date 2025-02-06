@@ -22,7 +22,8 @@ for (var i = 0; i < maxlevel; i++) {
     let pages = dv.pages(spath).where(page => dv.func.contains(page.tags, btag)).where(page => page.spell_level == i);
     for (let page of pages) {
         if (page.file.path == dv.current().file.path) { continue; }
-        dv.el("p", "![[" + page.file.path + "|clean]]", { cls: "pdf-col" });
+        //dv.el("p", "![[" + page.file.path + "|clean]]", { cls: "pdf-col" });
+        dv.el("p", "![[" + page.file.path + "|clean]]");
  }
 }
 
