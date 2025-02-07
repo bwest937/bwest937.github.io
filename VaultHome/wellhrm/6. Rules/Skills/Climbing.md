@@ -19,11 +19,8 @@ Climbing allows for three paces: normal (240 ft), half (120 ft), creep (60ft). S
 ### Angles of Ascent
 
 **Slope 30°–80°:** Less than 30° doesn’t need a climbing roll.
-
 **Wall 81°–100°:** Straight vertical, or close enough.
-
 **Overhang 101°–170°:** Like climbing the inside of an arch.
-
 **Ceiling 171°–190°:** More than 190° is an ass-over-head overhang.
 
 ### Climbing Roll
@@ -58,7 +55,7 @@ If you fail your climbing roll, make a STR Save. If you fail, roll on this table
 
 | Roll | Consequence                                                                                                     |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
-| 1    | You slip! If on a slope or have rope, slide down 1d6 × 10’. If not, make another STR save or [[Falling\|Fall!]] |
+| 1    | You slip! If on a slope or have rope, slide down 1d6 × 10’. If not, [[Falling\|Fall!]] |
 | 2    | A randomly determined piece of gear slips loose.                                                                |
 | 3    | A chunk of material breaks loose: 1d4 others under you suffer 1d4 damage.                                       | 
 | 4    | [[Falling\|Fall!]]                                                                                              |

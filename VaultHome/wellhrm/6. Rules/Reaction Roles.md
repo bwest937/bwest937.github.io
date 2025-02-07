@@ -5,8 +5,6 @@ cssclasses:
 
 ## `=this.file.name`
 
-Fill this out with more options
-
 | 2d6        | SW Monster | Pbta                  |
 | ---------- | ---------- | --------------------- |
 | 2 or less  | Attacks    | Failure               |

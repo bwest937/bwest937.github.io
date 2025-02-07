@@ -1,5 +1,4 @@
 ---
-classname: Hunter
 ancestries:
   - "[[Humans]]"
   - "[[Halflings]]"
@@ -9,7 +8,7 @@ cssclasses: wideTable
 
 ## `=this.file.name`
 
- >[!info] `=this.classname`  ![[Highland Shaman.png]]
+ >[!info]  ![[Highland Shaman.png]]
 **Prime Abilities:** Charisma
 **Hit Dice:** 1d6
 **Armour:**  Leather armor, wooden shield

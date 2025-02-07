@@ -12,7 +12,7 @@
   "isTimestamp": false,
   "enabledCss": true,
   "prevConfig": {
-    "pageSize": "Letter",
+    "pageSize": "Custom",
     "marginType": "0",
     "showTitle": false,
     "open": false,
@@ -24,8 +24,8 @@
     "marginRight": "10",
     "displayHeader": false,
     "displayFooter": false,
-    "cssSnippet": "C:\\Users\\judas\\Documents\\bwest937.github.io\\VaultHome\\wellhrm\\.obsidian\\snippets\\pdf.css",
+    "cssSnippet": "/Users/P2187783/bwest937.github.io/VaultHome/wellhrm/.obsidian/snippets/pdf.css",
     "pageWidth": "140",
-    "pageHeight": "2610"
+    "pageHeight": "216"
   }
 }

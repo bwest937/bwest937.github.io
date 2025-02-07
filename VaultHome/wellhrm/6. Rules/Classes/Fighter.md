@@ -10,7 +10,7 @@ cssclasses: wideTable
 
 ## `=this.file.name`
 
- >[!info] `=this.classname`  (image)
+ >[!info]  ![[SW Fighter.png]]
 **Prime Abilities:** Strength
 **Hit Dice:** 1d8
 **Armour:** Any

@@ -9,7 +9,7 @@ dg-publish: "true"
 
 ## `=this.file.name`
 
- >[!info] `=this.file.name`  (image)
+ >[!info] `=this.file.name`  ![[SW Thief.png]]
 **Prime Abilities:** Dexterity
 **Hit Dice:** 1d4
 **Armour:** Leather armor; no shield

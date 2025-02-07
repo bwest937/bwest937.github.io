@@ -10,7 +10,7 @@ cssclasses:
 
 ## `=this.file.name`
 
- >[!info] `=this.classname`  (image)
+ >[!info] `=this.classname`  ![[SW Magic User.png]]
 **Prime Abilities:** Intelligence
 **Hit Dice:** 1d4
 **Armour:** None

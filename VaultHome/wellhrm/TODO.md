@@ -2,6 +2,8 @@
 glue crypts of kardak to the iron god for level 2, or a sublevel, or something
 Wormkin can be the crimson ghoul 
 
+https://www.youtube.com/watch?v=DNl7T42FkLA : cult video
+
 
 ## Items 
 
