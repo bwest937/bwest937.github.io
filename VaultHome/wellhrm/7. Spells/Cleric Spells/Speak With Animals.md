@@ -1,6 +1,6 @@
 ---
 spell_level: 2
-spell_class: [[Cleric]]
+spell_class: "[[Cleric]]"
 dg-publish: true
 ---
 

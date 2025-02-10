@@ -22,7 +22,6 @@ The caster can ask three questions of a corpse, and it will answer, although the
 - The fourth [[MD]] for centuries.
 
 
-
 *Related:* 
 *Other Versions:*
 ```dataview

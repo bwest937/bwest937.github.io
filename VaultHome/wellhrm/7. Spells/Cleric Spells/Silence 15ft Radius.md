@@ -10,7 +10,7 @@ spell_class: "[[Cleric]]"
 **Spell Level:** `=this.spell_level`  
 **Range:**  180 ft
 **Duration:**  12 turns
-**Tags:** 
+**Tags:** #cleric_basic 
 
 Magical silence falls in an area with a 15-foot radius around the targeted creature or object, and moves with it. Nothing from this area, no matter how loud, can be heard outside the radius.
 
