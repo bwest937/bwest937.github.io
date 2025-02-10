@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+die: chain
+ability: NA
+base: 1d4
+tags:
+  - "#normal_skill"
+dg-publish: "true"
 ---
 ## Cooking
 
@@ -22,14 +28,13 @@ Assuming the requirements are met and the meal isn't poisonous, the meal heals H
 ##### Table C1: Cooking HP Healed
 | Cooking Mod | HP Healed |
 |:-----------:|:---------:|
-|      1      |    1d4    | 
+|      1      |    1d4    |
 |      2      |    1d6    |
-|      3      |    2d6    |
-|      4      |    3d6    |
-|      5      |   2d6+6   |
-|      6      |   3d6+6   |
-|      7      |  2d6+12   |
-|      8      |  3d6+12   |
+|      3      |    1d8    |
+|      4      |   1d10    |
+|      5      |   1d12    |
+|      6      |   1d20    | 
+
 
 ##### Table C2: Example Cooking Modifiers
 

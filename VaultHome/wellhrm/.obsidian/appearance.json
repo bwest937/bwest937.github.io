@@ -3,7 +3,8 @@
   "accentColor": "#5cf58a",
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "tableStyles"
+    "tableStyles",
+    "S - Images Adjustments"
   ],
   "theme": "obsidian"
 }

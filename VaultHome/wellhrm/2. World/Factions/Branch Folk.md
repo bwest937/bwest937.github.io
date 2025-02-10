@@ -1,7 +1,7 @@
 # Branch Folk
 
   
- ![[branchfolk_dryadi.png]]
+ ![[branchfolk_dryadi.png|right|300]]
 
 
 ## Description

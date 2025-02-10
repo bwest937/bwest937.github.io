@@ -16,6 +16,7 @@ Bits:
 ---
 
 ___
+![[Dark Creeper.png|right|300]]
 
 ## `=this.file.name`
 

@@ -14,6 +14,7 @@ https://blacksmithgu.github.io/obsidian-dataview/resources/faq/
 #### css 
 https://help.obsidian.md/Extending+Obsidian/CSS+snippets
 https://github.com/Dmytro-Shulha/obsidian-css-snippets/blob/master/Snippets/Embeds.md
+https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments
 
 #### muti column
 https://github.com/ckRobinson/multi-column-markdown/blob/master/documentation/FullExamples.md

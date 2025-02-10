@@ -183,7 +183,7 @@ The busts are plaster with thick layers of paint, which itself is darkened and o
 **6 [[Dark Creeper|4 Dark Creepers]]:** 
 
 HP 9 ☐☐☐☐☐ ☐☐☐☐ (this one has the [[Dark Crystal Dagger]])
-![[crystal dagger 1.jpg]]
+![[crystal dagger.jpg]]
 HP 8 ☐☐☐☐☐ ☐☐☐
 HP 8 ☐☐☐☐☐ ☐☐☐
 HP 8 ☐☐☐☐☐ ☐☐☐

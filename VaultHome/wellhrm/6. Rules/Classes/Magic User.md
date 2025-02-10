@@ -1,5 +1,4 @@
 ---
-classname: Magic User
 ancestries:
   - "[[Humans]]"
   - "[[Elves]]"
@@ -9,14 +8,16 @@ cssclasses:
 ---
 
 ## `=this.file.name`
+ ![[SW Magic User.png|right|300]]
 
- >[!info] `=this.classname`  ![[SW Magic User.png]]
+ >[!info]  Magic User 
 **Prime Abilities:** Intelligence
 **Hit Dice:** 1d4
 **Armour:** None
 **Weapons:** Dagger, staff, crossbow
 **Ancestries:** `=this.ancestries`
 **Tags:** #caster #arcane
+
 
  
 ### Description

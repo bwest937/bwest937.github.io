@@ -1,4 +1,5 @@
 ---
+classname: Figher
 ancestries:
   - "[[Humans]]"
   - "[[Dwarves]]"
@@ -9,8 +10,8 @@ cssclasses: wideTable
 ---
 
 ## `=this.file.name`
-
- >[!info]  ![[SW Fighter.png]]
+![[SW Fighter.png|right|300]]
+ >[!info]  
 **Prime Abilities:** Strength
 **Hit Dice:** 1d8
 **Armour:** Any

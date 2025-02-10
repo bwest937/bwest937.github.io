@@ -3,7 +3,7 @@ dg-home: true
 dg-publish: true
 ---
 
-# Handbooking Yall
+# Player Handbook
 
 [[Character Creation]]
 [[Ability Scores]]

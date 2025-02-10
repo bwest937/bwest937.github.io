@@ -5,7 +5,11 @@ tags:
 
 ## `=this.file.name`
 
-**Status:** If [[Gloomberries]] are returned, +1 to.. reaction or whatever rolls
+**Status:**
+- Berries returned, [[Gloomberry Pie]] made.
+- Basement trouble located and immediate danger resolved.
+- 
+
 
 **Appearance**: A middle-aged good looking human male. Looks the part of the miller with a flat thumb and all, although he seems a titch more fashionable than strictly required with his sturdy boots and flour-dusted apron.
 

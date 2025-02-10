@@ -9,8 +9,9 @@ cssclasses:
 ---
 
 ## `=this.file.name`
+![[SW Cleric.png|right|300]]
 
- >[!info] `=this.classname` ![[SW Cleric.png]]
+ >[!info] `=this.classname`
 **Prime Abilities:** Wisdom
 **Hit Dice:** 1d6
 **Armour:** Any

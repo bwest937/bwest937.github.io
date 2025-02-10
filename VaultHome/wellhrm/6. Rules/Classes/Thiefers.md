@@ -8,13 +8,14 @@ dg-publish: "true"
 ---
 
 ## `=this.file.name`
-
- >[!info] `=this.file.name`  ![[SW Thief.png]]
+ ![[SW Thief.png|right|300]]
+ >[!info] `=this.file.name` 
 **Prime Abilities:** Dexterity
 **Hit Dice:** 1d4
 **Armour:** Leather armor; no shield
 **Weapons:**  Any, but magical weapons are limited to daggers and swords
 **Ancestries:** `=this.ancestries`
+**Tags:** #sneaker
   
 
 ### Description

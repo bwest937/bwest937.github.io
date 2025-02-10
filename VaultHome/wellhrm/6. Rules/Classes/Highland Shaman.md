@@ -7,8 +7,8 @@ cssclasses: wideTable
 ---
 
 ## `=this.file.name`
-
- >[!info]  ![[Highland Shaman.png]]
+ ![[Highland Shaman.png|right|300]]
+ >[!info] 
 **Prime Abilities:** Charisma
 **Hit Dice:** 1d6
 **Armour:**  Leather armor, wooden shield

@@ -7,8 +7,8 @@ dg-publish: "true"
 ---
 
 ## `=this.file.name`
-
- >[!info] Hunter ![[S&W Ranger.png]] 
+![[S&W Ranger.png|right|300]] 
+ >[!info] Hunter 
 **Prime Abilities:** Dexterity
 **Hit Dice:** 1d8
 **Armour:** Any except plate
