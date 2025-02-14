@@ -20,4 +20,9 @@ The pyrotechnics spell requires an existing fire source (which may be anywhere i
 
 *Related:*
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___

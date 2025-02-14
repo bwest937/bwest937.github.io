@@ -1,9 +1,14 @@
 ## Temple
+- finish off l1 topology
+- decide on cult/priest changes, if any. 
+    - cool shit could be in that room
+    - snake guardian things
+    - https://www.youtube.com/watch?v=DNl7T42FkLA : cult video
+- know what did thief did
+    - maybe make the knight guy a kam warrior (4hd splits into 2hd, splits in 1hd)
+  
 glue crypts of kardak to the iron god for level 2, or a sublevel, or something
 Wormkin can be the crimson ghoul 
-
-https://www.youtube.com/watch?v=DNl7T42FkLA : cult video
-
 
 ## Items 
 
@@ -37,8 +42,6 @@ barakus area Q goes right in there i think!
 outside
 - snatching serpent
 
-dungeon
-  - maybe make the knight guy a kam warrior (4hd splits into 2hd, splits in 1hd)
 
 manor
   - bad guy might have a kraben raven as familiar

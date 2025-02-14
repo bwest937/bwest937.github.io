@@ -3,7 +3,7 @@ slots: +1 quick-draw
 ---
 > [!info]  `=this.file.name`
 > 
->![[Bag_of_Holding.png]]
+>![[Bag_of_Holding.png|right|300]]
 > 
 > A normal satchel with a short arm protruding from it that will hold objects given to it. 
 > - **Objects**: The arm can hold objects weighing up to 10 pounds (1/slot). It provides an extra quick-draw slot and is otherwise inventory-neutral.
@@ -11,6 +11,7 @@ slots: +1 quick-draw
 > 
 > **Slots:** `=this.slots`
 
+#found_item
 
 
 

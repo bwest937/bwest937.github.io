@@ -16,4 +16,9 @@ This spell may be cast upon a [[Fighter]] or a [[Cleric]]. For the duration of t
 
 *Related:* 
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___

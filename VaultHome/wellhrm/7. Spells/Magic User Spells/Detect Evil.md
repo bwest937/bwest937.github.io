@@ -18,5 +18,10 @@ The caster detects any evil enchantments, evil auras, and supernatually evil cre
 
 
 *Related:*
-*Other Versions:* [[7. Spells/Cleric Spells/Detect Evil|Detect Evil (Cleric)]]
+*Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___

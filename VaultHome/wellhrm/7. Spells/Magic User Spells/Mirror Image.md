@@ -18,4 +18,9 @@ The mirror image spell creates [[MD Sum]] phantasmal images of the magic user, a
 
 *Related:* 
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___

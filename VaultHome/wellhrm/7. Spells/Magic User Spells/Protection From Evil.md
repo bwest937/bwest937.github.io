@@ -18,4 +18,9 @@ Creates a magical field of protection immediately around the caster, blocking ou
 
 *Related:*
 *Other Versions:*
+```dataview
+LIST file.frontmatter.spell_class
+FROM "7. Spells"
+WHERE file.name = this.file.name AND !contains(file.path, this.file.path)
+```
 ___
