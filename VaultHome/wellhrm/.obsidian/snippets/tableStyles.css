@@ -138,5 +138,5 @@ table a:link {
 
 .monsterTable tbody td:first-child {
     font-weight: 700;
-    color: var(--h6-color) !important;
+    /*color: var(--h6-color) !important;*/
 }

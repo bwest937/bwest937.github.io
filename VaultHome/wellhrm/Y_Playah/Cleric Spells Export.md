@@ -1,5 +1,5 @@
 
-## Basic Cleric Spells
+## Cleric Spells
 ```dataview
 TABLE rows.file.name as Spells
 FROM #cleric_basic 

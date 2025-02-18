@@ -1,18 +1,18 @@
 ---
-HD:
-AC: 
-Attacks: 
-Save: 
-Move:
-Morale: 
-Special: 
-Alignment: 
-Encountered: 
-Lair: 
-CL: 
-XP:
-Size:
-Bits:
+HD: 4 + 1
+AC: 12
+Attacks: 2 claws (1d3) and bite (1d6)
+Save: 13
+Move: 9
+Morale: 7
+Special: "If both claws hit, hug for additional 1d8 damage"
+Alignment: Neutral
+Encountered: 1d4
+Lair: 0
+CL: 4
+XP: 120
+Size: Large
+Bits: "[[Bear Claws]]"
 cssClass: monsterTable
 ---
 
@@ -32,15 +32,13 @@ cssClass: monsterTable
 | Special          | `=this.special`     |
 | Number appearing | `=this.encountered` |
 | Bits             | `=this.bits`        |
-| Tags             |                     | 
+| Tags             | #hug                | 
 
 
 ### Description
 
 ### Abilities
-**Blood Drain:** On bite, save versus breath, failure means the Dragon Tick begins to burrow into the body, dealing 1d4 automatic damage each round as it drains the victim’s blood. A successful strength check stops this process by violently ripping the Dragon Tick away
-
-**Adamantine Teeth:** Non-magical armor provides no protection from the Dragon Tick’s bite attack
+**Hug:** If both claws hit, the bear "hugs" for an additional 1d8 damage. The hug is not on-going.
 
 
 ### Social
@@ -53,9 +51,7 @@ cssClass: monsterTable
 **XP:** `=this.xp`
 
 #### Source
-
-Into The Weird And Wild
-[Link Text](obsidian://open?vault=swords_and_wizardry_ref&file=dirname%2F) p162
+SW
 
 
 

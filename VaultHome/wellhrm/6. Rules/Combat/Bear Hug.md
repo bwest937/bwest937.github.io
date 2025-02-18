@@ -1,4 +1,1 @@
-Bears hug for extra damage if both claws hit, so ... 
-
-do they continue hugging? Only if its bigger and says so, like [[Skunkbear]]
-do they get bite still? yes
+Bear hugs continue every round only for the larger and scarier ones, it should say in the description ex: [[Skunkbear]]

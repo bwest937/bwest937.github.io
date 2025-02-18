@@ -27,7 +27,6 @@ XP: 240
 | Save    | `=this.save`    |
 | Special | `=this.special` |
 
-
  Blink dogs are pack hunters, intelligent and usually friendly to those who are not of evil intent. They can #teleport short distances (without error) and attack in the same turn — in most cases (75%), a blink dog is able to #teleport behind an opponent and attack from the rear, with appropriate bonuses
 
 

@@ -1,0 +1,20 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "4. Bestiary/Bits",
+      "templateName": "Monster.Bit"
+    },
+    {
+      "folderPath": "4. Bestiary",
+      "templateName": "Monster"
+    },
+    {
+      "folderPath": "7. Spells",
+      "templateName": "Spell"
+    },
+    {
+      "folderPath": "",
+      "templateName": ""
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 ---
-HD:
-AC: 
-Attacks: 
-Save: 
-Move:
-Morale: 
-Special: 
-Alignment: 
-Encountered: 
-Lair: 
-CL: 
-XP:
-Size:
-Bits:
+HD: 3 + 3
+AC: 12
+Attacks: Gore (3d4)
+Save: 14
+Move: 15
+Morale: 9
+Special: "Continues attacking 2 rounds after being killed"
+Alignment: Neutral
+Encountered: 1d12
+Lair: 0
+CL: 4
+XP: 120
+Size: Medium
+Bits: "[[Boar Tusk]]"
 cssClass: monsterTable
 ---
 
@@ -36,11 +36,10 @@ cssClass: monsterTable
 
 
 ### Description
+Delicious and dangerous, wild boars are ill-tempered and just **love** goring folks.
 
 ### Abilities
-**Blood Drain:** On bite, save versus breath, failure means the Dragon Tick begins to burrow into the body, dealing 1d4 automatic damage each round as it drains the victim’s blood. A successful strength check stops this process by violently ripping the Dragon Tick away
-
-**Adamantine Teeth:** Non-magical armor provides no protection from the Dragon Tick’s bite attack
+**Fight After Death:** Wild boars continue to attack for two rounds after they reach zero hit points before they finally drop dead. 
 
 
 ### Social
@@ -54,8 +53,7 @@ cssClass: monsterTable
 
 #### Source
 
-Into The Weird And Wild
-[Link Text](obsidian://open?vault=swords_and_wizardry_ref&file=dirname%2F) p162
+SW
 
 
 

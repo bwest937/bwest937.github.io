@@ -12,7 +12,7 @@ Encountered: 1d10 or 1d10x10
 Lair: 20
 CL: 3
 XP: 60
-Bits: "hypothetical skins are worth.. 2d6 ea. the gloomtouched ones are magical, provide surprise"
+Bits: "skins are worth.. 2d6 ea. the gloomtouched ones are magical, provide surprise if made into armor"
 ---
 ![[Trog_Claw.png]]
 ![[Trog_Shield.png]]
