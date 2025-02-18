@@ -227,9 +227,11 @@ allow a lore check
 
 #### 12. ROOM OF GLOWING SKULLS
 
-This room is spacious compared to the rest, with 20 ft high ceilings. There are 4 pillars (use chalk).
+This room is spacious compared to the rest, with 20 ft high ceilings. There are 4 pillars (use chalk). The floor here is littered with tunnel prawn shells and rat droppings. 
 
-Peering down from the top of the pillars are glowing skulls. The skulls are cemented into the pillars. The pillars can be [[Climbing]], treat as vertical. Tying a safety rope will make attempting to remove the skulls much safer. 
+Peering down from the top of the pillars are glowing skulls. The skulls are cemented into the pillars. The overall affect is impressive as the skulls light the room but leave deep shadows behind the pillars. There are no other adornments or structures.
+
+The pillars can be [[Climbing]], treat as vertical. Tying a safety rope will make attempting to remove the skulls much safer. 
 
 - If a player character tries to remove any of the skulls by brute force, there is 90% chance the skull will be destroyed. 
 - Tools and or care will reduce the chance. If a [[Thiefers]] attempts it, the usual chance to Pick Locks is applied; failure results in a 50% chance of the skull being destroyed. 
@@ -249,15 +251,21 @@ In a corner (dark if possible) is a pile of cloth and other detritus, also some 
 
 **13. SARCOPHAGUS ROOM:**
 
-The latch to the secret door is hidden by an illusion, any hands-on check of the area reveals it.It opens to reveal a twenty foot square room. A large stone sarcophagus rests in the center of the room. A skeleton stands in each corner of the room, each one gripping an ancient spear, but all remain motionless.
+There is a patch of wall that is virtually unaffected by aging where the latch to the secret door is hidden by an illusion. 
+- Dwarves have a 1/6 chance of noticing passsivley and Elves have the normal 1/6 chance for a secret door.
+ - any hands-on check of the area reveals it
+ 
+ It opens to reveal a twenty foot square room. A large stone sarcophagus rests in the center of the room. A skeleton stands in each corner of the room, each one gripping an ancient spear, but all remain motionless.
 
 The skeletons only move and attack if they themselves are attacked or *the sarcophagus is touched*.
 
 The outside of the sarcophagus is covered with carved images a man in robes casting spells at an array of foes. A search of the sarcophagus reveals no traps, and the lid slides easily off. Once opened a **magic mouth** spell activates and says:
 
-*Much did I plunder from the dead, now it is my turn to be plundered. May my last baubles serve you as they have served me.*
+*Much did I plunder from the dead, now it is my turn. May my last baubles serve you as they have served me.*
 
-A single skeleton lies in the sarcophagus, dressed in the tattered remains of a once fine robe. It wears a jeweled ring on its right hand, and a plain silver ring on its left hand. If tested, both rings detect as magical; the jeweled ring is a **Ring of Protection +1** and the silver band is a **Ring of Fire Resistance**.
+A single skeleton lies in the sarcophagus, dressed in the tattered remains of a once fine robe. It wears a jeweled ring on its right hand, and a plain silver ring on its left hand. If tested, both rings detect as magical; the jeweled ring is a **Ring of Protection +1** and the "silver" band is actually steel, this is a *Ring of Instant Plate Armor**.
+
+Instant Plate Armor (2/day) if unarmored, No Movement until Dismissed 
 
 **4 [[Skeleton|Skeletons]]:** 
 
@@ -269,6 +277,15 @@ HP 7 ☐☐☐☐☐ ☐☐
 
 **14. The Statue**
 
-There a roughly life-sized statue of a female figure. She is wearing robes and has her hands out. It's unclear if this is the same deity from the ceilings in the catacombs in a different form, or a something else entirely. There is **offering bowl** at her feet. There is 23 ancient rectangular silver coins (1gp each) and a large star rose quartz (65 gp) in the bowl. 
-- Surrounding the statue (and bowl) is a ring of 9 [[Warding Stones]]. If anything passes over them, they begin to shake and glow for 1 turn, creating a loud enough clatter to provoke an encounter roll. Moving a stone out of place stops the effect.
+There a roughly life-sized statue of a female figure. She is wearing robes and has her hands out. It's unclear if this is the same deity from the ceilings in the catacombs in a different form, or a something else entirely. There is an **offering bowl** at her feet. There is 23 ancient gp and a large star rose quartz (65 gp) in the bowl. (Have them google or show this):
+![[cats_eye_gem.png|300]]
+- Surrounding the bowl is a ring of 9 [[Warding Stones]]. If any living thing through the circle, they begin to shake and glow for 1 turn, creating a loud enough clatter to provoke the spider hiding behind the statue! Moving a stone out of place stops the effect. Taking just one quickly causes 1 round of shaking/glowing.
+- Any offering made won't trigger the stones if tossed, but reaching for the bowl will.
 - Any offering made by a Lawful PC will cause the statue to cast *Protection From Evil* (evil monsters -1 to hit target, target +1 to saves from those attacks). Lasts two hours.
+
+##### Spider
+- lives behind the statue, web attached to the statue and a corner i guess.if
+- if they look up/behind or investigate statue in any way they notice a glint of web
+- stones will cause spider to creep over the top of the statue and attack, roll for surprise if spider not suspected yet
+
+need stats

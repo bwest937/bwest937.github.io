@@ -34,12 +34,12 @@
           "maximized": false
         },
         "CHTRMAC12V6MD6M": {
-          "x": 255,
-          "y": 106,
-          "width": 1318,
-          "height": 829,
+          "x": 0,
+          "y": 25,
+          "width": 1792,
+          "height": 1035,
           "fullscreen": false,
-          "maximized": false
+          "maximized": true
         }
       }
     }

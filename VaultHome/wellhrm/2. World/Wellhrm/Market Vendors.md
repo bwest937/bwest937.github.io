@@ -1,11 +1,9 @@
-# Leather Armourer
+# Misc
 
-| Item                     | Cost  | Slots | Notes                |
-| ------------------------ | ----- | ----- | -------------------- |
-| Helmet                   | 15gp  | 1     | ????                 |
-| 1 slot [[Oilskin Pouch]] | 100gp | 1/3   | as many as they want |
-| saddle bags              | 10gp  | 1     |                      |
-| saddle                   | 10gp  | 1     |                      |
+| Item                                                                                     | Cost | Slots  | Notes             |
+| ---------------------------------------------------------------------------------------- | ---- | ------ | ----------------- |
+| A cedar chest reinforced with iron and topped with a sturdy lock. It has a false bottom. | 25gp | 2 (B1) | Who has the key.. | 
+
 
 # Potions
 
@@ -21,11 +19,15 @@ An apothecary, he carries similar wares to so-and-so in town. however he does cl
 # Outfitters
 One of the vendors the local outfitter buys from
 
-| Item                               | Cost | Slots | Stock | Notes |
-| ---------------------------------- | ---- | ----- | ----- | ----- |
-| dynamic rope                       | ?    | 1     | 1     | 50ft  |
-| caving candles                     |      |       |       |       |
-| hearing horn, other lowlife stuff? |      |       |       |       |
+| Item                               | Cost  | Slots | Stock                | Notes |
+| ---------------------------------- | ----- | ----- | -------------------- | ----- |
+| dynamic rope                       | ?     | 1     | 1                    | 50ft  |
+| caving candles                     |       |       |                      |       |
+| hearing horn, other lowlife stuff? |       |       |                      |       |
+| Helmet                             | 15gp  | 1     | ????                 |       |
+| 1 slot [[Oilskin Pouch]]           | 100gp | 1/3   | as many as they want |       |
+| saddle bags                        | 10gp  | 1     |                      |       |
+| saddle                             | 10gp  | 1     |                      |       |
 
 most other basic armor or arms
 

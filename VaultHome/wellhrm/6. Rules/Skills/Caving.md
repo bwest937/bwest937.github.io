@@ -19,14 +19,14 @@ Characters are assumed to be moving at half exploration speed (120 ft/turn) when
 
 #### Passage Size
 
-**Grave:** A passage about 5 ft wide at its narrowest. No caving roll is required, but only one character can traverse at a time. 
+**Grave:** A passage about 5 ft wide at its narrowest. No caving roll is required, but only one character can traverse at a time. With the exception of spears, two-handed melee weapons can't be used effectively here (treat as club 1d4 w/ disadvantage). 
 
 **Crawl:** A passage about 2–3 feet wide at its narrowest. You have to get down on your hands and knees and crawl forward. Your knees and palms are going to be quite filthy.
 
-**Squeeze:** A passage about 1–2 feet wide at its narrowest. You must lie on your belly (or back) and slither forward like a snake. You’ll feel every inch of the tunnel, mostly through your shoulders and thighs.
+**Squeeze:** A passage about 1–2 feet wide at its narrowest and can't be traversed wearing armor. You must lie on your belly (or back) and slither forward like a snake. You’ll feel every inch of the tunnel, mostly through your shoulders and thighs.
 
 #### Caving Roll
-Choose a pace, and up your modifiers. If you are at 6 or more, you automatically succeed. Otherwise, roll 1d6 + DEX and compare to the table below.
+Choose a pace and add up your modifiers. If you are at 6 or more, you automatically succeed. Otherwise, roll 1d6 + DEX and compare to the table below. If the passage is longer than the pace distance or you stop to do stuff, there might be more than one caving roll.
 
 ##### Chance of Success
 
