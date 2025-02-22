@@ -15,7 +15,6 @@ Dragon Tooth This is a large intact dragon tooth. You can remove 2d8 of them fro
     - snake guardian things
     - https://www.youtube.com/watch?v=DNl7T42FkLA : cult video
 - know what did thief did
-    - maybe make the knight guy a kam warrior (4hd splits into 2hd, splits in 1hd)
   
 glue crypts of kardak to the iron god for level 2, or a sublevel, or something
 Wormkin can be the crimson ghoul 

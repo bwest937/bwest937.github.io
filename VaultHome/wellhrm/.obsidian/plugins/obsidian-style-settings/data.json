@@ -37,5 +37,7 @@
   "supercharged-links@@c-08ed-7d3d-use-background": false,
   "supercharged-links@@08ed-7d3d-background-color": "#888888",
   "supercharged-links@@bf01-ea4c-before": "👤",
-  "supercharged-links@@c-bf01-ea4c-use-background": true
+  "supercharged-links@@c-bf01-ea4c-use-background": false,
+  "supercharged-links@@bf01-ea4c-background-color": "#8DE3C6",
+  "supercharged-links@@bf01-ea4c-color": "#85D2E1"
 }
