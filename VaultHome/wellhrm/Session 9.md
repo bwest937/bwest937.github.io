@@ -17,4 +17,3 @@
 ## Reminders
 - you have a key
 - quin will trade an item id for a skull
-- 

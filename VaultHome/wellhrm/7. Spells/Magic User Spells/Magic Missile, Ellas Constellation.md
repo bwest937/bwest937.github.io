@@ -4,7 +4,7 @@ dg-publish: "true"
 spell_class: "[[Magic User]]"
 ---
 
-#### Ella's Constellation (Magic Missile Variant)
+#### Magic Missile, Ellas Constellation
 
 **Class:** [[Magic User]]
 **Spell Level:** Magic-User, 1st Level  

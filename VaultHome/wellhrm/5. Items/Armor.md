@@ -8,15 +8,15 @@ Armor comes in lots of different shapes and materials, but in game terms it is c
 
 ##### Armor Categories
 
-| Armor Category | AC  | Movement |  Cost  | Slots | Notes                              |
-| -------------- |:---:|:--------:|:------:|:-----:| ---------------------------------- |
-| Leather        | +2  |    12    | 20 gp  |   1   |                                    |
-| Breastplate    | +3  |    9     | 60 gp  |   1   |                                    |
-| Chain mail     | +4  |    6     | 75 gp  |   2   |                                    |
-| Brigandine     | +5  |    6     | 100 gp |   2   |                                    |
-| Plate          | +6  |    6     | 300 gp |   4   | -1 Surprise                        |
-| Shield         | +1  |    NA    | 15 gp  |   1   | Can be splintered to take one hit  |
-| Helmet         | NA  |    NA    | 15 gp  |   1   | -1d6 when [[Falling]], -1 Surprise |
+| Armor Category | AC  | Movement |  Cost  | Slots | Notes                                                   |
+| -------------- |:---:|:--------:|:------:|:-----:| ------------------------------------------------------- |
+| Leather        | +2  |    12    | 20 gp  |   1   |                                                         |
+| Breastplate    | +3  |    9     | 60 gp  |   1   |                                                         |
+| Chain mail     | +4  |    6     | 75 gp  |   2   |                                                         |
+| Brigandine     | +5  |    6     | 100 gp |   2   |                                                         |
+| Plate          | +6  |    6     | 300 gp |   4   | -1 Surprise                                             |
+| Shield         | +1  |    NA    | 15 gp  |   1   | Can be splintered to take one hit                       |
+| Helmet         | NA  |    NA    | 15 gp  |   1   | -1d6 when [[Falling]], block 1 critial hit, -1 Surprise | 
 
   
   

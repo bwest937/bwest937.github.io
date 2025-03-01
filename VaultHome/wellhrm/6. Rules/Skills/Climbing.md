@@ -50,14 +50,16 @@ Choose a pace, and up your modifiers. If you are at 6 or more, you automatically
 - The ascent is wet, icy, smooth, or otherwise difficult to get a grip on.
 
 ### Failure
-If you fail your climbing roll, make a STR Save. If you fail, roll on this table for the consequences:
+If you fail your climbing roll, make a STR Save. If you make the save, roll a d4 on the table below. If you fail roll a d6.
 
-
-| Roll | Consequence                                                                                                     |
-| ---- | --------------------------------------------------------------------------------------------------------------- |
-| 1    | You slip! If on a slope or have rope, slide down 1d6 × 10’. If not, [[Falling\|Fall!]] |
-| 2    | A randomly determined piece of gear slips loose.                                                                |
-| 3    | A chunk of material breaks loose: 1d4 others under you suffer 1d4 damage.                                       | 
-| 4    | [[Falling\|Fall!]]                                                                                              |
+##### Table CL2: Climbing Consequences
+| Roll | Consequence                                                                       |
+| :----: | --------------------------------------------------------------------------------- |
+| 1    | Drop anything in your hands                                                       |
+| 2    | A randomly determined piece of gear slips loose. (roll 2d6 for slot number)       |
+| 3    | A randomly determined piece of gear slips loose. (roll 2d6 for slot number)       | 
+| 4    | A chunk of material breaks loose: 1d4 others under you suffer 1d4 damage.         |
+| 5    | You slip! If on a slope or rope, slide down 1d6 × 10’. If not, [[Falling\|Fall!]] |
+| 6    | [[Falling\|Fall!]]                                                                |
 
 

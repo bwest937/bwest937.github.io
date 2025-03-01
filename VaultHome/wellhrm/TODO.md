@@ -7,6 +7,8 @@ Dragon Scale This is a large intact dragon scale. You can remove 3d6 of them fro
 
 Dragon Tooth This is a large intact dragon tooth. You can remove 2d8 of them from each corpse. You can wield one as an improvised dagger that deals 2d6+2 damage per hit. However, it h
 
+## Fogel Shack
+put Candlehelm here if its not already
 
 ## Temple
 - finish off l1 topology

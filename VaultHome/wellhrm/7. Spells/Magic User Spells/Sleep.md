@@ -1,7 +1,5 @@
 ---
 spell_level: 1
-tags:
-  - "#mu_basic"
 dg-publish: "true"
 spell_class: "[[Magic User]]"
 ---
@@ -12,7 +10,7 @@ spell_class: "[[Magic User]]"
 **Spell Level:** `=this.spell_level` 
 **Range:** 240ft
 **Duration:**  1 hr
-**Tags:** `=this.tags`
+**Tags:** #mu_basic 
 
 This spell puts creatures around a targeted point into an enchanted slumber (no saving throw permitted). Causes creatures (except undead) to fall into a magical slumber. It affects creatures based on their hit dice, weakest creatures first.
 

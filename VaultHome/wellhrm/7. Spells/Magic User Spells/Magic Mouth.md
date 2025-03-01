@@ -9,7 +9,7 @@ spell_class: "[[Magic User]]"
 **Spell Level:** `=this.spell_level`  
 **Range:**  Touch
 **Duration:**  Permanent until triggered or dispelled
-**Tags:** 
+**Tags:** #mu_basic 
 
 This enchantment is set upon an object, and the magic is triggered when certain conditions established by the caster are met. When that happens, a mouth appears on the object and speaks the message it has been commanded to speak. The message may be up to 30 words long
 
