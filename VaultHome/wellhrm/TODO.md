@@ -1,5 +1,5 @@
 ## Hexes
-- ingest ambition and avarice, especially the monster parts
+- put peacock point/skitterlord back in a2?
 - - uh.. finish them lulz
 
 ### ingest this
