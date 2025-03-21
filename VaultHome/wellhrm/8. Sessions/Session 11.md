@@ -20,6 +20,7 @@ I know it was Mason, so I think it was all about Barnaby's archery.
 ### Be Aware
 - Undermill back entrance is now complete, the Darkfolk are available for crafting or whatever else. 
 - Crystal Lantern ready tomorrow
+- Barnaby has a sidearm
 
 ### Next Up
 Verify whether they had the mule and cart, I believe not. Either way they had time to heal up after fight if they want.

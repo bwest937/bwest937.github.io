@@ -24,8 +24,7 @@ cssClasses: wideTable
 | Bow                     | Arrow 1d6             | Missile (60ft)                                | 2   |  15 gp |   1   |
 | Crossbow                | Bolt 1d4+1            | Missile (60ft), Reload                        | 1/2 |  30 gp |   1   |
 | Heavy Crossbow          | Heavy Bolt 1d10       | Missile (80ft), Reload                        | 1/3 |  50 gp |   2   |
-| Hand Crossbow           | Light Bolt 1d3        | Missile (20ft)                                | 1   | 150 gp |  1/2  |
-| Sling                   | 1d4 bullet, 1d3 stone | Missile (40ft), Blunt                         | 1   |   1 gp |  1/2  |
+| Sling                   | 1d4 bullet, 1d2 stone | Missile (40ft), Blunt                         | 1   |   1 gp |  1/2  |
 | Dart                    | 1d3                   | Missile (40ft)                                | 3   |   1 gp |  1/6  |
 | **Special Weapons**     |                       |                                               |     |        |       |
 | Net                     | None                  | Missile (15ft), Entangle                      | 1   |  20 gp |   1   |
@@ -37,7 +36,6 @@ cssClasses: wideTable
 | Arrows x20     | 1d6    | 2 gp  |   1   |
 | Bolt x20       | 1d4+1  | 2 gp  |   1   |
 | Heavy Bolt x10 | 1d10   | 5 gp  |   1   |
-| Light Bolt x20 | 1d3    | 2 gp  |   1   |
 | Bullet x20     | 1d4    | 1 gp  |   1   |
 ## Weapon Qualities
 
