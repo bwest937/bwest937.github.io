@@ -12,7 +12,7 @@ Encountered: 1d10 or 1d10x10
 Lair: 20
 CL: 3
 XP: 60
-Bits: "skins are worth.. 2d6 ea. the gloomtouched ones are magical, provide surprise if made into armor"
+Bits: "skins are worth 12gp ea. The gloomtouched skins retain their camo properties, and provide +1 surprise if made into armor"
 ---
 ![[Trog_Claw.png]]
 ![[Trog_Shield.png]]
@@ -53,9 +53,6 @@ CL: `=this.cl`
 XP: `=this.xp`
 
 #### Source
-
-Into The Weird And Wild
-[Link Text](obsidian://open?vault=swords_and_wizardry_ref&file=dirname%2F) p162
 
 
 

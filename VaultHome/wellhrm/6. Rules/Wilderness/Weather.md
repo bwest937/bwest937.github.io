@@ -9,7 +9,7 @@ Inclement weather may have effects not listed here that follow naturally from th
 
 **Fog:** Distance vision is hampered, navigating by landmarks is difficult. Encounter distance halved.
 **Light Rain:** Easier to slip when climbing (-1 to rolls).
-**High Winds:** Missile attacks are more difficult (-1 to attack rolls). Extinguishes fires. Drives away fog or smoke. Flight is hampered.
+**High Winds:** Missile attacks are more difficult (-2 to attack rolls). Extinguishes fires. Drives away fog or smoke. Flight is hampered.
 
 ### Dangerous Weather
 

@@ -7,8 +7,8 @@ Save: 16
 Move: 18
 Morale: 10
 Special: 
-Alignment: neutrality 
-Encountered: Scouts 1d4+1, or Hive 1d100
+Alignment: Neutral 
+Encountered: 1d4+1, or Hive 1d100
 Lair: 10
 CL: 2
 XP: 30

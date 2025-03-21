@@ -1,3 +1,6 @@
+---
+dg-publlish: "true"
+---
 
 # Session 8 Recap
 

@@ -1,6 +1,6 @@
 ## Hexes
 - put peacock point/skitterlord back in a2?
-- - uh.. finish them lulz
+- uh.. finish them lulz
 
 ### ingest this
 Dragon Scale This is a large intact dragon scale. You can remove 3d6 of them from each corpse. Eight intact plates can be fashioned into a set of plate armor. It is not considered a magical armor, but grants a +10 AC bonus and imposes a -5 stealth test. The user must have a strength of 15 or higher. It costs about 2,000 gp to commission a blacksmith to create this armor for you. 

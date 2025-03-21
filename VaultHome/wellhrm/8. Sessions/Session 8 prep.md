@@ -1,3 +1,4 @@
+
 ## patch notes
 - subdual damage rule now per S&W duh (50% dmg real, 50% subdual)
 - mention other classes. totally not needed but i have class brain, so im thinking about these, but if any one is feeling some gaps lmk

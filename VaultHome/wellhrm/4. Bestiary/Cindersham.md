@@ -36,7 +36,7 @@ ___
 
 **THEY ARE NOCTURNAL HUNTERS, ANGLERS OF THOSE LOST IN THE DARK**
 
-The size of a **small campfire** or single torch, its light is **enticing**. The light connects to a long furred tail as a great feline creature with a wide froglike mouth. It hunches down in the shadows, the light gleaming off of its menacing eyes. . Blessed with the powers of **fire** they use their abilities to lure in the curious with their tails that emit a small steady flame. Capable of either ripping apart their prey with their vicious jaws or roasting them alive with gouts of cinders from deep in their bellies, they are a dangerous predator of the night.
+The size of a **small campfire** or single torch, its light is **enticing**. The light connects to a long furred tail as a great feline creature with a wide froglike mouth. It hunches down in the shadows, the light gleaming off of its menacing eyes. Blessed with the powers of **fire** they use their abilities to lure in the curious with their tails that emit a small steady flame. Capable of either ripping apart their prey with their vicious jaws or roasting them alive with gouts of cinders from deep in their bellies, they are a dangerous predator of the night.
 
 
 ### Notes

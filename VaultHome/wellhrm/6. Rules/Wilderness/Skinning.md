@@ -1,0 +1,1 @@
+Medium creature takes 4 turns to skin/dress/harvest. Hunters do it twice as fast.

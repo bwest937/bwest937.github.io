@@ -9,3 +9,8 @@ https://start.me/p/6y5MPb/ad-d-1e-2e-links
 
 ## GM Misc
 https://vaultsofzin.substack.com/p/gms-glossery-part-1-everything-you
+### Calling Vid
+https://www.youtube.com/watch?app=desktop&v=prijsOI3xWs
+
+## Dungeon 
+https://dungeonscrawler.blogspot.com/p/dungeon-room-index.html

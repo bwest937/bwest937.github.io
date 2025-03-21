@@ -1,3 +1,6 @@
+---
+dg-publlish: "true"
+---
 ## March 1
 ##### Wilderness Encounter Check Hours: 
  - hour 2

@@ -1,3 +1,6 @@
+---
+dg-publlish: "true"
+---
 # March 2
 **Encounter check hours:** hours 3, 4, 7
 **Bandits camped:** A4
