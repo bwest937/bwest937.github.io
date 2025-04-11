@@ -1,128 +1,140 @@
 {
+  "edges": [
+    {
+      "fromNode": "48f985f4dca13dbc",
+      "fromSide": "right",
+      "id": "a716734f7e312e61",
+      "styleAttributes": {
+      },
+      "toNode": "4044a37a57aac80a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ee74cd4d0e28828e",
+      "fromSide": "right",
+      "id": "e904191d3c7beb7b",
+      "styleAttributes": {
+      },
+      "toNode": "4044a37a57aac80a",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+  },
   "nodes": [
     {
-      "id": "f668ed162fbc5071",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -1620,
-      "y": -1300,
-      "width": 560,
-      "height": 760,
       "color": "2",
-      "label": "Combat Round"
-    },
-    {
-      "id": "ee74cd4d0e28828e",
+      "height": 760,
+      "id": "f668ed162fbc5071",
+      "label": "Combat Round",
+      "styleAttributes": {
+      },
       "type": "group",
-      "styleAttributes": {},
-      "x": -1600,
-      "y": -880,
-      "width": 340,
-      "height": 300,
+      "width": 560,
+      "x": -1620,
+      "y": -1300
+    },
+    {
       "color": "5",
-      "label": "Resolve In Order By Initiative"
+      "height": 300,
+      "id": "ee74cd4d0e28828e",
+      "label": "Resolve In Order By Initiative",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 340,
+      "x": -1600,
+      "y": -880
     },
     {
+      "height": 80,
       "id": "4044a37a57aac80a",
-      "type": "text",
+      "styleAttributes": {
+      },
       "text": "# Check Morale",
-      "styleAttributes": {},
-      "x": -980,
-      "y": -1020,
+      "type": "text",
       "width": 280,
-      "height": 80
+      "x": -980,
+      "y": -1020
     },
     {
+      "height": 60,
       "id": "48f985f4dca13dbc",
-      "type": "text",
+      "styleAttributes": {
+      },
       "text": "### Resolve Charges\n",
-      "styleAttributes": {},
-      "x": -1610,
-      "y": -1120,
+      "type": "text",
       "width": 250,
-      "height": 60
+      "x": -1610,
+      "y": -1120
     },
     {
+      "height": 60,
       "id": "387d9b764850217a",
-      "type": "text",
+      "styleAttributes": {
+      },
       "text": "### Roll Initiave",
-      "styleAttributes": {},
-      "x": -1610,
-      "y": -1020,
+      "type": "text",
       "width": 250,
-      "height": 60
+      "x": -1610,
+      "y": -1020
     },
     {
+      "color": "#913a98",
+      "height": 100,
       "id": "ffd566c57264534e",
-      "type": "text",
-      "text": "# Resolve Surprise\n\n",
       "styleAttributes": {
         "shape": "predefined-process"
       },
-      "x": -1610,
-      "y": -1480,
+      "text": "# Resolve Surprise\n\n",
+      "type": "text",
       "width": 340,
-      "height": 100,
-      "color": "#913a98"
-    },
-    {
-      "id": "34cabe83e31353f6",
-      "type": "text",
-      "text": "### Declare \n[[Casting A Spell]] / [[Charge]] / [[Set Defense]]",
-      "styleAttributes": {},
       "x": -1610,
-      "y": -1280,
+      "y": -1480
+    },
+    {
+      "height": 120,
+      "id": "34cabe83e31353f6",
+      "styleAttributes": {
+      },
+      "text": "### Declare \n[[Casting A Spell]] / [[Charge]] / [[Set Defense]]",
+      "type": "text",
       "width": 350,
-      "height": 120
+      "x": -1610,
+      "y": -1280
     },
     {
+      "height": 60,
       "id": "4b3180a6ba787ba7",
-      "type": "text",
+      "styleAttributes": {
+      },
       "text": "##### First Missile Volley",
-      "styleAttributes": {},
-      "x": -1580,
-      "y": -849,
+      "type": "text",
       "width": 240,
-      "height": 60
+      "x": -1580,
+      "y": -849
     },
     {
+      "height": 60,
       "id": "4046ca1131f654d0",
-      "type": "text",
+      "styleAttributes": {
+      },
       "text": "##### Actions",
-      "styleAttributes": {},
-      "x": -1580,
-      "y": -760,
-      "width": 240,
-      "height": 60
-    },
-    {
-      "id": "bab9242eaee1c62a",
       "type": "text",
-      "text": "##### Second Missile Volley",
-      "styleAttributes": {},
-      "x": -1580,
-      "y": -680,
       "width": 240,
-      "height": 60
-    }
-  ],
-  "edges": [
-    {
-      "id": "a716734f7e312e61",
-      "styleAttributes": {},
-      "fromNode": "48f985f4dca13dbc",
-      "fromSide": "right",
-      "toNode": "4044a37a57aac80a",
-      "toSide": "left"
+      "x": -1580,
+      "y": -760
     },
     {
-      "id": "e904191d3c7beb7b",
-      "styleAttributes": {},
-      "fromNode": "ee74cd4d0e28828e",
-      "fromSide": "right",
-      "toNode": "4044a37a57aac80a",
-      "toSide": "left"
+      "height": 60,
+      "id": "bab9242eaee1c62a",
+      "styleAttributes": {
+      },
+      "text": "##### Second Missile Volley",
+      "type": "text",
+      "width": 240,
+      "x": -1580,
+      "y": -680
     }
-  ],
-  "metadata": {}
+  ]
 }

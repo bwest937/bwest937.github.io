@@ -1,7 +1,6 @@
 
 
 ### silver mine
-fogel might have ben digging toawrd it, could find map in his journal
 
 also find map on zombraire's map room, maybe also a contract setting a dwarven mining co 
 

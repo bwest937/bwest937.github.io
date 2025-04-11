@@ -8,8 +8,8 @@ dg-publish: "true"
 >  **The one important rule in getting unstuck is: you cannot free yourself without a change.** Your own faculties alone won’t work—that’s why you’re stuck in the first place. That change can be friends, tools, the passage, whatever: you just can’t make a check and be free.
 >  
 > Possible means of getting unstuck include:
-> - Brute strength (30-50 points combined STR = 1d4 damage)
-> - Greasing or oiling the passageway (10-30 points combined STR = 1 damage)
+> - Brute strength (30 points combined STR = 1d4 damage)
+> - Greasing or oiling the passageway (20 points combined STR = 1 damage)
 > - Chipping away at the rock face itself
 
 
