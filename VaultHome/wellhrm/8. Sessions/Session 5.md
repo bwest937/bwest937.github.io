@@ -1,5 +1,5 @@
 ---
-dg-publlish: "true"
+dg-publish: "true"
 ---
 # March 2 - 4
 **Encounter check hours:** hours 3, 4, 7

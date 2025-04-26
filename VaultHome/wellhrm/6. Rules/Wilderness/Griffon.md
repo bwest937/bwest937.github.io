@@ -1,4 +1,4 @@
-On Griffon-having hexes, roll 1d30
+On Griffon-having hexes, roll 1d30 **+5**
 
 | d30   | Griffon Location                   |
 | ----- | -------------------------- |

@@ -1,11 +1,20 @@
+# before next
+
+
+
+# other
+
 ## Hexes
 - put peacock point/skitterlord back in a2?
 - uh.. finish them lulz
 
-### ingest this
+### Decide on Dragon bits
 Dragon Scale This is a large intact dragon scale. You can remove 3d6 of them from each corpse. Eight intact plates can be fashioned into a set of plate armor. It is not considered a magical armor, but grants a +10 AC bonus and imposes a -5 stealth test. The user must have a strength of 15 or higher. It costs about 2,000 gp to commission a blacksmith to create this armor for you. 
 
 Dragon Tooth This is a large intact dragon tooth. You can remove 2d8 of them from each corpse. You can wield one as an improvised dagger that deals 2d6+2 damage per hit. However, it h
+
+## Standing
+move standing table text to the NPC, but deed log remains useful
 
 ## Temple
 - finish off l1 topology
@@ -19,20 +28,15 @@ glue crypts of kardak to the iron god for level 2, or a sublevel, or something
 Wormkin can be the crimson ghoul 
 
 ## Items 
-
-- Some sages keep a **Two-Tailed Coin** in their money boxes. Their killers are ill-fated, for those who carry the coin, easily overlooked in a purse, see beautiful lights and light-tempered beauties in the depths of every body of water. They must save or be tempted down into the warm embrace of the depths, getting +1 for each reason they provide for why they must pass by. They can never repeat reasons, even on later saves.
+- [ ] Fancy arrows fom d12 9 is a good vendor or thing a hunter can do
 
 ## [[Banditos]]
-might rotate to other campsites, city of barakus has the greentree bandit info and helps
+about to move to skitterlord 
+city of barakus has the greentree bandit info and helps
 
 ## maps etc
 - update region map (gemstone mountains? branchfolk?, other settlements?)
 
-## dragon cave
-barakus area Q goes right in there i think!
-
-## Sometime
-- [ ] Fancy arrows fom d12 9 is a good vendor or thing a hunter can do
 
 ## Rules suggestions
 

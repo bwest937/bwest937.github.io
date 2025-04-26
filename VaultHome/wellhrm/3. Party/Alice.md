@@ -1,5 +1,5 @@
 ---
-race: ???
+race: [[Halfling]]
 class: Thiefer
 level: 2
 ---
@@ -12,6 +12,7 @@ level: 2
 
 ## Feats
 - LIBERATED crystal skulls after climbing pillars in the [[Undermill]]
+- AVOIDED traps at the coot shack
 
 ## Facts
 

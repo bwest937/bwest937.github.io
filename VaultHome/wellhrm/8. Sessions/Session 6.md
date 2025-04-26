@@ -1,5 +1,5 @@
 ---
-dg-publlish: "true"
+dg-publish: "true"
 ---
 # March 4
 

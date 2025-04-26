@@ -1,5 +1,5 @@
 ---
-dg-publlish: "true"
+dg-publish: "true"
 ---
 
 # Session 11 Recap
@@ -23,7 +23,7 @@ I know it was Mason, so I think it was all about Barnaby's archery.
 - Barnaby has a sidearm (minor patch notes)
 
 ### Next Up
-Verify whether they had the mule and cart, I believe not. Either way they had time to heal up after fight if they want.
+Shack stuff
 
 
 

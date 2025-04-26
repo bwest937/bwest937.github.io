@@ -34,10 +34,18 @@
           "maximized": false
         },
         "CHTRMAC12V6MD6M": {
-          "x": 135,
-          "y": 508,
+          "x": 128,
+          "y": 165,
           "width": 1792,
           "height": 1035,
+          "fullscreen": false,
+          "maximized": false
+        },
+        "CHTRMAC4Y4DJ0": {
+          "x": 448,
+          "y": 112,
+          "width": 1024,
+          "height": 800,
           "fullscreen": false,
           "maximized": false
         }
