@@ -39,7 +39,6 @@ ___
 3ft long, burrowing beetles sometimes encountered below ground.
 
 ### Abilities
-**Oil Spray:** Targets one opponent within 20’. A hit causes painful blistering: -2 to attack rolls for 24 hours. Magical healing fixes.
 
 
 ### Social

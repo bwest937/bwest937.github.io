@@ -20,6 +20,14 @@
           "height": 800,
           "fullscreen": false,
           "maximized": false
+        },
+        "CHTRMAC4Y4DJ0": {
+          "x": 448,
+          "y": 112,
+          "width": 1024,
+          "height": 800,
+          "fullscreen": false,
+          "maximized": false
         }
       }
     },
@@ -42,8 +50,8 @@
           "maximized": false
         },
         "CHTRMAC4Y4DJ0": {
-          "x": 448,
-          "y": 112,
+          "x": 832,
+          "y": 307,
           "width": 1024,
           "height": 800,
           "fullscreen": false,

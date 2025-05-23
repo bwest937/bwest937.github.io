@@ -1,107 +1,120 @@
 {
-	"edges":[],
-	"metadata":{},
-	"nodes":[
-		{
-			"height":60,
-			"id":"a469f89175f735a3",
-			"styleAttributes":{},
-			"text":"## 8",
-			"type":"text",
-			"width":60,
-			"x":-360,
-			"y":-280
-		},
-		{
-			"height":60,
-			"id":"813c4f08a0e91a9b",
-			"styleAttributes":{},
-			"text":"## 7",
-			"type":"text",
-			"width":60,
-			"x":-300,
-			"y":-280
-		},
-		{
-			"height":60,
-			"id":"c7a0dd5b7448358f",
-			"styleAttributes":{},
-			"text":"## 6",
-			"type":"text",
-			"width":60,
-			"x":-420,
-			"y":-280
-		},
-		{
-			"height":60,
-			"id":"075e79cab17fda4d",
-			"styleAttributes":{},
-			"text":"## 4",
-			"type":"text",
-			"width":60,
-			"x":-420,
-			"y":-220
-		},
-		{
-			"height":60,
-			"id":"e19355eca7f30148",
-			"styleAttributes":{},
-			"text":"## 0",
-			"type":"text",
-			"width":60,
-			"x":-360,
-			"y":-220
-		},
-		{
-			"height":60,
-			"id":"dc8af33639900f83",
-			"styleAttributes":{},
-			"text":"## 5",
-			"type":"text",
-			"width":60,
-			"x":-300,
-			"y":-220
-		},
-		{
-			"height":60,
-			"id":"fb5a5b040d089ee4",
-			"styleAttributes":{},
-			"text":"## 3",
-			"type":"text",
-			"width":60,
-			"x":-300,
-			"y":-160
-		},
-		{
-			"height":60,
-			"id":"526bf4be8fb42086",
-			"styleAttributes":{},
-			"text":"## 1",
-			"type":"text",
-			"width":60,
-			"x":-360,
-			"y":-160
-		},
-		{
-			"height":60,
-			"id":"3c29b296438b83bd",
-			"styleAttributes":{},
-			"text":"## 2",
-			"type":"text",
-			"width":60,
-			"x":-420,
-			"y":-160
-		},
-		{
-			"color":"5",
-			"height":60,
-			"id":"427b5f3716d81f4f",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"Roll D10 to determine what direction the thing went\n9 = roll again",
-			"type":"text",
-			"width":410,
-			"x":-535,
-			"y":-80
-		}
-	]
+  "edges": [
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 60,
+      "id": "a469f89175f735a3",
+      "styleAttributes": {
+      },
+      "text": "## 8",
+      "type": "text",
+      "width": 60,
+      "x": -360,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "813c4f08a0e91a9b",
+      "styleAttributes": {
+      },
+      "text": "## 7",
+      "type": "text",
+      "width": 60,
+      "x": -300,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "c7a0dd5b7448358f",
+      "styleAttributes": {
+      },
+      "text": "## 6",
+      "type": "text",
+      "width": 60,
+      "x": -420,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "075e79cab17fda4d",
+      "styleAttributes": {
+      },
+      "text": "## 4",
+      "type": "text",
+      "width": 60,
+      "x": -420,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "e19355eca7f30148",
+      "styleAttributes": {
+      },
+      "text": "## 0",
+      "type": "text",
+      "width": 60,
+      "x": -360,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "dc8af33639900f83",
+      "styleAttributes": {
+      },
+      "text": "## 5",
+      "type": "text",
+      "width": 60,
+      "x": -300,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "fb5a5b040d089ee4",
+      "styleAttributes": {
+      },
+      "text": "## 3",
+      "type": "text",
+      "width": 60,
+      "x": -300,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "526bf4be8fb42086",
+      "styleAttributes": {
+      },
+      "text": "## 1",
+      "type": "text",
+      "width": 60,
+      "x": -360,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "3c29b296438b83bd",
+      "styleAttributes": {
+      },
+      "text": "## 2",
+      "type": "text",
+      "width": 60,
+      "x": -420,
+      "y": -160
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "427b5f3716d81f4f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roll D8 to determine what direction the thing went\n9 = roll again",
+      "type": "text",
+      "width": 410,
+      "x": -535,
+      "y": -80
+    }
+  ]
 }

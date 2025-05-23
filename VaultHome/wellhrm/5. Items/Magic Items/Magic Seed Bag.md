@@ -2,10 +2,10 @@
 slots: 1
 ---
 > [!info]  `=this.file.name`
-> A small bag with 2d6 magic seeds. 
+> A small bag with 7 magic seeds. 
 > 
 > **HYBRIDISING**: If 3 or more seeds are planted simultaneously they combine to form a single giant plant with lashing vines and snapping jaws that attacks anything that moves, a [[Demon Vines]] appears!
-> **PLANTING SEEDS**: If planting a single seed roll 1d10 and select the result from the table bellow. 
+> **PLANTING SEEDS**: If planting a single seed roll 1d6 and select the result from the table bellow. 
 > **REPLANTING**: Once a user has seen a particular seed grow, they may attempt to select that seed again with a 1 in 6 chance of choosing the wrong seed.
 > 
 > **Slots:** `=this.slots`

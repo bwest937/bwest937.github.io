@@ -3,8 +3,9 @@ dg-publish: "true"
 ---
 
 > [!condition] `=this.file.name`
-> - STR is halved
+>  When a character has one or more slots of System Shock they suffer the following penalties:
+> - No STR bonus
 > - Always fail surprise rolls 
 > - Always go last in combat
 >   
-> **Duration:** 2d4 - CON bonus - (healing spell [MD] or potions, cast/taken *at full health*) days, minimum 1 day
+> **Removing:** A good rest removes one slot. Each instance of magical healing (potions, spells, etc.) removes one slot.

@@ -1,7 +1,4 @@
----
-tags:
-  - DnD
----
+
 
 # {{ character name }}
 

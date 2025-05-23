@@ -23,7 +23,7 @@ Characters are assumed to be moving at half exploration speed (120 ft/turn) when
 
 **Crawl:** A passage about 2–3 feet wide at its narrowest. You have to get down on your hands and knees and crawl forward. Your knees and palms are going to be quite filthy.
 
-**Squeeze:** A passage about 1–2 feet wide at its narrowest and can't be traversed wearing armor. You must lie on your belly (or back) and slither forward like a snake. You’ll feel every inch of the tunnel, mostly through your shoulders and thighs.
+**Squeeze:** A passage about 1–2 feet wide at its narrowest. You must lie on your belly (or back) and slither forward like a snake or shimmy sideways. You’ll feel every inch of the tunnel, mostly through your shoulders and thighs. No packs!
 
 #### Caving Roll
 Choose a pace and add up your modifiers. If you are at 6 or more, you automatically succeed. Otherwise, roll 1d6 + DEX and compare to the table below. If the passage is longer than the pace distance or you stop to do stuff, there might be more than one caving roll.
@@ -39,7 +39,7 @@ Choose a pace and add up your modifiers. If you are at 6 or more, you automatica
 
 - You have a rope-line or handholds through the passage.
 - You are being actively helped by someone else. This can stack if multiple people help you.
-- You are small ([[Ancestry#Dwarves|Dwarves]], [[Ancestry#Elves|Elves]])
+- You are small ([[Halflings]])
 
 #### SUBTRACT 1-IN-6 IF:
 
