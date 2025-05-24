@@ -53,3 +53,32 @@ Need templates, +  maybe some quasi-classes
 vows? ties into guilds?
     - weapon restriction like clerics gets you.. what?
     - imply alignment. paladins wont truck with evil, period
+
+
+
+Merc (any)
+-50% discount on mercenaries
+- upkeep something
+
+Thief (any class, no lawful)
+- +1 level thief skills
+- better rumours/intel
+- upkeep something
+- occassional missions
+
+Bardic order (any)
+- orate skill
+- missions
+
+Magician guild (MU, either, alignment any)
+- v high upkeep
+- cant access higher spells in town without it
+
+
+Divine Power (MU, either)
+give-
+- Alignment must match
+    - learning/casting contraindicated spells or generally acting out of line means taking burden and needing to spend time repenting/meditating/whatever to clear. 
+- upkeep something
+get-
+- 25% discount on clerical services if lawful
