@@ -28,6 +28,22 @@ Friendly Neutral
 
 **Offers:**
 
+major: People/Humans/Demihumans
+Examples:
+- Art & Music 4-5 
+- Biology 6-7 
+- History 8-10 
+- Languages 11 
+- Legends & Folklore 12
+- Law & Customs 13 
+- Philosophy & Ethics 14-15 
+- Politics & Genealogy 16 
+- Psychology 17 
+- Sociology 18-20 
+- Theology, Religion, and Myth
+
+minor: Fauna
+
 | Question Level | Major              | Minor                | Other              |
 | -------------- | ------------------ | -------------------- | ------------------ | 
 | Yes/No         | instant-tip        | instant-90%-tip      | 1d4 hours-60%-50gp |

@@ -12,7 +12,7 @@ Encountered: 1d8 (3d4 Lair)
 Lair: 
 CL: 1
 XP: 15
-Bits:
+Bits: Fire Glands
 ---
 
 ___
@@ -36,7 +36,7 @@ ___
 
 ### Description
 
-3ft long, burrowing beetles sometimes encountered below ground.
+3ft long, burrowing beetles sometimes encountered below ground.  A giant fire beetle’s oily light-glands glow a reddish color. If they are removed, they continue to give off light for 1d6 days, shedding light in a 10-foot radius. They are novelties, can be sold for 10gp each
 
 ### Abilities
 
